@@ -22,4 +22,4 @@ submission, and an open PR is not a merge.
 
 | Notebook / dataset | Question | Technique | Result | Status |
 |---|---|---|---|---|
-| _planned_ | | | | |
+| [dev-pay-2025](../kaggle/dev-pay-2025) | Do daily AI users earn less? | Within-country percentiles, OLS ladder with country FE + robust SE, LightGBM CV ablation, bootstrap CIs | Raw −22% reverses to +6.8% after controls (Simpson's paradox); AI adds little predictive power | Executed locally; Kaggle publish blocked ("no access"), needs user to upload or fix token |

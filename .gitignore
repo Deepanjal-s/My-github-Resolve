@@ -12,3 +12,5 @@ kaggle/**/input/
 *.zip
 .env
 .venv/
+kaggle/**/_preview/
+kaggle/**/publish/*.ipynb

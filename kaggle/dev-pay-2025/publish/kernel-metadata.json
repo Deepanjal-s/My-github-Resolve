@@ -1,0 +1,14 @@
+{
+  "id": "deepanjalshukla95/the-ai-pay-penalty-that-isnt",
+  "title": "The AI Pay Penalty That Isnt",
+  "code_file": "dev-pay-2025.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": ["aliaslam25/stack-overflow-developer-survey-2025"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "keywords": ["survey analysis", "regression", "artificial intelligence", "india"]
+}
