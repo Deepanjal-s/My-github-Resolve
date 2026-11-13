@@ -11,3 +11,4 @@ kaggle/**/data/
 kaggle/**/input/
 *.zip
 .env
+.venv/

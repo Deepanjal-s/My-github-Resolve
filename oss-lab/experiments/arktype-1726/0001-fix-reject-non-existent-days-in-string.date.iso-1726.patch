@@ -1,0 +1,105 @@
+From d19fa7571d96f3b169abcf2f91133b1f4b506223 Mon Sep 17 00:00:00 2001
+From: Deepanjal-s <Deepanjal-s@users.noreply.github.com>
+Date: Sat, 14 Nov 2026 04:25:15 +0530
+Subject: [PATCH] fix: reject non-existent days in string.date.iso (#1726)
+
+The ISO 8601 matcher only bounded the day to 01-31, so "2024-06-31"
+passed and string.date.iso.parse rolled it into the next month via
+new Date().
+
+Encode the per-month day limits and the Gregorian leap-year rule in the
+regex itself instead of adding a predicate, so toJsonSchema() keeps
+emitting a plain `pattern` and does not start throwing. The number of
+capture groups is unchanged, so the existing \3 and \17 backreferences
+still line up.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+---
+ ark/type/__tests__/keywords/date.test.ts | 47 ++++++++++++++++++++++++
+ ark/type/keywords/string.ts              | 11 +++++-
+ 2 files changed, 56 insertions(+), 2 deletions(-)
+
+diff --git a/ark/type/__tests__/keywords/date.test.ts b/ark/type/__tests__/keywords/date.test.ts
+index 41844e6cd..879feb6a5 100644
+--- a/ark/type/__tests__/keywords/date.test.ts
++++ b/ark/type/__tests__/keywords/date.test.ts
+@@ -33,6 +33,53 @@ contextualize(() => {
+ 		)
+ 	})
+ 
++	it("string.date.iso rejects days that don't exist in the month", () => {
++		const IsoDate = type("string.date.iso")
++		attest(IsoDate("2024-06-31").toString()).snap(
++			'must be an ISO 8601 (YYYY-MM-DDTHH:mm:ss.sssZ) date (was "2024-06-31")'
++		)
++		for (const s of [
++			"2024-04-31",
++			"2024-09-31T10:00:00Z",
++			"20241131",
++			"2023-02-29",
++			"2024-02-30",
++			"1900-02-29",
++			"2100-02-29T00:00:00.000Z"
++		])
++			attest(IsoDate.allows(s)).equals(false)
++
++		for (const s of [
++			"2024-02-29",
++			"2000-02-29T12:00:00Z",
++			"20240229",
++			"2023-02-28",
++			"2024-01-31",
++			"2024-04-30",
++			"2024-12-31T23:59:59.999Z",
++			// month-only, week and ordinal forms are unaffected
++			"2023-02",
++			"2023-W09-3",
++			"2023-060"
++		])
++			attest(IsoDate.allows(s)).equals(true)
++	})
++
++	it("string.date.iso.parse doesn't roll invalid days into the next month", () => {
++		const parseIso = type("string.date.iso.parse")
++		attest(parseIso("2023-02-29").toString()).snap(
++			'must be an ISO 8601 (YYYY-MM-DDTHH:mm:ss.sssZ) date (was "2023-02-29")'
++		)
++		attest(parseIso.assert("2024-02-29").toISOString()).equals(
++			"2024-02-29T00:00:00.000Z"
++		)
++	})
++
++	it("string.date.iso still converts to JSON Schema", () => {
++		const schema = type("string.date.iso").toJsonSchema()
++		attest(schema).satisfies({ type: "'string'", pattern: "string" })
++	})
++
+ 	it("string.date.epoch.parse", () => {
+ 		const parseEpoch = type("string.date.epoch.parse")
+ 		const toIso = (s: string) => parseEpoch.assert(s).toISOString()
+diff --git a/ark/type/keywords/string.ts b/ark/type/keywords/string.ts
+index d9dc2ac58..378835173 100644
+--- a/ark/type/keywords/string.ts
++++ b/ark/type/keywords/string.ts
+@@ -213,9 +213,16 @@ export type DateOptions = {
+ 
+ // ISO 8601 date/time modernized from https://github.com/validatorjs/validator.js/blob/master/src/lib/isISO8601.js
+ // Based on https://tc39.es/ecma262/#sec-date-time-string-format, the T
+-// delimiter for date/time is mandatory. Regex from validator.js strict matcher:
++// delimiter for date/time is mandatory. Regex from validator.js strict matcher,
++// extended so that calendar dates must exist (like validator.js's strict mode):
++// - the leading lookahead rejects YYYY-02-29 unless YYYY is a leap year
++//   (divisible by 4 and not by 100, or divisible by 400)
++// - the month alternation allows days 01-31, 01-30 or 01-29 per month
++// It stays a single regex (no predicate) so toJsonSchema can emit it as a
++// `pattern`. The number of capture groups is unchanged, so the \3 (date
++// separator) and \17 (time separator) backreferences still line up.
+ export const iso8601Matcher =
+-	/^([+-]?\d{4}(?!\d{2}\b))((-?)((0[1-9]|1[0-2])(\3([12]\d|0[1-9]|3[01]))?|W([0-4]\d|5[0-3])(-?[1-7])?|(00[1-9]|0[1-9]\d|[12]\d{2}|3([0-5]\d|6[1-6])))(T((([01]\d|2[0-3])((:?)[0-5]\d)?|24:?00)([,.]\d+(?!:))?)?(\17[0-5]\d([,.]\d+)?)?([Zz]|([+-])([01]\d|2[0-3]):?([0-5]\d)?)?)?)?$/
++	/^(?![+-]?(?!(?:\d\d(?:0[48]|[2468][048]|[13579][26])|(?:[02468][048]|[13579][26])00))\d{4}-?02-?29)([+-]?\d{4}(?!\d{2}\b))((-?)((?=(0[1-9]|1[0-2]))(?:(?:0[13578]|1[02])(\3(?:0[1-9]|[12]\d|3[01]))?|(?:0[469]|11)(?:\3(?:0[1-9]|[12]\d|30))?|02(?:\3(0[1-9]|1\d|2\d))?)|W([0-4]\d|5[0-3])(-?[1-7])?|(00[1-9]|0[1-9]\d|[12]\d{2}|3([0-5]\d|6[1-6])))(T((([01]\d|2[0-3])((:?)[0-5]\d)?|24:?00)([,.]\d+(?!:))?)?(\17[0-5]\d([,.]\d+)?)?([Zz]|([+-])([01]\d|2[0-3]):?([0-5]\d)?)?)?)?$/
+ 
+ type ParsedDayParts = {
+ 	y?: string
+-- 
+2.55.0.windows.5
+
