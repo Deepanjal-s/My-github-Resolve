@@ -1,0 +1,13 @@
+# Cloned repositories live here locally; link to them instead of vendoring.
+own-repos/
+upstream/
+# Write-ups describing unpatched vulnerabilities or needing the owner's action.
+oss-lab/_pending/
+ACTION-ITEMS.local.md
+node_modules/
+__pycache__/
+.ipynb_checkpoints/
+kaggle/**/data/
+kaggle/**/input/
+*.zip
+.env
