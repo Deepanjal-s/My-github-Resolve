@@ -28,6 +28,12 @@ It needs no API calls, so the whole study is free, fast and fully reproducible.
 | **Recent + random** | Same split, but the archive half is filled at random. This **control** separates "retrieval helps" from "having more budget helps" |
 
 *Data: LongMemEval (Wu et al., 2024, MIT license), dev split via the Kaggle dataset `bonepyaesone/longmemeval-dev-json`.*
+
+> **Correction (version 2):** version 1 used a simplified flush model that emptied the whole history on each flush.
+> The flush strategy is now a line-by-line port of llama_index's `Memory` queue logic, verified message-for-message
+> against the real library in [memory-recall-bench](https://github.com/Deepanjal-s/memory-recall-bench).
+> Flush recall changed slightly (e.g. 26% → 22% at 32k), and the average fill at `token_limit=3644` is 55% (not 46%).
+> The conclusions are unchanged.
 """)
 
 code(r"""
@@ -135,7 +141,7 @@ because it keeps the history well below the limit, as the next section shows.
 ## 4. Why flush-to-archive underperforms: the sawtooth (llama_index issue #24117)
 
 `Memory.from_defaults()` flushes 3000 tokens at a time. With `token_limit=3644` (what chat engines use for a 3,900-token
-model), the history budget is 0.7 × 3644 ≈ 2,551 tokens, *smaller than one flush*, so every flush empties almost everything.
+model), the history budget is 0.7 × 3644 ≈ 2,551 tokens, *smaller than one flush*, so every flush throws away almost everything except the latest exchange.
 Below, one conversation is replayed with the default and with a flush size scaled to 10% of the budget.
 """)
 
@@ -151,7 +157,7 @@ for (label, tr), c in zip(traces.items(), [ORANGE, BLUE]):
     ax.plot(tr[:160], color=c, lw=1.6, label=f"{label}: this conversation averages {np.mean(tr[50:])/(LIMIT*0.7):.0%} full")
 ax.axhline(LIMIT * 0.7, color=INK2, lw=1, ls="--"); ax.text(1, LIMIT * 0.7 + 60, "history budget", color=INK2, fontsize=9)
 ax.set_xlabel("Message number"); ax.set_ylabel("Tokens in active history")
-ax.set_title("Default flush size empties the history again and again")
+ax.set_title("Default flush size throws away most of the history again and again")
 ax.legend(frameon=False, fontsize=9, loc="upper center", bbox_to_anchor=(0.5, -0.22), ncol=1)
 plt.tight_layout(); plt.show()
 
@@ -226,7 +232,7 @@ and this table shows what each choice costs in recall.
 1. **Recency is not memory.** FIFO and flush policies forget anything older than the window, and that is most answers.
 2. **Retrieval over an archive is what makes old facts reachable.** A random-retrieval control with the same budget
    shows the gain comes from retrieval, not from budget.
-3. **Small configuration defaults matter:** a flush size larger than the budget leaves the model using about half its context.
+3. **Small configuration defaults matter:** a flush size larger than the history budget leaves the model using only ~55% of the history it has room for.
 """)
 
 nb = nbf.v4.new_notebook()

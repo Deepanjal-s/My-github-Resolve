@@ -58,27 +58,49 @@ def fifo(turns: list[Turn], budget: int, **_) -> set[int]:
 
 def flush_to_archive(turns: list[Turn], budget: int, flush_size: int | None = None, ratio: float = 0.7,
                      trace: list | None = None, **_) -> set[int]:
-    """llama_index-style Memory: when the active history exceeds ratio*budget, move
-    the oldest messages out until at least `flush_size` tokens were removed. With no
-    memory blocks configured, flushed messages are no longer in the context."""
+    """Port of llama_index ``Memory._manage_queue`` (llama-index-core 0.14.x), no memory blocks.
+
+    When the active history exceeds ratio*budget, flush the oldest messages in chunks of at
+    least `flush_size` tokens; always keep one message; the remaining history must start
+    with a user message; if that would leave nothing, restore the last complete user turn.
+    The library archives the N oldest rows, so the active history is queue[N:].
+    Checked message-for-message against the real library in memory-recall-bench.
+    """
     limit = budget * ratio
     if flush_size is None:
-        flush_size = 3000                       # library default
-    flush_size = min(flush_size, budget)        # library only lowers it when > token_limit
-    active: list[Turn] = []
-    used = 0
+        flush_size = 3000
+        if flush_size > budget:            # Memory.from_defaults rule
+            flush_size = int(budget * 0.7)
+    queue: list[Turn] = []
     for t in turns:
-        active.append(t)
-        used += t.tokens
-        if used > limit:
-            removed = 0
-            while active and (removed < flush_size or used > limit):
-                gone = active.pop(0)
-                removed += gone.tokens
-                used -= gone.tokens
+        queue.append(t)
+        if sum(x.tokens for x in queue) > limit:
+            rev = queue[::-1]
+            archived = 0
+            to_remove = sum(x.tokens for x in queue) - limit
+            while to_remove > 0 and len(rev) > 1:
+                flushed, ft = [], 0
+                while ft < flush_size and rev and len(rev) > 1:
+                    m = rev.pop(); flushed.append(m); ft += m.tokens
+                if not rev and flushed:
+                    rev.append(flushed.pop())
+                while rev and rev[-1].role != "user" and len(rev) > 1:
+                    flushed.append(rev.pop())
+                if (not rev or (len(rev) == 1 and rev[0].role != "user")) and flushed:
+                    if rev and rev[0].role != "user":
+                        flushed.append(rev.pop(0))
+                    start = next((i for i in range(len(flushed) - 1, -1, -1) if flushed[i].role == "user"), -1)
+                    if start >= 0:
+                        rev = flushed[start:][::-1] + rev
+                        flushed = flushed[:start]
+                archived += len(flushed)
+                to_remove = sum(x.tokens for x in rev) - limit
+                if not flushed:
+                    break
+            queue = queue[archived:]
         if trace is not None:
-            trace.append(used)
-    return {t.idx for t in active}
+            trace.append(sum(x.tokens for x in queue))
+    return {t.idx for t in queue}
 
 
 class BM25:
