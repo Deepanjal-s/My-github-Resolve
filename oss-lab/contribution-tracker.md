@@ -16,13 +16,14 @@ submission, and an open PR is not a merge.
 | [Portfolio](https://github.com/Deepanjal-s/Portfolio) | Empty contact form opened a blank email; vulnerable build deps; missing project | Beginner | `noValidate` with no JS validation | Native form validation, `npm audit fix`, big-oh-no card | `npm audit` 0 vulnerabilities, lint and build pass | implemented (local, not pushed) | HTML constraint validation |
 | [Deepanjal-s](https://github.com/Deepanjal-s/Deepanjal-s) (profile) | Profile omitted big-oh-no and the engineering notebook | n/a | n/a | Added both (no unverified claims) | n/a | implemented (local) | n/a |
 | [raktkoshika](https://github.com/Deepanjal-s/raktkoshika), [chargenest](https://github.com/Deepanjal-s/chargenest) | Health check | n/a | esbuild advisory GHSA-g7r4-m6w7-qqqr affects only the dev server, which raktkoshika never starts (`build()` only) | No change (bump would cross a 0.x minor) | tests 2/2, builds, lint clean; chargenest 0 prod vulns | audited, healthy | Reading whether an advisory is actually reachable |
-| [ai-chat-memory](https://github.com/Deepanjal-s/ai-chat-memory), [big-oh-no](https://github.com/Deepanjal-s/big-oh-no) | Health check | n/a | n/a | No changes needed | 49/49 and 47/47 tests pass, typecheck clean, CI green | audited, healthy | n/a |
+| [ai-chat-memory](https://github.com/Deepanjal-s/ai-chat-memory) | Keyword search kept the answer in a 4k context only 56% of the time (measured with memory-recall-bench) | Intermediate | `ts_rank_cd` has no IDF and favours long messages; flat all-terms bonus | Postgres selects candidates, BM25 re-ranks with document frequencies under the same filters | 479 LongMemEval_s questions: 56%→85% (any), 28%→61% (all-evidence); 163 fixed / 8 broken; 53/53 tests | implemented (local, not pushed) | IDF, BM25, measuring search quality |
+| [big-oh-no](https://github.com/Deepanjal-s/big-oh-no) | Health check | n/a | n/a | No changes needed | 49/49 and 47/47 tests pass, typecheck clean, CI green | audited, healthy | n/a |
 
 ## Flagship project
 
 | Project | What | Verification | Status |
 |---|---|---|---|
-| [memory-recall-bench](https://github.com/Deepanjal-s/memory-recall-bench) | Eval harness: does a chat-memory layer keep the facts it will need? 3-method adapter, baselines, BM25, bootstrap CIs, CLI | 18 tests (FIFO exact-output test mutation-checked); matches the independent Kaggle implementation exactly on LongMemEval | **public**, v0.3.0, CI green. v0.2: real llama_index `Memory` adapter + exact port (68/68 identical contexts); v0.3: full LongMemEval_s (479 Q) results with per-type and all-evidence metrics |
+| [memory-recall-bench](https://github.com/Deepanjal-s/memory-recall-bench) | Eval harness: does a chat-memory layer keep the facts it will need? 3-method adapter, baselines, BM25, bootstrap CIs, CLI | 18 tests (FIFO exact-output test mutation-checked); matches the independent Kaggle implementation exactly on LongMemEval | **public**, CI green. Embedding + hybrid retrievers, external-rankings interface (any language), ai-chat-memory case study. v0.2: real llama_index `Memory` adapter + exact port (68/68 identical contexts); v0.3: full LongMemEval_s (479 Q) results with per-type and all-evidence metrics |
 
 ## Upstream open source
 

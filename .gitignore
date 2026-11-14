@@ -16,3 +16,9 @@ kaggle/**/_preview/
 kaggle/**/publish/*.ipynb
 ROADMAP.local.md
 projects/
+# Generated benchmark artifacts (large; reproducible from the scripts)
+kaggle/**/*.jsonl
+kaggle/**/*.npz
+kaggle/**/aim_*.json
+kaggle/**/results_s.json
+kaggle/**/kaggle_out/

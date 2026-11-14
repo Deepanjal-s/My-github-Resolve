@@ -1,0 +1,14 @@
+{
+  "id": "deepanjalshukla95/chat-memory-retrieval-on-longmemeval",
+  "title": "Chat Memory Retrieval on LongMemEval",
+  "code_file": "longmemeval-retrieval.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "keywords": ["nlp", "retrieval"]
+}
