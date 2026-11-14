@@ -22,7 +22,7 @@ submission, and an open PR is not a merge.
 
 | Project | What | Verification | Status |
 |---|---|---|---|
-| memory-recall-bench | Eval harness: does a chat-memory layer keep the facts it will need? 3-method adapter, baselines, BM25, bootstrap CIs, CLI | 18 tests (FIFO exact-output test mutation-checked); matches the independent Kaggle implementation exactly on LongMemEval | v0.1.0 built locally; repo to be created |
+| [memory-recall-bench](https://github.com/Deepanjal-s/memory-recall-bench) | Eval harness: does a chat-memory layer keep the facts it will need? 3-method adapter, baselines, BM25, bootstrap CIs, CLI | 18 tests (FIFO exact-output test mutation-checked); matches the independent Kaggle implementation exactly on LongMemEval | **public**, v0.1.0, CI green (Linux + Windows, Py 3.10/3.12) |
 
 ## Upstream open source
 
