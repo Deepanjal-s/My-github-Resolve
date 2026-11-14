@@ -1,0 +1,14 @@
+{
+  "id": "deepanjalshukla95/what-does-your-chatbot-forget",
+  "title": "What Does Your Chatbot Forget",
+  "code_file": "memory-strategies.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": ["bonepyaesone/longmemeval-dev-json"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "keywords": ["nlp", "retrieval"]
+}

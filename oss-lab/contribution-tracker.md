@@ -33,6 +33,7 @@ submission, and an open PR is not a merge.
 | Notebook / dataset | Question | Technique | Result | Status |
 |---|---|---|---|---|
 | [dev-pay-2025](../kaggle/dev-pay-2025) | Do daily AI users earn less? | Within-country percentiles, OLS ladder with country FE + robust SE, LightGBM CV ablation, bootstrap CIs | Raw −22% reverses to +6.8% after controls (Simpson's paradox); AI adds little predictive power | Uploaded and ran successfully on Kaggle ([link](https://www.kaggle.com/code/deepanjalshukla95/the-ai-pay-penalty-that-isnt)); **published publicly** (version 2, ran successfully on Kaggle) |
+| [memory-strategies](../kaggle/memory-strategies) | Which chat-memory strategy keeps the facts needed later? | Simulation on LongMemEval, self-implemented BM25, closed-form sanity check, random-retrieval control, bootstrap CIs | BM25 hybrid 86–100% evidence recall vs FIFO ≤58%; default flush leaves context 46% full (llama_index #24117) | **published publicly** ([link](https://www.kaggle.com/code/deepanjalshukla95/what-does-your-chatbot-forget)) |
 
 ## Observation: upstream timing
 
