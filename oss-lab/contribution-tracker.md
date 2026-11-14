@@ -18,6 +18,12 @@ submission, and an open PR is not a merge.
 | [raktkoshika](https://github.com/Deepanjal-s/raktkoshika), [chargenest](https://github.com/Deepanjal-s/chargenest) | Health check | n/a | esbuild advisory GHSA-g7r4-m6w7-qqqr affects only the dev server, which raktkoshika never starts (`build()` only) | No change (bump would cross a 0.x minor) | tests 2/2, builds, lint clean; chargenest 0 prod vulns | audited, healthy | Reading whether an advisory is actually reachable |
 | [ai-chat-memory](https://github.com/Deepanjal-s/ai-chat-memory), [big-oh-no](https://github.com/Deepanjal-s/big-oh-no) | Health check | n/a | n/a | No changes needed | 49/49 and 47/47 tests pass, typecheck clean, CI green | audited, healthy | n/a |
 
+## Flagship project
+
+| Project | What | Verification | Status |
+|---|---|---|---|
+| memory-recall-bench | Eval harness: does a chat-memory layer keep the facts it will need? 3-method adapter, baselines, BM25, bootstrap CIs, CLI | 18 tests (FIFO exact-output test mutation-checked); matches the independent Kaggle implementation exactly on LongMemEval | v0.1.0 built locally; repo to be created |
+
 ## Upstream open source
 
 | Repository | Issue | Difficulty | Root cause | Solution | Verification | Status | Learning |
