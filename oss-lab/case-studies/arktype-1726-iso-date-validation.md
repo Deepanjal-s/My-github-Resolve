@@ -1,7 +1,7 @@
 # Case study: arktype accepted dates that don't exist
 
 - Upstream: [arktypeio/arktype#1726](https://github.com/arktypeio/arktype/issues/1726)
-- Status: **PR prepared locally** (branch `fix/iso-date-nonexistent-days`), not yet submitted. See the [tracker](../contribution-tracker.md).
+- Status: **submitted** as [arktypeio/arktype#1727](https://github.com/arktypeio/arktype/pull/1727) on 2026-11-14, awaiting maintainer review. See the [tracker](../contribution-tracker.md).
 - Files: [`experiments/arktype-1726/`](../experiments/arktype-1726) (prototype, exhaustive fuzz, patch, PR text)
 
 ## What was broken
