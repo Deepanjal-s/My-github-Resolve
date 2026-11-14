@@ -1,5 +1,7 @@
 # The AI pay penalty that isn't
 
+**On Kaggle:** https://www.kaggle.com/code/deepanjalshukla95/the-ai-pay-penalty-that-isnt
+
 **Question:** In the 2025 Stack Overflow survey, daily AI users report *lower* pay than non-users. Is that real?
 
 **Answer:** No. It's a composition effect. Daily AI use is concentrated in lower-paying countries (r = −0.73

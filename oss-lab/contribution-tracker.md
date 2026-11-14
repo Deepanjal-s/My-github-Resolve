@@ -32,7 +32,7 @@ submission, and an open PR is not a merge.
 
 | Notebook / dataset | Question | Technique | Result | Status |
 |---|---|---|---|---|
-| [dev-pay-2025](../kaggle/dev-pay-2025) | Do daily AI users earn less? | Within-country percentiles, OLS ladder with country FE + robust SE, LightGBM CV ablation, bootstrap CIs | Raw −22% reverses to +6.8% after controls (Simpson's paradox); AI adds little predictive power | Uploaded and ran successfully on Kaggle ([link](https://www.kaggle.com/code/deepanjalshukla95/the-ai-pay-penalty-that-isnt)); still **private** until the account is phone-verified |
+| [dev-pay-2025](../kaggle/dev-pay-2025) | Do daily AI users earn less? | Within-country percentiles, OLS ladder with country FE + robust SE, LightGBM CV ablation, bootstrap CIs | Raw −22% reverses to +6.8% after controls (Simpson's paradox); AI adds little predictive power | Uploaded and ran successfully on Kaggle ([link](https://www.kaggle.com/code/deepanjalshukla95/the-ai-pay-penalty-that-isnt)); **published publicly** (version 2, ran successfully on Kaggle) |
 
 ## Observation: upstream timing
 
