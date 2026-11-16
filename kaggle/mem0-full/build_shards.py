@@ -49,6 +49,8 @@ DATA.unlink()
 print("finished", len(done))
 '''.strip()),
     ]
+    nb["metadata"] = {"kernelspec": {"name": "python3", "display_name": "Python 3", "language": "python"},
+                      "language_info": {"name": "python"}}
     d = Path(f"shard{i}")
     d.mkdir(exist_ok=True)
     nbf.write(nb, d / "mem0-shard.ipynb")
