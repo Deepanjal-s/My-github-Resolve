@@ -1,0 +1,13 @@
+{
+ "id": "deepanjalshukla95/mem0-longmemeval-shard-1",
+ "title": "mem0 LongMemEval shard 1",
+ "code_file": "mem0-shard.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": false,
+ "enable_internet": true,
+ "dataset_sources": [],
+ "competition_sources": [],
+ "kernel_sources": []
+}
