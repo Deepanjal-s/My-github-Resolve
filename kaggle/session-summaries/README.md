@@ -5,7 +5,7 @@ Next research step after session-diverse packing (negative result, see
 instead of single messages.
 
 `summarize_sessions.py` writes one summary per unique LongMemEval_s session with
-`claude-haiku-5-5`. Summaries are question-independent, so each session is summarized once.
+`gemini-3.5-flash-lite`. Summaries are question-independent, so each session is summarized once.
 
 ## Size (dry-run, from `../longmemeval-full/convs.jsonl`)
 
@@ -21,7 +21,7 @@ Run the pilot first and check the real usage numbers printed at the end before t
 ```powershell
 cd "C:\Projects\My git Resolve\kaggle\session-summaries"
 python summarize_sessions.py --convs ..\longmemeval-full\convs.jsonl --dry-run --questions subset60_ids.json
-$env:ANTHROPIC_API_KEY = "<your key>"   # set in your own shell; never commit it
+$env:GEMINI_API_KEY = "<your key>"   # set in your own shell; never commit it
 python summarize_sessions.py --convs ..\longmemeval-full\convs.jsonl --questions subset60_ids.json --out summaries_subset60.jsonl --max-calls 3000
 ```
 

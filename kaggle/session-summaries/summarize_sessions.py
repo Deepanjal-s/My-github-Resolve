@@ -9,16 +9,17 @@ is summarized once even when several questions share it.
 
 Usage
   python summarize_sessions.py --convs convs.jsonl --questions subset60_ids.json --dry-run
-  set ANTHROPIC_API_KEY=...            (PowerShell: $env:ANTHROPIC_API_KEY = "...")
+  set GEMINI_API_KEY=...               (PowerShell: $env:GEMINI_API_KEY = "...")
   python summarize_sessions.py --convs convs.jsonl --questions subset60_ids.json \
       --out summaries_subset60.jsonl --max-calls 3000
 
-The API key is read from the environment only. It is never written to disk or printed.
+The API key is read from the environment only (GEMINI_API_KEY). It is never written to disk or printed.
 """
 from __future__ import annotations
 
 import argparse
 import concurrent.futures as cf
+import http.client
 import json
 import os
 import sys
@@ -26,9 +27,9 @@ import time
 import urllib.error
 import urllib.request
 
-API_URL = "https://api.anthropic.com/v1/messages"
-MODEL = "claude-haiku-5-5"
-MAX_OUT_TOKENS = 300
+MODEL = "gemini-3.5-flash-lite"
+API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+MAX_OUT_TOKENS = 1024  # headroom: the model may spend tokens on hidden reasoning before the summary
 MAX_SESSION_CHARS = 60_000  # longer sessions are cut and the cut is recorded in the output
 
 PROMPT = (
@@ -75,13 +76,11 @@ def load_done(out_path: str) -> set[str]:
 
 def call_api(api_key: str, prompt: str) -> dict:
     body = json.dumps({
-        "model": MODEL,
-        "max_tokens": MAX_OUT_TOKENS,
-        "messages": [{"role": "user", "content": prompt}],
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"maxOutputTokens": MAX_OUT_TOKENS},
     }).encode("utf-8")
     req = urllib.request.Request(API_URL, data=body, method="POST", headers={
-        "x-api-key": api_key,
-        "anthropic-version": "2023-06-01",
+        "x-goog-api-key": api_key,
         "content-type": "application/json",
     })
     for attempt in range(6):
@@ -93,11 +92,12 @@ def call_api(api_key: str, prompt: str) -> dict:
                 time.sleep(2 ** attempt)
                 continue
             raise RuntimeError(f"HTTP {e.code}: {e.read()[:300].decode('utf-8', 'replace')}") from None
-        except urllib.error.URLError:
+        except (urllib.error.URLError, OSError, http.client.HTTPException):
+            # covers dropped connections (RemoteDisconnected) and timeouts
             if attempt < 5:
                 time.sleep(2 ** attempt)
                 continue
-            raise
+            raise RuntimeError("network error after retries") from None
     raise RuntimeError("unreachable")
 
 
@@ -131,9 +131,9 @@ def main() -> int:
         print(f"refusing: {len(todo)} calls exceeds --max-calls {args.max_calls}", file=sys.stderr)
         return 2
 
-    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+    api_key = os.environ.get("GEMINI_API_KEY", "")
     if not api_key:
-        print("ANTHROPIC_API_KEY is not set in this shell", file=sys.stderr)
+        print("GEMINI_API_KEY is not set in this shell", file=sys.stderr)
         return 2
 
     usage = {"input": 0, "output": 0, "calls": 0, "errors": 0}
@@ -143,13 +143,16 @@ def main() -> int:
         body, cut = session_text(s)
         try:
             r = call_api(api_key, PROMPT.format(body=body))
-        except RuntimeError as e:
+        except Exception as e:  # one bad session must not abort the whole run
             print(f"error on {sid}: {e}", file=sys.stderr)
             return None
-        text = "".join(b.get("text", "") for b in r.get("content", []) if b.get("type") == "text")
-        u = r.get("usage", {})
+        cands = r.get("candidates") or [{}]
+        parts = (cands[0].get("content") or {}).get("parts", [])
+        text = "".join(p.get("text", "") for p in parts)
+        u = r.get("usageMetadata", {})
         return {"session_id": sid, "summary": text.strip(), "truncated": cut,
-                "input_tokens": u.get("input_tokens"), "output_tokens": u.get("output_tokens"),
+                "finish_reason": cands[0].get("finishReason"),
+                "input_tokens": u.get("promptTokenCount"), "output_tokens": u.get("candidatesTokenCount"),
                 "model": MODEL}
 
     with open(args.out, "a", encoding="utf-8") as out, cf.ThreadPoolExecutor(args.workers) as pool:
