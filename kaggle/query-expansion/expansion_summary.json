@@ -1,0 +1,470 @@
+{
+ "recalled|bm25+expansion w0=1|4000|all": [
+  82.7,
+  79.3,
+  86.0
+ ],
+ "recalled|bm25+expansion w0=1|16000|all": [
+  94.8,
+  92.7,
+  96.7
+ ],
+ "recalled|bm25+expansion w0=2|4000|all": [
+  84.1,
+  80.8,
+  87.5
+ ],
+ "recalled|bm25+expansion w0=2|16000|all": [
+  95.0,
+  93.1,
+  96.9
+ ],
+ "recalled|recent+bm25|4000|all": [
+  82.5,
+  78.9,
+  85.8
+ ],
+ "recalled|recent+bm25|16000|all": [
+  94.2,
+  92.1,
+  96.2
+ ],
+ "recalled|bm25+expansion w0=1|4000|knowledge-update": [
+  93.1,
+  86.1,
+  98.6
+ ],
+ "recalled|bm25+expansion w0=1|16000|knowledge-update": [
+  98.6,
+  95.8,
+  100.0
+ ],
+ "recalled|bm25+expansion w0=2|4000|knowledge-update": [
+  93.1,
+  87.5,
+  98.6
+ ],
+ "recalled|bm25+expansion w0=2|16000|knowledge-update": [
+  98.6,
+  95.8,
+  100.0
+ ],
+ "recalled|recent+bm25|4000|knowledge-update": [
+  93.1,
+  86.1,
+  98.6
+ ],
+ "recalled|recent+bm25|16000|knowledge-update": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled|bm25+expansion w0=1|4000|multi-session": [
+  80.0,
+  72.8,
+  86.4
+ ],
+ "recalled|bm25+expansion w0=1|16000|multi-session": [
+  95.2,
+  91.2,
+  98.4
+ ],
+ "recalled|bm25+expansion w0=2|4000|multi-session": [
+  80.0,
+  72.8,
+  86.4
+ ],
+ "recalled|bm25+expansion w0=2|16000|multi-session": [
+  95.2,
+  91.2,
+  98.4
+ ],
+ "recalled|recent+bm25|4000|multi-session": [
+  77.6,
+  70.4,
+  84.0
+ ],
+ "recalled|recent+bm25|16000|multi-session": [
+  95.2,
+  91.2,
+  98.4
+ ],
+ "recalled|bm25+expansion w0=1|4000|single-session-assistant": [
+  96.4,
+  91.1,
+  100.0
+ ],
+ "recalled|bm25+expansion w0=1|16000|single-session-assistant": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled|bm25+expansion w0=2|4000|single-session-assistant": [
+  96.4,
+  91.1,
+  100.0
+ ],
+ "recalled|bm25+expansion w0=2|16000|single-session-assistant": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled|recent+bm25|4000|single-session-assistant": [
+  94.6,
+  87.5,
+  100.0
+ ],
+ "recalled|recent+bm25|16000|single-session-assistant": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled|bm25+expansion w0=1|4000|single-session-preference": [
+  63.3,
+  46.7,
+  80.0
+ ],
+ "recalled|bm25+expansion w0=1|16000|single-session-preference": [
+  86.7,
+  73.3,
+  96.7
+ ],
+ "recalled|bm25+expansion w0=2|4000|single-session-preference": [
+  63.3,
+  46.7,
+  80.0
+ ],
+ "recalled|bm25+expansion w0=2|16000|single-session-preference": [
+  86.7,
+  73.3,
+  96.7
+ ],
+ "recalled|recent+bm25|4000|single-session-preference": [
+  46.7,
+  30.0,
+  63.3
+ ],
+ "recalled|recent+bm25|16000|single-session-preference": [
+  76.7,
+  60.0,
+  90.0
+ ],
+ "recalled|bm25+expansion w0=1|4000|single-session-user": [
+  92.2,
+  85.9,
+  98.4
+ ],
+ "recalled|bm25+expansion w0=1|16000|single-session-user": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled|bm25+expansion w0=2|4000|single-session-user": [
+  92.2,
+  85.9,
+  98.4
+ ],
+ "recalled|bm25+expansion w0=2|16000|single-session-user": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled|recent+bm25|4000|single-session-user": [
+  95.3,
+  90.6,
+  100.0
+ ],
+ "recalled|recent+bm25|16000|single-session-user": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled|bm25+expansion w0=1|4000|temporal-reasoning": [
+  73.5,
+  65.9,
+  80.3
+ ],
+ "recalled|bm25+expansion w0=1|16000|temporal-reasoning": [
+  89.4,
+  84.1,
+  93.9
+ ],
+ "recalled|bm25+expansion w0=2|4000|temporal-reasoning": [
+  78.8,
+  71.2,
+  85.6
+ ],
+ "recalled|bm25+expansion w0=2|16000|temporal-reasoning": [
+  90.2,
+  84.8,
+  94.7
+ ],
+ "recalled|recent+bm25|4000|temporal-reasoning": [
+  78.0,
+  70.5,
+  84.8
+ ],
+ "recalled|recent+bm25|16000|temporal-reasoning": [
+  88.6,
+  83.3,
+  93.2
+ ],
+ "recalled_all|bm25+expansion w0=1|4000|all": [
+  56.4,
+  52.2,
+  60.8
+ ],
+ "recalled_all|bm25+expansion w0=1|16000|all": [
+  83.9,
+  80.4,
+  87.1
+ ],
+ "recalled_all|bm25+expansion w0=2|4000|all": [
+  57.6,
+  53.2,
+  62.0
+ ],
+ "recalled_all|bm25+expansion w0=2|16000|all": [
+  84.8,
+  81.4,
+  88.1
+ ],
+ "recalled_all|recent+bm25|4000|all": [
+  60.8,
+  56.4,
+  65.1
+ ],
+ "recalled_all|recent+bm25|16000|all": [
+  82.3,
+  78.7,
+  85.6
+ ],
+ "recalled_all|bm25+expansion w0=1|4000|knowledge-update": [
+  62.5,
+  51.4,
+  73.6
+ ],
+ "recalled_all|bm25+expansion w0=1|16000|knowledge-update": [
+  95.8,
+  90.3,
+  100.0
+ ],
+ "recalled_all|bm25+expansion w0=2|4000|knowledge-update": [
+  68.1,
+  56.9,
+  77.8
+ ],
+ "recalled_all|bm25+expansion w0=2|16000|knowledge-update": [
+  95.8,
+  90.3,
+  100.0
+ ],
+ "recalled_all|recent+bm25|4000|knowledge-update": [
+  75.0,
+  63.9,
+  84.7
+ ],
+ "recalled_all|recent+bm25|16000|knowledge-update": [
+  94.4,
+  88.9,
+  98.6
+ ],
+ "recalled_all|bm25+expansion w0=1|4000|multi-session": [
+  32.0,
+  24.0,
+  40.0
+ ],
+ "recalled_all|bm25+expansion w0=1|16000|multi-session": [
+  69.6,
+  62.4,
+  77.6
+ ],
+ "recalled_all|bm25+expansion w0=2|4000|multi-session": [
+  32.0,
+  24.0,
+  40.0
+ ],
+ "recalled_all|bm25+expansion w0=2|16000|multi-session": [
+  69.6,
+  61.6,
+  77.6
+ ],
+ "recalled_all|recent+bm25|4000|multi-session": [
+  36.0,
+  27.2,
+  44.0
+ ],
+ "recalled_all|recent+bm25|16000|multi-session": [
+  62.4,
+  53.6,
+  70.4
+ ],
+ "recalled_all|bm25+expansion w0=1|4000|single-session-assistant": [
+  96.4,
+  91.1,
+  100.0
+ ],
+ "recalled_all|bm25+expansion w0=1|16000|single-session-assistant": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled_all|bm25+expansion w0=2|4000|single-session-assistant": [
+  96.4,
+  91.1,
+  100.0
+ ],
+ "recalled_all|bm25+expansion w0=2|16000|single-session-assistant": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled_all|recent+bm25|4000|single-session-assistant": [
+  94.6,
+  87.5,
+  100.0
+ ],
+ "recalled_all|recent+bm25|16000|single-session-assistant": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled_all|bm25+expansion w0=1|4000|single-session-preference": [
+  63.3,
+  46.7,
+  80.0
+ ],
+ "recalled_all|bm25+expansion w0=1|16000|single-session-preference": [
+  86.7,
+  73.3,
+  96.7
+ ],
+ "recalled_all|bm25+expansion w0=2|4000|single-session-preference": [
+  63.3,
+  46.7,
+  80.0
+ ],
+ "recalled_all|bm25+expansion w0=2|16000|single-session-preference": [
+  86.7,
+  73.3,
+  96.7
+ ],
+ "recalled_all|recent+bm25|4000|single-session-preference": [
+  46.7,
+  30.0,
+  63.3
+ ],
+ "recalled_all|recent+bm25|16000|single-session-preference": [
+  76.7,
+  60.0,
+  90.0
+ ],
+ "recalled_all|bm25+expansion w0=1|4000|single-session-user": [
+  92.2,
+  85.9,
+  98.4
+ ],
+ "recalled_all|bm25+expansion w0=1|16000|single-session-user": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled_all|bm25+expansion w0=2|4000|single-session-user": [
+  92.2,
+  85.9,
+  98.4
+ ],
+ "recalled_all|bm25+expansion w0=2|16000|single-session-user": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled_all|recent+bm25|4000|single-session-user": [
+  95.3,
+  90.6,
+  100.0
+ ],
+ "recalled_all|recent+bm25|16000|single-session-user": [
+  100.0,
+  100.0,
+  100.0
+ ],
+ "recalled_all|bm25+expansion w0=1|4000|temporal-reasoning": [
+  40.2,
+  31.8,
+  48.5
+ ],
+ "recalled_all|bm25+expansion w0=1|16000|temporal-reasoning": [
+  75.8,
+  68.2,
+  82.6
+ ],
+ "recalled_all|bm25+expansion w0=2|4000|temporal-reasoning": [
+  41.7,
+  33.3,
+  50.8
+ ],
+ "recalled_all|bm25+expansion w0=2|16000|temporal-reasoning": [
+  78.8,
+  72.0,
+  85.6
+ ],
+ "recalled_all|recent+bm25|4000|temporal-reasoning": [
+  48.5,
+  39.4,
+  56.8
+ ],
+ "recalled_all|recent+bm25|16000|temporal-reasoning": [
+  79.5,
+  72.7,
+  86.4
+ ],
+ "paired|bm25+expansion w0=2|4000|recalled": {
+  "fixed": 32,
+  "broken": 24,
+  "multi_fixed": 12,
+  "multi_broken": 9
+ },
+ "paired|bm25+expansion w0=2|4000|recalled_all": {
+  "fixed": 24,
+  "broken": 39,
+  "multi_fixed": 4,
+  "multi_broken": 9
+ },
+ "paired|bm25+expansion w0=2|16000|recalled": {
+  "fixed": 8,
+  "broken": 4,
+  "multi_fixed": 2,
+  "multi_broken": 2
+ },
+ "paired|bm25+expansion w0=2|16000|recalled_all": {
+  "fixed": 24,
+  "broken": 12,
+  "multi_fixed": 14,
+  "multi_broken": 5
+ },
+ "paired|bm25+expansion w0=1|4000|recalled": {
+  "fixed": 31,
+  "broken": 30,
+  "multi_fixed": 13,
+  "multi_broken": 10
+ },
+ "paired|bm25+expansion w0=1|4000|recalled_all": {
+  "fixed": 24,
+  "broken": 45,
+  "multi_fixed": 4,
+  "multi_broken": 9
+ },
+ "paired|bm25+expansion w0=1|16000|recalled": {
+  "fixed": 11,
+  "broken": 8,
+  "multi_fixed": 3,
+  "multi_broken": 3
+ },
+ "paired|bm25+expansion w0=1|16000|recalled_all": {
+  "fixed": 27,
+  "broken": 19,
+  "multi_fixed": 16,
+  "multi_broken": 7
+ }
+}
