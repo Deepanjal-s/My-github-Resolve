@@ -1,0 +1,214 @@
+{
+ "recalled|bm25+exp gate16k|4000": [
+  82.5,
+  79.3,
+  85.6
+ ],
+ "recalled|bm25+exp gate16k|16000": [
+  94.8,
+  92.7,
+  96.7
+ ],
+ "recalled|bm25+exp prefix f=0.25|4000": [
+  84.6,
+  81.2,
+  87.7
+ ],
+ "recalled|bm25+exp prefix f=0.25|16000": [
+  95.2,
+  93.3,
+  97.1
+ ],
+ "recalled|bm25+exp prefix f=0.5|4000": [
+  83.1,
+  79.7,
+  86.6
+ ],
+ "recalled|bm25+exp prefix f=0.5|16000": [
+  94.4,
+  92.3,
+  96.5
+ ],
+ "recalled|bm25+exp prefix f=0.75|4000": [
+  82.3,
+  78.9,
+  85.6
+ ],
+ "recalled|bm25+exp prefix f=0.75|16000": [
+  94.2,
+  92.1,
+  96.0
+ ],
+ "recalled|recent+bm25|4000": [
+  82.5,
+  78.9,
+  85.8
+ ],
+ "recalled|recent+bm25|16000": [
+  94.2,
+  92.1,
+  96.2
+ ],
+ "recalled_all|bm25+exp gate16k|4000": [
+  60.8,
+  56.6,
+  64.9
+ ],
+ "recalled_all|bm25+exp gate16k|16000": [
+  83.9,
+  80.4,
+  87.1
+ ],
+ "recalled_all|bm25+exp prefix f=0.25|4000": [
+  59.3,
+  54.9,
+  63.7
+ ],
+ "recalled_all|bm25+exp prefix f=0.25|16000": [
+  84.1,
+  80.8,
+  87.3
+ ],
+ "recalled_all|bm25+exp prefix f=0.5|4000": [
+  61.2,
+  57.0,
+  65.6
+ ],
+ "recalled_all|bm25+exp prefix f=0.5|16000": [
+  84.3,
+  81.0,
+  87.5
+ ],
+ "recalled_all|bm25+exp prefix f=0.75|4000": [
+  61.4,
+  57.0,
+  65.8
+ ],
+ "recalled_all|bm25+exp prefix f=0.75|16000": [
+  83.5,
+  80.2,
+  86.6
+ ],
+ "recalled_all|recent+bm25|4000": [
+  60.8,
+  56.4,
+  65.1
+ ],
+ "recalled_all|recent+bm25|16000": [
+  82.3,
+  78.7,
+  85.6
+ ],
+ "paired|bm25+exp gate16k|4000|recalled": {
+  "fixed": 0,
+  "broken": 0,
+  "p": 1.0,
+  "multi_fixed": 0,
+  "multi_broken": 0
+ },
+ "paired|bm25+exp gate16k|4000|recalled_all": {
+  "fixed": 0,
+  "broken": 0,
+  "p": 1.0,
+  "multi_fixed": 0,
+  "multi_broken": 0
+ },
+ "paired|bm25+exp gate16k|16000|recalled": {
+  "fixed": 11,
+  "broken": 8,
+  "p": 0.648,
+  "multi_fixed": 3,
+  "multi_broken": 3
+ },
+ "paired|bm25+exp gate16k|16000|recalled_all": {
+  "fixed": 27,
+  "broken": 19,
+  "p": 0.302,
+  "multi_fixed": 16,
+  "multi_broken": 7
+ },
+ "paired|bm25+exp prefix f=0.25|4000|recalled": {
+  "fixed": 19,
+  "broken": 9,
+  "p": 0.087,
+  "multi_fixed": 10,
+  "multi_broken": 3
+ },
+ "paired|bm25+exp prefix f=0.25|4000|recalled_all": {
+  "fixed": 12,
+  "broken": 19,
+  "p": 0.281,
+  "multi_fixed": 3,
+  "multi_broken": 6
+ },
+ "paired|bm25+exp prefix f=0.25|16000|recalled": {
+  "fixed": 8,
+  "broken": 3,
+  "p": 0.227,
+  "multi_fixed": 3,
+  "multi_broken": 1
+ },
+ "paired|bm25+exp prefix f=0.25|16000|recalled_all": {
+  "fixed": 18,
+  "broken": 9,
+  "p": 0.122,
+  "multi_fixed": 12,
+  "multi_broken": 4
+ },
+ "paired|bm25+exp prefix f=0.5|4000|recalled": {
+  "fixed": 11,
+  "broken": 8,
+  "p": 0.648,
+  "multi_fixed": 6,
+  "multi_broken": 4
+ },
+ "paired|bm25+exp prefix f=0.5|4000|recalled_all": {
+  "fixed": 8,
+  "broken": 6,
+  "p": 0.791,
+  "multi_fixed": 2,
+  "multi_broken": 2
+ },
+ "paired|bm25+exp prefix f=0.5|16000|recalled": {
+  "fixed": 1,
+  "broken": 0,
+  "p": 1.0,
+  "multi_fixed": 1,
+  "multi_broken": 0
+ },
+ "paired|bm25+exp prefix f=0.5|16000|recalled_all": {
+  "fixed": 11,
+  "broken": 1,
+  "p": 0.006,
+  "multi_fixed": 7,
+  "multi_broken": 1
+ },
+ "paired|bm25+exp prefix f=0.75|4000|recalled": {
+  "fixed": 4,
+  "broken": 5,
+  "p": 1.0,
+  "multi_fixed": 2,
+  "multi_broken": 3
+ },
+ "paired|bm25+exp prefix f=0.75|4000|recalled_all": {
+  "fixed": 4,
+  "broken": 1,
+  "p": 0.375,
+  "multi_fixed": 1,
+  "multi_broken": 1
+ },
+ "paired|bm25+exp prefix f=0.75|16000|recalled": {
+  "fixed": 0,
+  "broken": 0,
+  "p": 1.0,
+  "multi_fixed": 0,
+  "multi_broken": 0
+ },
+ "paired|bm25+exp prefix f=0.75|16000|recalled_all": {
+  "fixed": 7,
+  "broken": 1,
+  "p": 0.07,
+  "multi_fixed": 6,
+  "multi_broken": 1
+ }
+}

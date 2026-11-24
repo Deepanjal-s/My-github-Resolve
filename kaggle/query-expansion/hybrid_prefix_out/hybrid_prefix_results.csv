@@ -1,0 +1,1917 @@
+adapter,budget,conversation,kind,recalled,recalled_all,context_tokens,evidence_age_tokens
+recent+hybrid,4000,e47becba,single-session-user,True,True,3991,6851
+recent+hybrid,4000,118b2229,single-session-user,True,True,3974,101459
+recent+hybrid,4000,51a45a95,single-session-user,True,True,3994,21122
+recent+hybrid,4000,58bf7951,single-session-user,True,True,3994,53252
+recent+hybrid,4000,1e043500,single-session-user,True,True,3973,92373
+recent+hybrid,4000,c5e8278d,single-session-user,True,True,3978,23440
+recent+hybrid,4000,6ade9755,single-session-user,True,True,3971,1322
+recent+hybrid,4000,6f9b354f,single-session-user,True,True,3955,33408
+recent+hybrid,4000,58ef2f1c,single-session-user,True,True,3990,680
+recent+hybrid,4000,f8c5f88b,single-session-user,True,True,3990,50967
+recent+hybrid,4000,5d3d2817,single-session-user,False,False,3977,64551
+recent+hybrid,4000,7527f7e2,single-session-user,True,True,3999,81687
+recent+hybrid,4000,c960da58,single-session-user,True,True,3983,113840
+recent+hybrid,4000,3b6f954b,single-session-user,True,True,3993,61307
+recent+hybrid,4000,726462e0,single-session-user,True,True,4000,90529
+recent+hybrid,4000,94f70d80,single-session-user,True,True,3997,11132
+recent+hybrid,4000,66f24dbb,single-session-user,True,True,3998,83953
+recent+hybrid,4000,ad7109d1,single-session-user,True,True,3949,69368
+recent+hybrid,4000,af8d2e46,single-session-user,True,True,3999,13317
+recent+hybrid,4000,dccbc061,single-session-user,True,True,3989,78292
+recent+hybrid,4000,c8c3f81d,single-session-user,True,True,3976,17091
+recent+hybrid,4000,8ebdbe50,single-session-user,True,True,3961,21676
+recent+hybrid,4000,6b168ec8,single-session-user,True,True,3971,40042
+recent+hybrid,4000,75499fd8,single-session-user,True,True,3965,61494
+recent+hybrid,4000,21436231,single-session-user,True,True,3993,104117
+recent+hybrid,4000,95bcc1c8,single-session-user,True,True,3996,100121
+recent+hybrid,4000,0862e8bf,single-session-user,True,True,3996,56465
+recent+hybrid,4000,853b0a1d,single-session-user,True,True,3987,79719
+recent+hybrid,4000,a06e4cfe,single-session-user,True,True,3986,102425
+recent+hybrid,4000,37d43f65,single-session-user,True,True,3954,22597
+recent+hybrid,4000,b86304ba,single-session-user,True,True,3998,4086
+recent+hybrid,4000,d52b4f67,single-session-user,True,True,3961,13729
+recent+hybrid,4000,25e5aa4f,single-session-user,False,False,3989,26200
+recent+hybrid,4000,caf9ead2,single-session-user,True,True,3986,82299
+recent+hybrid,4000,8550ddae,single-session-user,True,True,3998,108153
+recent+hybrid,4000,60d45044,single-session-user,True,True,3999,50830
+recent+hybrid,4000,3f1e9474,single-session-user,True,True,4000,104954
+recent+hybrid,4000,86b68151,single-session-user,True,True,3984,30557
+recent+hybrid,4000,577d4d32,single-session-user,True,True,3979,14281
+recent+hybrid,4000,ec81a493,single-session-user,True,True,3920,33241
+recent+hybrid,4000,15745da0,single-session-user,True,True,3996,105934
+recent+hybrid,4000,e01b8e2f,single-session-user,True,True,3979,81946
+recent+hybrid,4000,bc8a6e93,single-session-user,True,True,3989,58724
+recent+hybrid,4000,ccb36322,single-session-user,True,True,3995,108639
+recent+hybrid,4000,001be529,single-session-user,True,True,3997,21144
+recent+hybrid,4000,b320f3f8,single-session-user,True,True,3993,19840
+recent+hybrid,4000,19b5f2b3,single-session-user,False,False,3994,19925
+recent+hybrid,4000,4fd1909e,single-session-user,True,True,3962,70909
+recent+hybrid,4000,545bd2b5,single-session-user,True,True,3981,32966
+recent+hybrid,4000,8a137a7f,single-session-user,True,True,3978,104427
+recent+hybrid,4000,76d63226,single-session-user,True,True,3997,97971
+recent+hybrid,4000,86f00804,single-session-user,True,True,3980,96772
+recent+hybrid,4000,8e9d538c,single-session-user,True,True,3981,32477
+recent+hybrid,4000,311778f1,single-session-user,True,True,3948,51302
+recent+hybrid,4000,c19f7a0b,single-session-user,True,True,3991,71006
+recent+hybrid,4000,4100d0a0,single-session-user,True,True,3985,2615
+recent+hybrid,4000,29f2956b,single-session-user,True,True,3999,89503
+recent+hybrid,4000,1faac195,single-session-user,True,True,3989,111711
+recent+hybrid,4000,faba32e5,single-session-user,True,True,3960,53290
+recent+hybrid,4000,f4f1d8a4,single-session-user,True,True,3997,2893
+recent+hybrid,4000,c14c00dd,single-session-user,True,True,3983,102586
+recent+hybrid,4000,36580ce8,single-session-user,True,True,3988,15912
+recent+hybrid,4000,3d86fd0a,single-session-user,True,True,3981,101331
+recent+hybrid,4000,a82c026e,single-session-user,True,True,3993,36527
+recent+hybrid,4000,0a995998,multi-session,True,False,3981,33621
+recent+hybrid,4000,6d550036,multi-session,False,False,3993,25901
+recent+hybrid,4000,gpt4_59c863d7,multi-session,True,False,3990,4660
+recent+hybrid,4000,b5ef892d,multi-session,True,True,4000,23147
+recent+hybrid,4000,e831120c,multi-session,True,True,3966,56242
+recent+hybrid,4000,3a704032,multi-session,True,False,3959,80210
+recent+hybrid,4000,gpt4_d84a3211,multi-session,False,False,3953,3005
+recent+hybrid,4000,aae3761f,multi-session,True,False,3995,45928
+recent+hybrid,4000,gpt4_f2262a51,multi-session,False,False,4000,78822
+recent+hybrid,4000,dd2973ad,multi-session,True,False,4000,9031
+recent+hybrid,4000,c4a1ceb8,multi-session,True,False,3996,3257
+recent+hybrid,4000,gpt4_a56e767c,multi-session,True,False,3971,43501
+recent+hybrid,4000,6cb6f249,multi-session,True,False,3984,57920
+recent+hybrid,4000,46a3abf7,multi-session,False,False,3954,40979
+recent+hybrid,4000,36b9f61e,multi-session,True,False,3997,45038
+recent+hybrid,4000,28dc39ac,multi-session,True,False,4000,38670
+recent+hybrid,4000,gpt4_2f8be40d,multi-session,True,False,3997,15137
+recent+hybrid,4000,2e6d26dc,multi-session,True,False,3985,48321
+recent+hybrid,4000,gpt4_15e38248,multi-session,True,False,3991,13952
+recent+hybrid,4000,88432d0a,multi-session,True,False,3979,14500
+recent+hybrid,4000,80ec1f4f,multi-session,False,False,3976,42266
+recent+hybrid,4000,d23cf73b,multi-session,True,False,3975,14394
+recent+hybrid,4000,gpt4_7fce9456,multi-session,True,False,4000,14839
+recent+hybrid,4000,d682f1a2,multi-session,True,False,3973,13510
+recent+hybrid,4000,7024f17c,multi-session,True,False,3968,67459
+recent+hybrid,4000,gpt4_5501fe77,multi-session,True,False,3969,17344
+recent+hybrid,4000,gpt4_2ba83207,multi-session,True,False,3996,11633
+recent+hybrid,4000,2318644b,multi-session,True,False,3997,63327
+recent+hybrid,4000,2ce6a0f2,multi-session,True,False,3994,22590
+recent+hybrid,4000,gpt4_d12ceb0e,multi-session,True,False,3954,51368
+recent+hybrid,4000,00ca467f,multi-session,True,True,3967,22994
+recent+hybrid,4000,b3c15d39,multi-session,True,True,3980,44822
+recent+hybrid,4000,gpt4_31ff4165,multi-session,False,False,3986,7124
+recent+hybrid,4000,eeda8a6d,multi-session,True,False,3995,32228
+recent+hybrid,4000,2788b940,multi-session,True,False,4000,14390
+recent+hybrid,4000,60bf93ed,multi-session,True,True,3978,78263
+recent+hybrid,4000,9d25d4e0,multi-session,True,False,3975,32385
+recent+hybrid,4000,129d1232,multi-session,True,False,3993,7716
+recent+hybrid,4000,60472f9c,multi-session,False,False,3976,25817
+recent+hybrid,4000,gpt4_194be4b3,multi-session,False,False,3991,22431
+recent+hybrid,4000,a9f6b44c,multi-session,True,False,3966,28008
+recent+hybrid,4000,d851d5ba,multi-session,True,False,3991,26694
+recent+hybrid,4000,5a7937c8,multi-session,True,False,3971,22360
+recent+hybrid,4000,gpt4_ab202e7f,multi-session,True,False,3983,10017
+recent+hybrid,4000,gpt4_e05b82a6,multi-session,True,True,3967,10099
+recent+hybrid,4000,gpt4_731e37d7,multi-session,False,False,3994,63753
+recent+hybrid,4000,edced276,multi-session,True,True,3975,70532
+recent+hybrid,4000,10d9b85a,multi-session,True,False,3960,10775
+recent+hybrid,4000,e3038f8c,multi-session,True,False,3980,85716
+recent+hybrid,4000,2b8f3739,multi-session,True,False,4000,4419
+recent+hybrid,4000,1a8a66a6,multi-session,True,False,3998,29351
+recent+hybrid,4000,c2ac3c61,multi-session,True,True,3977,4419
+recent+hybrid,4000,bf659f65,multi-session,True,False,3981,9631
+recent+hybrid,4000,gpt4_372c3eed,multi-session,True,False,3994,17171
+recent+hybrid,4000,gpt4_2f91af09,multi-session,True,False,4000,6821
+recent+hybrid,4000,81507db6,multi-session,True,False,4000,47634
+recent+hybrid,4000,edced276_abs,multi-session,False,False,3987,72868
+recent+hybrid,4000,8a2466db,single-session-preference,True,True,3975,100340
+recent+hybrid,4000,06878be2,single-session-preference,True,True,3985,31120
+recent+hybrid,4000,75832dbd,single-session-preference,False,False,4000,105706
+recent+hybrid,4000,0edc2aef,single-session-preference,False,False,3993,19462
+recent+hybrid,4000,35a27287,single-session-preference,True,True,3983,21596
+recent+hybrid,4000,32260d93,single-session-preference,True,True,3997,18733
+recent+hybrid,4000,195a1a1b,single-session-preference,False,False,3983,3225
+recent+hybrid,4000,afdc33df,single-session-preference,True,True,3984,107646
+recent+hybrid,4000,caf03d32,single-session-preference,True,True,3999,4444
+recent+hybrid,4000,54026fce,single-session-preference,True,True,3991,57768
+recent+hybrid,4000,06f04340,single-session-preference,False,False,3965,90354
+recent+hybrid,4000,6b7dfb22,single-session-preference,True,True,3987,95327
+recent+hybrid,4000,1a1907b4,single-session-preference,False,False,3955,109598
+recent+hybrid,4000,09d032c9,single-session-preference,False,False,3996,47551
+recent+hybrid,4000,38146c39,single-session-preference,False,False,4000,45691
+recent+hybrid,4000,d24813b1,single-session-preference,True,True,3998,26471
+recent+hybrid,4000,57f827a0,single-session-preference,True,True,3994,40564
+recent+hybrid,4000,95228167,single-session-preference,False,False,3992,53337
+recent+hybrid,4000,505af2f5,single-session-preference,True,True,3983,102154
+recent+hybrid,4000,75f70248,single-session-preference,True,True,3987,55796
+recent+hybrid,4000,d6233ab6,single-session-preference,True,True,3962,96182
+recent+hybrid,4000,1da05512,single-session-preference,True,True,3976,24924
+recent+hybrid,4000,fca70973,single-session-preference,True,True,3993,3861
+recent+hybrid,4000,b6025781,single-session-preference,True,True,3976,67738
+recent+hybrid,4000,a89d7624,single-session-preference,True,True,3979,41128
+recent+hybrid,4000,b0479f84,single-session-preference,True,True,3969,25279
+recent+hybrid,4000,1d4e3b97,single-session-preference,False,False,3981,17598
+recent+hybrid,4000,07b6f563,single-session-preference,True,True,3992,29208
+recent+hybrid,4000,1c0ddc50,single-session-preference,False,False,3994,40535
+recent+hybrid,4000,0a34ad58,single-session-preference,True,True,3984,89106
+recent+hybrid,4000,d3ab962e,multi-session,True,False,4000,28353
+recent+hybrid,4000,2311e44b,multi-session,True,True,3938,8729
+recent+hybrid,4000,cc06de0d,multi-session,True,True,3998,25874
+recent+hybrid,4000,a11281a2,multi-session,True,False,3996,30479
+recent+hybrid,4000,4f54b7c9,multi-session,False,False,3996,11253
+recent+hybrid,4000,85fa3a3f,multi-session,True,True,3979,44837
+recent+hybrid,4000,9aaed6a3,multi-session,True,True,3980,93500
+recent+hybrid,4000,1f2b8d4f,multi-session,False,False,3963,89337
+recent+hybrid,4000,e6041065,multi-session,True,False,3987,15346
+recent+hybrid,4000,51c32626,multi-session,True,False,3932,7516
+recent+hybrid,4000,d905b33f,multi-session,True,True,3983,36801
+recent+hybrid,4000,7405e8b1,multi-session,True,True,3996,44136
+recent+hybrid,4000,f35224e0,multi-session,True,True,3979,14278
+recent+hybrid,4000,6456829e,multi-session,True,True,3952,8478
+recent+hybrid,4000,a4996e51,multi-session,True,False,3999,11923
+recent+hybrid,4000,3c1045c8,multi-session,True,True,3980,59971
+recent+hybrid,4000,60036106,multi-session,True,False,4000,13057
+recent+hybrid,4000,681a1674,multi-session,True,False,3944,39400
+recent+hybrid,4000,e25c3b8d,multi-session,True,True,3988,77715
+recent+hybrid,4000,4adc0475,multi-session,True,True,3988,23524
+recent+hybrid,4000,4bc144e2,multi-session,True,True,3979,17847
+recent+hybrid,4000,ef66a6e5,multi-session,True,True,3992,50298
+recent+hybrid,4000,5025383b,multi-session,True,False,3996,3237
+recent+hybrid,4000,a1cc6108,multi-session,True,False,3998,63412
+recent+hybrid,4000,9ee3ecd6,multi-session,True,True,3948,11234
+recent+hybrid,4000,3fdac837,multi-session,True,False,4000,13780
+recent+hybrid,4000,91b15a6e,multi-session,True,False,3965,36808
+recent+hybrid,4000,27016adc,multi-session,False,False,4000,33842
+recent+hybrid,4000,720133ac,multi-session,True,True,3997,5757
+recent+hybrid,4000,77eafa52,multi-session,False,False,3983,38633
+recent+hybrid,4000,8979f9ec,multi-session,True,True,3974,37508
+recent+hybrid,4000,0100672e,multi-session,True,True,3993,11026
+recent+hybrid,4000,a96c20ee,multi-session,True,True,3993,99980
+recent+hybrid,4000,92a0aa75,multi-session,False,False,3976,28286
+recent+hybrid,4000,3fe836c9,multi-session,True,True,3967,13929
+recent+hybrid,4000,1c549ce4,multi-session,True,True,3991,27696
+recent+hybrid,4000,6c49646a,multi-session,True,True,3976,40203
+recent+hybrid,4000,1192316e,multi-session,True,True,3987,90738
+recent+hybrid,4000,0ea62687,multi-session,True,True,3983,54174
+recent+hybrid,4000,67e0d0f2,multi-session,True,False,3988,26711
+recent+hybrid,4000,bb7c3b45,multi-session,True,True,3992,14007
+recent+hybrid,4000,ba358f49,multi-session,True,False,3971,36657
+recent+hybrid,4000,61f8c8f8,multi-session,True,False,4000,45326
+recent+hybrid,4000,60159905,multi-session,True,True,3992,104091
+recent+hybrid,4000,ef9cf60a,multi-session,True,False,3992,5537
+recent+hybrid,4000,73d42213,multi-session,True,True,4000,10082
+recent+hybrid,4000,bc149d6b,multi-session,True,False,3939,95428
+recent+hybrid,4000,099778bb,multi-session,True,False,3977,9420
+recent+hybrid,4000,09ba9854,multi-session,True,True,3959,47955
+recent+hybrid,4000,d6062bb9,multi-session,True,False,3986,77016
+recent+hybrid,4000,157a136e,multi-session,True,False,3989,7978
+recent+hybrid,4000,c18a7dc8,multi-session,False,False,3989,44509
+recent+hybrid,4000,a3332713,multi-session,True,False,3990,26499
+recent+hybrid,4000,55241a1f,multi-session,True,False,3985,65149
+recent+hybrid,4000,a08a253f,multi-session,True,False,3999,40346
+recent+hybrid,4000,f0e564bc,multi-session,True,True,3971,41211
+recent+hybrid,4000,078150f1,multi-session,True,True,3996,36172
+recent+hybrid,4000,8cf4d046,multi-session,True,False,3983,2249
+recent+hybrid,4000,a346bb18,multi-session,True,False,3923,62858
+recent+hybrid,4000,37f165cf,multi-session,True,True,3999,33494
+recent+hybrid,4000,8e91e7d9,multi-session,False,False,3947,68342
+recent+hybrid,4000,87f22b4a,multi-session,True,True,3939,34419
+recent+hybrid,4000,e56a43b9,multi-session,True,True,3992,32646
+recent+hybrid,4000,efc3f7c2,multi-session,True,True,3969,7953
+recent+hybrid,4000,21d02d0d,multi-session,True,True,3984,42404
+recent+hybrid,4000,6456829e_abs,multi-session,True,True,3987,85748
+recent+hybrid,4000,e5ba910e_abs,multi-session,True,True,3985,65517
+recent+hybrid,4000,09ba9854_abs,multi-session,True,True,3989,109798
+recent+hybrid,4000,gpt4_59149c77,temporal-reasoning,True,False,3977,52194
+recent+hybrid,4000,gpt4_f49edff3,temporal-reasoning,True,True,3946,12603
+recent+hybrid,4000,71017276,temporal-reasoning,True,True,3998,11768
+recent+hybrid,4000,b46e15ed,temporal-reasoning,True,False,3988,1837
+recent+hybrid,4000,gpt4_fa19884c,temporal-reasoning,True,True,3995,27805
+recent+hybrid,4000,0bc8ad92,temporal-reasoning,True,False,3979,51862
+recent+hybrid,4000,af082822,temporal-reasoning,False,False,3976,95415
+recent+hybrid,4000,gpt4_4929293a,temporal-reasoning,True,True,3972,45803
+recent+hybrid,4000,gpt4_b5700ca9,temporal-reasoning,True,True,3985,69237
+recent+hybrid,4000,9a707b81,temporal-reasoning,True,True,3966,18658
+recent+hybrid,4000,gpt4_1d4ab0c9,temporal-reasoning,True,True,3966,54740
+recent+hybrid,4000,gpt4_e072b769,temporal-reasoning,True,True,3996,66407
+recent+hybrid,4000,0db4c65d,temporal-reasoning,True,True,3993,11194
+recent+hybrid,4000,gpt4_1d80365e,temporal-reasoning,True,True,3996,46711
+recent+hybrid,4000,gpt4_7f6b06db,temporal-reasoning,False,False,4000,17687
+recent+hybrid,4000,gpt4_6dc9b45b,temporal-reasoning,True,True,3990,13305
+recent+hybrid,4000,gpt4_8279ba02,temporal-reasoning,True,True,3991,89911
+recent+hybrid,4000,gpt4_18c2b244,temporal-reasoning,True,True,3983,25607
+recent+hybrid,4000,gpt4_a1b77f9c,temporal-reasoning,True,False,3979,15335
+recent+hybrid,4000,gpt4_1916e0ea,temporal-reasoning,True,False,3995,82304
+recent+hybrid,4000,gpt4_7a0daae1,temporal-reasoning,True,True,3998,94526
+recent+hybrid,4000,gpt4_468eb063,temporal-reasoning,False,False,3990,91636
+recent+hybrid,4000,gpt4_7abb270c,temporal-reasoning,True,False,4000,10342
+recent+hybrid,4000,gpt4_1e4a8aeb,temporal-reasoning,True,True,3992,30471
+recent+hybrid,4000,gpt4_4fc4f797,temporal-reasoning,True,False,3992,21363
+recent+hybrid,4000,4dfccbf7,temporal-reasoning,True,True,3989,19012
+recent+hybrid,4000,gpt4_61e13b3c,temporal-reasoning,True,False,3970,14189
+recent+hybrid,4000,gpt4_45189cb4,temporal-reasoning,True,False,3996,106871
+recent+hybrid,4000,2ebe6c90,temporal-reasoning,True,True,4000,61389
+recent+hybrid,4000,gpt4_e061b84f,temporal-reasoning,False,False,3986,43742
+recent+hybrid,4000,370a8ff4,temporal-reasoning,True,True,3991,19306
+recent+hybrid,4000,gpt4_d6585ce8,temporal-reasoning,True,False,3999,3618
+recent+hybrid,4000,gpt4_4ef30696,temporal-reasoning,True,True,3999,27908
+recent+hybrid,4000,gpt4_ec93e27f,temporal-reasoning,False,False,3975,49776
+recent+hybrid,4000,6e984301,temporal-reasoning,True,True,3994,16098
+recent+hybrid,4000,8077ef71,temporal-reasoning,True,True,3999,91530
+recent+hybrid,4000,gpt4_f420262c,temporal-reasoning,True,False,3992,10311
+recent+hybrid,4000,gpt4_8e165409,temporal-reasoning,True,True,3985,42585
+recent+hybrid,4000,gpt4_74aed68e,temporal-reasoning,True,True,3975,31558
+recent+hybrid,4000,bcbe585f,temporal-reasoning,True,True,3986,70034
+recent+hybrid,4000,gpt4_21adecb5,temporal-reasoning,True,False,3984,41327
+recent+hybrid,4000,5e1b23de,temporal-reasoning,False,False,3927,77133
+recent+hybrid,4000,gpt4_98f46fc6,temporal-reasoning,True,False,3994,97910
+recent+hybrid,4000,gpt4_af6db32f,temporal-reasoning,True,True,3998,17031
+recent+hybrid,4000,eac54adc,temporal-reasoning,True,False,3973,53813
+recent+hybrid,4000,gpt4_7ddcf75f,temporal-reasoning,True,True,3985,83401
+recent+hybrid,4000,gpt4_a2d1d1f6,temporal-reasoning,True,True,3984,85859
+recent+hybrid,4000,gpt4_85da3956,temporal-reasoning,True,True,3996,80558
+recent+hybrid,4000,gpt4_b0863698,temporal-reasoning,True,True,3989,19876
+recent+hybrid,4000,gpt4_68e94287,temporal-reasoning,True,True,3962,76782
+recent+hybrid,4000,gpt4_e414231e,temporal-reasoning,True,True,3980,57478
+recent+hybrid,4000,gpt4_7ca326fa,temporal-reasoning,True,False,3984,6177
+recent+hybrid,4000,gpt4_7bc6cf22,temporal-reasoning,True,True,3996,113230
+recent+hybrid,4000,2ebe6c92,temporal-reasoning,True,False,3988,14828
+recent+hybrid,4000,gpt4_e061b84g,temporal-reasoning,False,False,3988,42328
+recent+hybrid,4000,71017277,temporal-reasoning,False,False,3953,34122
+recent+hybrid,4000,b46e15ee,temporal-reasoning,True,True,3988,35757
+recent+hybrid,4000,gpt4_d6585ce9,temporal-reasoning,False,False,3890,67749
+recent+hybrid,4000,gpt4_1e4a8aec,temporal-reasoning,False,False,3997,11492
+recent+hybrid,4000,gpt4_f420262d,temporal-reasoning,True,False,3978,23063
+recent+hybrid,4000,gpt4_59149c78,temporal-reasoning,False,False,3983,53630
+recent+hybrid,4000,gpt4_e414231f,temporal-reasoning,False,False,3987,36344
+recent+hybrid,4000,gpt4_4929293b,temporal-reasoning,False,False,3957,7956
+recent+hybrid,4000,gpt4_468eb064,temporal-reasoning,True,True,3976,89949
+recent+hybrid,4000,gpt4_fa19884d,temporal-reasoning,True,True,3993,41750
+recent+hybrid,4000,9a707b82,temporal-reasoning,True,True,3989,85853
+recent+hybrid,4000,eac54add,temporal-reasoning,False,False,3968,29500
+recent+hybrid,4000,4dfccbf8,temporal-reasoning,False,False,3992,12525
+recent+hybrid,4000,0bc8ad93,temporal-reasoning,False,False,3977,97624
+recent+hybrid,4000,6e984302,temporal-reasoning,False,False,3980,9465
+recent+hybrid,4000,gpt4_8279ba03,temporal-reasoning,False,False,3974,28706
+recent+hybrid,4000,gpt4_b5700ca0,temporal-reasoning,True,True,3984,41649
+recent+hybrid,4000,gpt4_68e94288,temporal-reasoning,False,False,3992,37998
+recent+hybrid,4000,gpt4_2655b836,temporal-reasoning,True,True,3975,78055
+recent+hybrid,4000,gpt4_2487a7cb,temporal-reasoning,True,False,3999,15215
+recent+hybrid,4000,gpt4_76048e76,temporal-reasoning,True,False,3979,67604
+recent+hybrid,4000,gpt4_2312f94c,temporal-reasoning,True,True,3989,70178
+recent+hybrid,4000,0bb5a684,temporal-reasoning,True,False,3976,75112
+recent+hybrid,4000,08f4fc43,temporal-reasoning,True,True,3995,56294
+recent+hybrid,4000,2c63a862,temporal-reasoning,False,False,3996,30342
+recent+hybrid,4000,gpt4_385a5000,temporal-reasoning,True,True,3988,7637
+recent+hybrid,4000,2a1811e2,temporal-reasoning,True,True,3997,49375
+recent+hybrid,4000,bbf86515,temporal-reasoning,False,False,3973,30596
+recent+hybrid,4000,gpt4_5dcc0aab,temporal-reasoning,True,True,3987,30799
+recent+hybrid,4000,gpt4_0b2f1d21,temporal-reasoning,True,False,3982,29005
+recent+hybrid,4000,f0853d11,temporal-reasoning,False,False,3997,68784
+recent+hybrid,4000,gpt4_6ed717ea,temporal-reasoning,True,False,3969,64429
+recent+hybrid,4000,gpt4_70e84552,temporal-reasoning,True,True,3994,15017
+recent+hybrid,4000,a3838d2b,temporal-reasoning,True,False,3960,27433
+recent+hybrid,4000,gpt4_93159ced,temporal-reasoning,True,False,3990,55619
+recent+hybrid,4000,gpt4_2d58bcd6,temporal-reasoning,True,False,3995,6913
+recent+hybrid,4000,gpt4_65aabe59,temporal-reasoning,True,False,4000,17697
+recent+hybrid,4000,982b5123,temporal-reasoning,True,True,4000,29716
+recent+hybrid,4000,b9cfe692,temporal-reasoning,True,True,3991,96893
+recent+hybrid,4000,gpt4_4edbafa2,temporal-reasoning,True,True,3977,3519
+recent+hybrid,4000,c8090214,temporal-reasoning,True,True,3995,43716
+recent+hybrid,4000,gpt4_483dd43c,temporal-reasoning,True,True,3990,28626
+recent+hybrid,4000,e4e14d04,temporal-reasoning,True,True,3991,10684
+recent+hybrid,4000,c9f37c46,temporal-reasoning,True,True,3985,41755
+recent+hybrid,4000,gpt4_2c50253f,temporal-reasoning,True,True,3979,32304
+recent+hybrid,4000,dcfa8644,temporal-reasoning,True,True,3984,28071
+recent+hybrid,4000,gpt4_b4a80587,temporal-reasoning,True,False,3988,58090
+recent+hybrid,4000,gpt4_9a159967,temporal-reasoning,True,False,3939,53286
+recent+hybrid,4000,cc6d1ec1,temporal-reasoning,True,False,4000,3475
+recent+hybrid,4000,gpt4_8c8961ae,temporal-reasoning,True,False,3961,70735
+recent+hybrid,4000,gpt4_d9af6064,temporal-reasoning,True,True,3981,26809
+recent+hybrid,4000,gpt4_7de946e7,temporal-reasoning,True,True,4000,24545
+recent+hybrid,4000,d01c6aa8,temporal-reasoning,False,False,3991,52544
+recent+hybrid,4000,993da5e2,temporal-reasoning,True,True,3995,21624
+recent+hybrid,4000,a3045048,temporal-reasoning,True,False,3992,44869
+recent+hybrid,4000,gpt4_d31cdae3,temporal-reasoning,True,False,3978,46671
+recent+hybrid,4000,gpt4_cd90e484,temporal-reasoning,True,True,3986,33585
+recent+hybrid,4000,gpt4_88806d6e,temporal-reasoning,True,False,3996,25042
+recent+hybrid,4000,gpt4_4cd9eba1,temporal-reasoning,True,True,3973,65713
+recent+hybrid,4000,gpt4_93f6379c,temporal-reasoning,True,False,3963,17993
+recent+hybrid,4000,b29f3365,temporal-reasoning,True,True,3962,59011
+recent+hybrid,4000,gpt4_2f56ae70,temporal-reasoning,True,False,3937,25584
+recent+hybrid,4000,6613b389,temporal-reasoning,True,False,3995,86413
+recent+hybrid,4000,gpt4_78cf46a3,temporal-reasoning,True,True,3994,12198
+recent+hybrid,4000,gpt4_0a05b494,temporal-reasoning,True,True,3996,26291
+recent+hybrid,4000,gpt4_1a1dc16d,temporal-reasoning,True,False,3972,11402
+recent+hybrid,4000,gpt4_2f584639,temporal-reasoning,True,True,3970,69133
+recent+hybrid,4000,gpt4_213fd887,temporal-reasoning,True,False,3965,73332
+recent+hybrid,4000,gpt4_5438fa52,temporal-reasoning,True,True,3994,67445
+recent+hybrid,4000,gpt4_c27434e8,temporal-reasoning,True,False,3962,62264
+recent+hybrid,4000,gpt4_fe651585,temporal-reasoning,True,True,3988,1866
+recent+hybrid,4000,8c18457d,temporal-reasoning,True,True,3973,35413
+recent+hybrid,4000,gpt4_70e84552_abs,temporal-reasoning,True,True,3991,3917
+recent+hybrid,4000,982b5123_abs,temporal-reasoning,True,True,3997,11235
+recent+hybrid,4000,c8090214_abs,temporal-reasoning,True,True,3978,31904
+recent+hybrid,4000,gpt4_c27434e8_abs,temporal-reasoning,False,False,3969,122748
+recent+hybrid,4000,gpt4_fe651585_abs,temporal-reasoning,True,True,3991,100628
+recent+hybrid,4000,6a1eabeb,knowledge-update,True,True,4000,4342
+recent+hybrid,4000,6aeb4375,knowledge-update,True,True,3986,2004
+recent+hybrid,4000,830ce83f,knowledge-update,True,True,3994,8475
+recent+hybrid,4000,852ce960,knowledge-update,True,True,4000,6076
+recent+hybrid,4000,945e3d21,knowledge-update,False,False,3975,73802
+recent+hybrid,4000,d7c942c3,knowledge-update,True,True,3987,25027
+recent+hybrid,4000,71315a70,knowledge-update,True,True,3998,49667
+recent+hybrid,4000,89941a93,knowledge-update,True,False,3997,51314
+recent+hybrid,4000,ce6d2d27,knowledge-update,True,True,3997,81812
+recent+hybrid,4000,9ea5eabc,knowledge-update,True,False,3996,21205
+recent+hybrid,4000,07741c44,knowledge-update,True,False,3994,53686
+recent+hybrid,4000,a1eacc2a,knowledge-update,True,True,3965,39664
+recent+hybrid,4000,184da446,knowledge-update,False,False,3998,6685
+recent+hybrid,4000,031748ae,knowledge-update,True,True,3995,105542
+recent+hybrid,4000,4d6b87c8,knowledge-update,True,True,3988,15179
+recent+hybrid,4000,0f05491a,knowledge-update,True,True,4000,4342
+recent+hybrid,4000,08e075c7,knowledge-update,True,True,3995,12299
+recent+hybrid,4000,f9e8c073,knowledge-update,True,False,3961,29065
+recent+hybrid,4000,41698283,knowledge-update,True,False,3969,3683
+recent+hybrid,4000,2698e78f,knowledge-update,True,True,3982,21887
+recent+hybrid,4000,b6019101,knowledge-update,True,True,3998,7419
+recent+hybrid,4000,45dc21b6,knowledge-update,True,True,3985,16853
+recent+hybrid,4000,5a4f22c0,knowledge-update,True,True,4000,18089
+recent+hybrid,4000,6071bd76,knowledge-update,True,True,3944,70026
+recent+hybrid,4000,e493bb7c,knowledge-update,True,True,3997,48127
+recent+hybrid,4000,618f13b2,knowledge-update,True,True,3998,36203
+recent+hybrid,4000,72e3ee87,knowledge-update,True,True,3993,15363
+recent+hybrid,4000,c4ea545c,knowledge-update,True,True,3986,46602
+recent+hybrid,4000,01493427,knowledge-update,True,True,3981,47244
+recent+hybrid,4000,6a27ffc2,knowledge-update,True,True,3956,23910
+recent+hybrid,4000,2133c1b5,knowledge-update,True,True,3997,41876
+recent+hybrid,4000,18bc8abd,knowledge-update,True,False,3998,3867
+recent+hybrid,4000,db467c8c,knowledge-update,False,False,3993,29672
+recent+hybrid,4000,7a87bd0c,knowledge-update,True,True,3982,27772
+recent+hybrid,4000,e61a7584,knowledge-update,True,False,3981,42823
+recent+hybrid,4000,1cea1afa,knowledge-update,True,False,3980,6522
+recent+hybrid,4000,ed4ddc30,knowledge-update,True,True,3998,19303
+recent+hybrid,4000,8fb83627,knowledge-update,True,True,3948,6203
+recent+hybrid,4000,b01defab,knowledge-update,True,True,3989,8982
+recent+hybrid,4000,22d2cb42,knowledge-update,False,False,3999,59679
+recent+hybrid,4000,0e4e4c46,knowledge-update,True,True,3976,1079
+recent+hybrid,4000,4b24c848,knowledge-update,True,True,3997,13836
+recent+hybrid,4000,7e974930,knowledge-update,True,True,3991,6295
+recent+hybrid,4000,603deb26,knowledge-update,True,True,3978,4212
+recent+hybrid,4000,59524333,knowledge-update,True,True,3999,10354
+recent+hybrid,4000,5831f84d,knowledge-update,True,True,3992,34663
+recent+hybrid,4000,eace081b,knowledge-update,True,True,3983,24582
+recent+hybrid,4000,affe2881,knowledge-update,True,True,3997,53986
+recent+hybrid,4000,50635ada,knowledge-update,True,True,3961,17181
+recent+hybrid,4000,e66b632c,knowledge-update,True,False,3998,5474
+recent+hybrid,4000,0ddfec37,knowledge-update,True,True,3993,38635
+recent+hybrid,4000,f685340e,knowledge-update,True,True,3998,4870
+recent+hybrid,4000,cc5ded98,knowledge-update,True,True,3954,84419
+recent+hybrid,4000,dfde3500,knowledge-update,True,False,3986,54591
+recent+hybrid,4000,69fee5aa,knowledge-update,True,True,3993,28813
+recent+hybrid,4000,7401057b,knowledge-update,True,True,4000,47556
+recent+hybrid,4000,cf22b7bf,knowledge-update,True,True,3995,6702
+recent+hybrid,4000,a2f3aa27,knowledge-update,True,True,3978,12057
+recent+hybrid,4000,c7dc5443,knowledge-update,True,False,3999,8329
+recent+hybrid,4000,06db6396,knowledge-update,True,True,3998,43859
+recent+hybrid,4000,3ba21379,knowledge-update,True,False,3926,90614
+recent+hybrid,4000,9bbe84a2,knowledge-update,False,False,3998,87507
+recent+hybrid,4000,10e09553,knowledge-update,True,True,4000,24685
+recent+hybrid,4000,dad224aa,knowledge-update,False,False,3998,2153
+recent+hybrid,4000,ba61f0b9,knowledge-update,True,False,3994,14978
+recent+hybrid,4000,42ec0761,knowledge-update,True,True,3979,2474
+recent+hybrid,4000,5c40ec5b,knowledge-update,True,True,3994,2358
+recent+hybrid,4000,c6853660,knowledge-update,True,True,3975,95542
+recent+hybrid,4000,26bdc477,knowledge-update,True,True,3993,23297
+recent+hybrid,4000,0977f2af,knowledge-update,True,True,3996,13256
+recent+hybrid,4000,89941a94,knowledge-update,True,True,3994,3935
+recent+hybrid,4000,07741c45,knowledge-update,True,False,3996,41471
+recent+hybrid,4000,7161e7e2,single-session-assistant,True,True,3999,84971
+recent+hybrid,4000,c4f10528,single-session-assistant,True,True,3985,13516
+recent+hybrid,4000,89527b6b,single-session-assistant,True,True,3999,72598
+recent+hybrid,4000,e9327a54,single-session-assistant,True,True,3994,91131
+recent+hybrid,4000,4c36ccef,single-session-assistant,True,True,3975,2392
+recent+hybrid,4000,6ae235be,single-session-assistant,True,True,3999,37593
+recent+hybrid,4000,7e00a6cb,single-session-assistant,True,True,3993,49063
+recent+hybrid,4000,1903aded,single-session-assistant,True,True,3994,47845
+recent+hybrid,4000,ceb54acb,single-session-assistant,True,True,3996,57740
+recent+hybrid,4000,f523d9fe,single-session-assistant,True,True,3960,51680
+recent+hybrid,4000,0e5e2d1a,single-session-assistant,True,True,3973,61448
+recent+hybrid,4000,fea54f57,single-session-assistant,True,True,3995,68025
+recent+hybrid,4000,cc539528,single-session-assistant,True,True,3988,33628
+recent+hybrid,4000,dc439ea3,single-session-assistant,True,True,3958,87228
+recent+hybrid,4000,18dcd5a5,single-session-assistant,True,True,3997,22445
+recent+hybrid,4000,488d3006,single-session-assistant,True,True,3996,6869
+recent+hybrid,4000,58470ed2,single-session-assistant,True,True,3993,32164
+recent+hybrid,4000,8cf51dda,single-session-assistant,True,True,3990,19320
+recent+hybrid,4000,1d4da289,single-session-assistant,True,True,3992,94227
+recent+hybrid,4000,8464fc84,single-session-assistant,True,True,3987,45715
+recent+hybrid,4000,8aef76bc,single-session-assistant,True,True,3994,122599
+recent+hybrid,4000,71a3fd6b,single-session-assistant,True,True,3985,22830
+recent+hybrid,4000,2bf43736,single-session-assistant,True,True,3923,8804
+recent+hybrid,4000,70b3e69b,single-session-assistant,True,True,3986,109957
+recent+hybrid,4000,8752c811,single-session-assistant,True,True,3985,93638
+recent+hybrid,4000,3249768e,single-session-assistant,True,True,3971,86443
+recent+hybrid,4000,1b9b7252,single-session-assistant,True,True,4000,58632
+recent+hybrid,4000,1568498a,single-session-assistant,True,True,3992,107030
+recent+hybrid,4000,6222b6eb,single-session-assistant,True,True,3989,42267
+recent+hybrid,4000,e8a79c70,single-session-assistant,True,True,3977,103484
+recent+hybrid,4000,d596882b,single-session-assistant,True,True,3995,46083
+recent+hybrid,4000,e3fc4d6e,single-session-assistant,True,True,3923,44712
+recent+hybrid,4000,51b23612,single-session-assistant,True,True,3979,16474
+recent+hybrid,4000,3e321797,single-session-assistant,True,True,3998,26136
+recent+hybrid,4000,e982271f,single-session-assistant,True,True,3994,42508
+recent+hybrid,4000,352ab8bd,single-session-assistant,True,True,3986,93712
+recent+hybrid,4000,fca762bc,single-session-assistant,True,True,3997,73139
+recent+hybrid,4000,7a8d0b71,single-session-assistant,True,True,3967,74271
+recent+hybrid,4000,a40e080f,single-session-assistant,True,True,3998,43965
+recent+hybrid,4000,8b9d4367,single-session-assistant,True,True,3992,27173
+recent+hybrid,4000,5809eb10,single-session-assistant,True,True,3999,1207
+recent+hybrid,4000,41275add,single-session-assistant,True,True,3999,62104
+recent+hybrid,4000,4388e9dd,single-session-assistant,True,True,3996,112632
+recent+hybrid,4000,4baee567,single-session-assistant,True,True,3996,24722
+recent+hybrid,4000,561fabcd,single-session-assistant,False,False,3967,6573
+recent+hybrid,4000,b759caee,single-session-assistant,True,True,3984,43161
+recent+hybrid,4000,ac031881,single-session-assistant,True,True,3995,109827
+recent+hybrid,4000,28bcfaac,single-session-assistant,True,True,3993,114539
+recent+hybrid,4000,16c90bf4,single-session-assistant,True,True,3983,35292
+recent+hybrid,4000,c8f1aeed,single-session-assistant,True,True,3949,96546
+recent+hybrid,4000,eaca4986,single-session-assistant,True,True,3991,22076
+recent+hybrid,4000,c7cf7dfd,single-session-assistant,True,True,3980,11082
+recent+hybrid,4000,e48988bc,single-session-assistant,True,True,3982,29304
+recent+hybrid,4000,1de5cff2,single-session-assistant,True,True,3978,8478
+recent+hybrid,4000,65240037,single-session-assistant,True,True,3997,95475
+recent+hybrid,4000,778164c6,single-session-assistant,True,True,3978,5808
+recent+hybrid,16000,e47becba,single-session-user,True,True,15989,6851
+recent+hybrid,16000,118b2229,single-session-user,True,True,15955,101459
+recent+hybrid,16000,51a45a95,single-session-user,True,True,15994,21122
+recent+hybrid,16000,58bf7951,single-session-user,True,True,15992,53252
+recent+hybrid,16000,1e043500,single-session-user,True,True,15980,92373
+recent+hybrid,16000,c5e8278d,single-session-user,True,True,15982,23440
+recent+hybrid,16000,6ade9755,single-session-user,True,True,15980,1322
+recent+hybrid,16000,6f9b354f,single-session-user,True,True,15981,33408
+recent+hybrid,16000,58ef2f1c,single-session-user,True,True,15981,680
+recent+hybrid,16000,f8c5f88b,single-session-user,True,True,15979,50967
+recent+hybrid,16000,5d3d2817,single-session-user,True,True,15998,64551
+recent+hybrid,16000,7527f7e2,single-session-user,True,True,15992,81687
+recent+hybrid,16000,c960da58,single-session-user,True,True,15998,113840
+recent+hybrid,16000,3b6f954b,single-session-user,True,True,15964,61307
+recent+hybrid,16000,726462e0,single-session-user,True,True,15994,90529
+recent+hybrid,16000,94f70d80,single-session-user,True,True,15997,11132
+recent+hybrid,16000,66f24dbb,single-session-user,True,True,15971,83953
+recent+hybrid,16000,ad7109d1,single-session-user,True,True,15965,69368
+recent+hybrid,16000,af8d2e46,single-session-user,True,True,15997,13317
+recent+hybrid,16000,dccbc061,single-session-user,True,True,15973,78292
+recent+hybrid,16000,c8c3f81d,single-session-user,True,True,15994,17091
+recent+hybrid,16000,8ebdbe50,single-session-user,True,True,15982,21676
+recent+hybrid,16000,6b168ec8,single-session-user,True,True,15989,40042
+recent+hybrid,16000,75499fd8,single-session-user,True,True,15998,61494
+recent+hybrid,16000,21436231,single-session-user,True,True,15995,104117
+recent+hybrid,16000,95bcc1c8,single-session-user,True,True,15987,100121
+recent+hybrid,16000,0862e8bf,single-session-user,True,True,15983,56465
+recent+hybrid,16000,853b0a1d,single-session-user,True,True,15985,79719
+recent+hybrid,16000,a06e4cfe,single-session-user,True,True,15985,102425
+recent+hybrid,16000,37d43f65,single-session-user,True,True,15988,22597
+recent+hybrid,16000,b86304ba,single-session-user,True,True,15988,4086
+recent+hybrid,16000,d52b4f67,single-session-user,True,True,15991,13729
+recent+hybrid,16000,25e5aa4f,single-session-user,True,True,15984,26200
+recent+hybrid,16000,caf9ead2,single-session-user,True,True,15996,82299
+recent+hybrid,16000,8550ddae,single-session-user,True,True,15998,108153
+recent+hybrid,16000,60d45044,single-session-user,True,True,15998,50830
+recent+hybrid,16000,3f1e9474,single-session-user,True,True,15991,104954
+recent+hybrid,16000,86b68151,single-session-user,True,True,15995,30557
+recent+hybrid,16000,577d4d32,single-session-user,True,True,15977,14281
+recent+hybrid,16000,ec81a493,single-session-user,True,True,15989,33241
+recent+hybrid,16000,15745da0,single-session-user,True,True,15994,105934
+recent+hybrid,16000,e01b8e2f,single-session-user,True,True,15978,81946
+recent+hybrid,16000,bc8a6e93,single-session-user,True,True,15991,58724
+recent+hybrid,16000,ccb36322,single-session-user,True,True,15981,108639
+recent+hybrid,16000,001be529,single-session-user,True,True,15968,21144
+recent+hybrid,16000,b320f3f8,single-session-user,True,True,15995,19840
+recent+hybrid,16000,19b5f2b3,single-session-user,True,True,15994,19925
+recent+hybrid,16000,4fd1909e,single-session-user,True,True,15988,70909
+recent+hybrid,16000,545bd2b5,single-session-user,True,True,16000,32966
+recent+hybrid,16000,8a137a7f,single-session-user,True,True,15984,104427
+recent+hybrid,16000,76d63226,single-session-user,True,True,15976,97971
+recent+hybrid,16000,86f00804,single-session-user,True,True,15995,96772
+recent+hybrid,16000,8e9d538c,single-session-user,True,True,15993,32477
+recent+hybrid,16000,311778f1,single-session-user,True,True,16000,51302
+recent+hybrid,16000,c19f7a0b,single-session-user,True,True,15986,71006
+recent+hybrid,16000,4100d0a0,single-session-user,True,True,15989,2615
+recent+hybrid,16000,29f2956b,single-session-user,True,True,15976,89503
+recent+hybrid,16000,1faac195,single-session-user,True,True,15999,111711
+recent+hybrid,16000,faba32e5,single-session-user,True,True,15966,53290
+recent+hybrid,16000,f4f1d8a4,single-session-user,True,True,15999,2893
+recent+hybrid,16000,c14c00dd,single-session-user,True,True,15988,102586
+recent+hybrid,16000,36580ce8,single-session-user,True,True,15997,15912
+recent+hybrid,16000,3d86fd0a,single-session-user,True,True,15957,101331
+recent+hybrid,16000,a82c026e,single-session-user,True,True,15989,36527
+recent+hybrid,16000,0a995998,multi-session,True,True,15917,33621
+recent+hybrid,16000,6d550036,multi-session,True,False,16000,25901
+recent+hybrid,16000,gpt4_59c863d7,multi-session,True,True,15993,4660
+recent+hybrid,16000,b5ef892d,multi-session,True,True,15998,23147
+recent+hybrid,16000,e831120c,multi-session,True,True,15976,56242
+recent+hybrid,16000,3a704032,multi-session,True,True,15998,80210
+recent+hybrid,16000,gpt4_d84a3211,multi-session,True,True,15994,3005
+recent+hybrid,16000,aae3761f,multi-session,True,True,15996,45928
+recent+hybrid,16000,gpt4_f2262a51,multi-session,False,False,15996,78822
+recent+hybrid,16000,dd2973ad,multi-session,True,True,15995,9031
+recent+hybrid,16000,c4a1ceb8,multi-session,True,False,15978,3257
+recent+hybrid,16000,gpt4_a56e767c,multi-session,True,False,16000,43501
+recent+hybrid,16000,6cb6f249,multi-session,True,True,15972,57920
+recent+hybrid,16000,46a3abf7,multi-session,True,False,15994,40979
+recent+hybrid,16000,36b9f61e,multi-session,True,True,16000,45038
+recent+hybrid,16000,28dc39ac,multi-session,True,True,15979,38670
+recent+hybrid,16000,gpt4_2f8be40d,multi-session,True,False,15995,15137
+recent+hybrid,16000,2e6d26dc,multi-session,True,True,15999,48321
+recent+hybrid,16000,gpt4_15e38248,multi-session,True,False,15988,13952
+recent+hybrid,16000,88432d0a,multi-session,True,False,15983,14500
+recent+hybrid,16000,80ec1f4f,multi-session,True,False,15969,42266
+recent+hybrid,16000,d23cf73b,multi-session,True,True,15961,14394
+recent+hybrid,16000,gpt4_7fce9456,multi-session,True,False,15976,14839
+recent+hybrid,16000,d682f1a2,multi-session,True,True,15996,13510
+recent+hybrid,16000,7024f17c,multi-session,True,False,15987,67459
+recent+hybrid,16000,gpt4_5501fe77,multi-session,True,True,15979,17344
+recent+hybrid,16000,gpt4_2ba83207,multi-session,True,True,15993,11633
+recent+hybrid,16000,2318644b,multi-session,True,True,15989,63327
+recent+hybrid,16000,2ce6a0f2,multi-session,True,False,15983,22590
+recent+hybrid,16000,gpt4_d12ceb0e,multi-session,True,True,15993,51368
+recent+hybrid,16000,00ca467f,multi-session,True,True,15978,22994
+recent+hybrid,16000,b3c15d39,multi-session,True,True,15998,44822
+recent+hybrid,16000,gpt4_31ff4165,multi-session,True,False,15971,7124
+recent+hybrid,16000,eeda8a6d,multi-session,True,True,15987,32228
+recent+hybrid,16000,2788b940,multi-session,True,False,15994,14390
+recent+hybrid,16000,60bf93ed,multi-session,True,True,15987,78263
+recent+hybrid,16000,9d25d4e0,multi-session,True,False,15988,32385
+recent+hybrid,16000,129d1232,multi-session,True,True,15945,7716
+recent+hybrid,16000,60472f9c,multi-session,True,True,15941,25817
+recent+hybrid,16000,gpt4_194be4b3,multi-session,True,False,15980,22431
+recent+hybrid,16000,a9f6b44c,multi-session,True,True,15982,28008
+recent+hybrid,16000,d851d5ba,multi-session,True,False,15998,26694
+recent+hybrid,16000,5a7937c8,multi-session,True,True,15950,22360
+recent+hybrid,16000,gpt4_ab202e7f,multi-session,True,False,15928,10017
+recent+hybrid,16000,gpt4_e05b82a6,multi-session,True,True,15983,10099
+recent+hybrid,16000,gpt4_731e37d7,multi-session,True,False,15992,63753
+recent+hybrid,16000,edced276,multi-session,True,True,15979,70532
+recent+hybrid,16000,10d9b85a,multi-session,True,True,15970,10775
+recent+hybrid,16000,e3038f8c,multi-session,True,False,15999,85716
+recent+hybrid,16000,2b8f3739,multi-session,True,True,15984,4419
+recent+hybrid,16000,1a8a66a6,multi-session,True,False,15981,29351
+recent+hybrid,16000,c2ac3c61,multi-session,True,True,15982,4419
+recent+hybrid,16000,bf659f65,multi-session,True,False,15989,9631
+recent+hybrid,16000,gpt4_372c3eed,multi-session,True,True,15956,17171
+recent+hybrid,16000,gpt4_2f91af09,multi-session,True,True,15999,6821
+recent+hybrid,16000,81507db6,multi-session,True,True,15987,47634
+recent+hybrid,16000,edced276_abs,multi-session,True,True,15993,72868
+recent+hybrid,16000,8a2466db,single-session-preference,True,True,15970,100340
+recent+hybrid,16000,06878be2,single-session-preference,True,True,15981,31120
+recent+hybrid,16000,75832dbd,single-session-preference,True,True,15992,105706
+recent+hybrid,16000,0edc2aef,single-session-preference,True,True,15984,19462
+recent+hybrid,16000,35a27287,single-session-preference,True,True,15986,21596
+recent+hybrid,16000,32260d93,single-session-preference,True,True,15972,18733
+recent+hybrid,16000,195a1a1b,single-session-preference,True,True,15971,3225
+recent+hybrid,16000,afdc33df,single-session-preference,True,True,15971,107646
+recent+hybrid,16000,caf03d32,single-session-preference,True,True,15998,4444
+recent+hybrid,16000,54026fce,single-session-preference,True,True,15951,57768
+recent+hybrid,16000,06f04340,single-session-preference,False,False,15963,90354
+recent+hybrid,16000,6b7dfb22,single-session-preference,True,True,15958,95327
+recent+hybrid,16000,1a1907b4,single-session-preference,False,False,15980,109598
+recent+hybrid,16000,09d032c9,single-session-preference,True,True,15991,47551
+recent+hybrid,16000,38146c39,single-session-preference,True,True,15997,45691
+recent+hybrid,16000,d24813b1,single-session-preference,True,True,15974,26471
+recent+hybrid,16000,57f827a0,single-session-preference,True,True,15994,40564
+recent+hybrid,16000,95228167,single-session-preference,True,True,15979,53337
+recent+hybrid,16000,505af2f5,single-session-preference,True,True,15973,102154
+recent+hybrid,16000,75f70248,single-session-preference,True,True,15979,55796
+recent+hybrid,16000,d6233ab6,single-session-preference,True,True,15937,96182
+recent+hybrid,16000,1da05512,single-session-preference,True,True,15978,24924
+recent+hybrid,16000,fca70973,single-session-preference,True,True,15977,3861
+recent+hybrid,16000,b6025781,single-session-preference,True,True,15946,67738
+recent+hybrid,16000,a89d7624,single-session-preference,True,True,15987,41128
+recent+hybrid,16000,b0479f84,single-session-preference,True,True,16000,25279
+recent+hybrid,16000,1d4e3b97,single-session-preference,True,True,15962,17598
+recent+hybrid,16000,07b6f563,single-session-preference,True,True,15992,29208
+recent+hybrid,16000,1c0ddc50,single-session-preference,True,True,16000,40535
+recent+hybrid,16000,0a34ad58,single-session-preference,True,True,15958,89106
+recent+hybrid,16000,d3ab962e,multi-session,True,False,15989,28353
+recent+hybrid,16000,2311e44b,multi-session,True,True,15973,8729
+recent+hybrid,16000,cc06de0d,multi-session,True,True,15966,25874
+recent+hybrid,16000,a11281a2,multi-session,True,True,15994,30479
+recent+hybrid,16000,4f54b7c9,multi-session,True,True,15997,11253
+recent+hybrid,16000,85fa3a3f,multi-session,True,True,15998,44837
+recent+hybrid,16000,9aaed6a3,multi-session,True,True,15979,93500
+recent+hybrid,16000,1f2b8d4f,multi-session,True,True,15965,89337
+recent+hybrid,16000,e6041065,multi-session,True,True,15989,15346
+recent+hybrid,16000,51c32626,multi-session,True,True,15997,7516
+recent+hybrid,16000,d905b33f,multi-session,True,True,15967,36801
+recent+hybrid,16000,7405e8b1,multi-session,True,True,15964,44136
+recent+hybrid,16000,f35224e0,multi-session,True,True,15984,14278
+recent+hybrid,16000,6456829e,multi-session,True,True,15990,8478
+recent+hybrid,16000,a4996e51,multi-session,True,True,15988,11923
+recent+hybrid,16000,3c1045c8,multi-session,True,True,15979,59971
+recent+hybrid,16000,60036106,multi-session,True,True,15992,13057
+recent+hybrid,16000,681a1674,multi-session,True,True,15929,39400
+recent+hybrid,16000,e25c3b8d,multi-session,True,True,15980,77715
+recent+hybrid,16000,4adc0475,multi-session,True,True,15997,23524
+recent+hybrid,16000,4bc144e2,multi-session,True,True,15976,17847
+recent+hybrid,16000,ef66a6e5,multi-session,True,True,15995,50298
+recent+hybrid,16000,5025383b,multi-session,True,True,15998,3237
+recent+hybrid,16000,a1cc6108,multi-session,True,True,15988,63412
+recent+hybrid,16000,9ee3ecd6,multi-session,True,True,16000,11234
+recent+hybrid,16000,3fdac837,multi-session,True,True,15984,13780
+recent+hybrid,16000,91b15a6e,multi-session,True,True,15976,36808
+recent+hybrid,16000,27016adc,multi-session,True,True,15995,33842
+recent+hybrid,16000,720133ac,multi-session,True,True,15996,5757
+recent+hybrid,16000,77eafa52,multi-session,True,True,15967,38633
+recent+hybrid,16000,8979f9ec,multi-session,True,True,16000,37508
+recent+hybrid,16000,0100672e,multi-session,True,True,15996,11026
+recent+hybrid,16000,a96c20ee,multi-session,True,True,15993,99980
+recent+hybrid,16000,92a0aa75,multi-session,False,False,15983,28286
+recent+hybrid,16000,3fe836c9,multi-session,True,True,15981,13929
+recent+hybrid,16000,1c549ce4,multi-session,True,True,15991,27696
+recent+hybrid,16000,6c49646a,multi-session,True,True,15969,40203
+recent+hybrid,16000,1192316e,multi-session,True,True,15990,90738
+recent+hybrid,16000,0ea62687,multi-session,True,True,15994,54174
+recent+hybrid,16000,67e0d0f2,multi-session,True,True,15984,26711
+recent+hybrid,16000,bb7c3b45,multi-session,True,True,15986,14007
+recent+hybrid,16000,ba358f49,multi-session,True,False,15916,36657
+recent+hybrid,16000,61f8c8f8,multi-session,True,True,15967,45326
+recent+hybrid,16000,60159905,multi-session,True,True,15993,104091
+recent+hybrid,16000,ef9cf60a,multi-session,True,True,15981,5537
+recent+hybrid,16000,73d42213,multi-session,True,True,15996,10082
+recent+hybrid,16000,bc149d6b,multi-session,True,False,15992,95428
+recent+hybrid,16000,099778bb,multi-session,True,True,15973,9420
+recent+hybrid,16000,09ba9854,multi-session,True,True,15999,47955
+recent+hybrid,16000,d6062bb9,multi-session,True,True,15990,77016
+recent+hybrid,16000,157a136e,multi-session,True,True,15985,7978
+recent+hybrid,16000,c18a7dc8,multi-session,False,False,15998,44509
+recent+hybrid,16000,a3332713,multi-session,True,True,15978,26499
+recent+hybrid,16000,55241a1f,multi-session,True,True,15978,65149
+recent+hybrid,16000,a08a253f,multi-session,True,False,15996,40346
+recent+hybrid,16000,f0e564bc,multi-session,True,True,15987,41211
+recent+hybrid,16000,078150f1,multi-session,True,True,15995,36172
+recent+hybrid,16000,8cf4d046,multi-session,True,True,16000,2249
+recent+hybrid,16000,a346bb18,multi-session,True,True,15896,62858
+recent+hybrid,16000,37f165cf,multi-session,True,True,15991,33494
+recent+hybrid,16000,8e91e7d9,multi-session,True,False,16000,68342
+recent+hybrid,16000,87f22b4a,multi-session,True,True,15944,34419
+recent+hybrid,16000,e56a43b9,multi-session,True,True,16000,32646
+recent+hybrid,16000,efc3f7c2,multi-session,True,True,15992,7953
+recent+hybrid,16000,21d02d0d,multi-session,True,True,15969,42404
+recent+hybrid,16000,6456829e_abs,multi-session,True,True,15966,85748
+recent+hybrid,16000,e5ba910e_abs,multi-session,True,True,15985,65517
+recent+hybrid,16000,09ba9854_abs,multi-session,True,True,15998,109798
+recent+hybrid,16000,gpt4_59149c77,temporal-reasoning,True,True,15997,52194
+recent+hybrid,16000,gpt4_f49edff3,temporal-reasoning,True,True,15958,12603
+recent+hybrid,16000,71017276,temporal-reasoning,True,True,15999,11768
+recent+hybrid,16000,b46e15ed,temporal-reasoning,True,True,15993,1837
+recent+hybrid,16000,gpt4_fa19884c,temporal-reasoning,True,True,15982,27805
+recent+hybrid,16000,0bc8ad92,temporal-reasoning,True,True,15988,51862
+recent+hybrid,16000,af082822,temporal-reasoning,True,True,15934,95415
+recent+hybrid,16000,gpt4_4929293a,temporal-reasoning,True,True,15997,45803
+recent+hybrid,16000,gpt4_b5700ca9,temporal-reasoning,True,True,15995,69237
+recent+hybrid,16000,9a707b81,temporal-reasoning,True,True,15995,18658
+recent+hybrid,16000,gpt4_1d4ab0c9,temporal-reasoning,True,True,15999,54740
+recent+hybrid,16000,gpt4_e072b769,temporal-reasoning,True,True,15942,66407
+recent+hybrid,16000,0db4c65d,temporal-reasoning,True,True,15988,11194
+recent+hybrid,16000,gpt4_1d80365e,temporal-reasoning,True,True,15982,46711
+recent+hybrid,16000,gpt4_7f6b06db,temporal-reasoning,True,False,15989,17687
+recent+hybrid,16000,gpt4_6dc9b45b,temporal-reasoning,True,True,15993,13305
+recent+hybrid,16000,gpt4_8279ba02,temporal-reasoning,True,True,15993,89911
+recent+hybrid,16000,gpt4_18c2b244,temporal-reasoning,True,True,15980,25607
+recent+hybrid,16000,gpt4_a1b77f9c,temporal-reasoning,True,True,15997,15335
+recent+hybrid,16000,gpt4_1916e0ea,temporal-reasoning,True,True,15994,82304
+recent+hybrid,16000,gpt4_7a0daae1,temporal-reasoning,True,True,15970,94526
+recent+hybrid,16000,gpt4_468eb063,temporal-reasoning,True,True,16000,91636
+recent+hybrid,16000,gpt4_7abb270c,temporal-reasoning,True,False,15990,10342
+recent+hybrid,16000,gpt4_1e4a8aeb,temporal-reasoning,True,True,15996,30471
+recent+hybrid,16000,gpt4_4fc4f797,temporal-reasoning,True,True,15989,21363
+recent+hybrid,16000,4dfccbf7,temporal-reasoning,True,True,15997,19012
+recent+hybrid,16000,gpt4_61e13b3c,temporal-reasoning,True,True,15934,14189
+recent+hybrid,16000,gpt4_45189cb4,temporal-reasoning,True,False,15980,106871
+recent+hybrid,16000,2ebe6c90,temporal-reasoning,True,True,15999,61389
+recent+hybrid,16000,gpt4_e061b84f,temporal-reasoning,True,False,15988,43742
+recent+hybrid,16000,370a8ff4,temporal-reasoning,True,True,15999,19306
+recent+hybrid,16000,gpt4_d6585ce8,temporal-reasoning,True,False,15984,3618
+recent+hybrid,16000,gpt4_4ef30696,temporal-reasoning,True,True,15972,27908
+recent+hybrid,16000,gpt4_ec93e27f,temporal-reasoning,True,False,15987,49776
+recent+hybrid,16000,6e984301,temporal-reasoning,True,True,15998,16098
+recent+hybrid,16000,8077ef71,temporal-reasoning,True,True,16000,91530
+recent+hybrid,16000,gpt4_f420262c,temporal-reasoning,True,False,15992,10311
+recent+hybrid,16000,gpt4_8e165409,temporal-reasoning,True,True,15998,42585
+recent+hybrid,16000,gpt4_74aed68e,temporal-reasoning,True,True,15986,31558
+recent+hybrid,16000,bcbe585f,temporal-reasoning,True,True,15995,70034
+recent+hybrid,16000,gpt4_21adecb5,temporal-reasoning,True,True,15979,41327
+recent+hybrid,16000,5e1b23de,temporal-reasoning,True,True,15995,77133
+recent+hybrid,16000,gpt4_98f46fc6,temporal-reasoning,True,True,15995,97910
+recent+hybrid,16000,gpt4_af6db32f,temporal-reasoning,True,True,15984,17031
+recent+hybrid,16000,eac54adc,temporal-reasoning,True,True,15987,53813
+recent+hybrid,16000,gpt4_7ddcf75f,temporal-reasoning,True,True,15987,83401
+recent+hybrid,16000,gpt4_a2d1d1f6,temporal-reasoning,True,True,15978,85859
+recent+hybrid,16000,gpt4_85da3956,temporal-reasoning,True,True,15979,80558
+recent+hybrid,16000,gpt4_b0863698,temporal-reasoning,True,True,15987,19876
+recent+hybrid,16000,gpt4_68e94287,temporal-reasoning,True,True,15988,76782
+recent+hybrid,16000,gpt4_e414231e,temporal-reasoning,True,True,15989,57478
+recent+hybrid,16000,gpt4_7ca326fa,temporal-reasoning,True,True,15971,6177
+recent+hybrid,16000,gpt4_7bc6cf22,temporal-reasoning,True,True,15986,113230
+recent+hybrid,16000,2ebe6c92,temporal-reasoning,True,True,15996,14828
+recent+hybrid,16000,gpt4_e061b84g,temporal-reasoning,True,True,15998,42328
+recent+hybrid,16000,71017277,temporal-reasoning,False,False,15989,34122
+recent+hybrid,16000,b46e15ee,temporal-reasoning,True,True,15993,35757
+recent+hybrid,16000,gpt4_d6585ce9,temporal-reasoning,False,False,15998,67749
+recent+hybrid,16000,gpt4_1e4a8aec,temporal-reasoning,False,False,15999,11492
+recent+hybrid,16000,gpt4_f420262d,temporal-reasoning,True,False,15970,23063
+recent+hybrid,16000,gpt4_59149c78,temporal-reasoning,True,True,15969,53630
+recent+hybrid,16000,gpt4_e414231f,temporal-reasoning,True,True,15977,36344
+recent+hybrid,16000,gpt4_4929293b,temporal-reasoning,True,True,15974,7956
+recent+hybrid,16000,gpt4_468eb064,temporal-reasoning,True,True,15955,89949
+recent+hybrid,16000,gpt4_fa19884d,temporal-reasoning,True,True,15998,41750
+recent+hybrid,16000,9a707b82,temporal-reasoning,True,True,15993,85853
+recent+hybrid,16000,eac54add,temporal-reasoning,False,False,15987,29500
+recent+hybrid,16000,4dfccbf8,temporal-reasoning,True,True,15992,12525
+recent+hybrid,16000,0bc8ad93,temporal-reasoning,True,True,15953,97624
+recent+hybrid,16000,6e984302,temporal-reasoning,False,False,15929,9465
+recent+hybrid,16000,gpt4_8279ba03,temporal-reasoning,False,False,15996,28706
+recent+hybrid,16000,gpt4_b5700ca0,temporal-reasoning,True,True,15998,41649
+recent+hybrid,16000,gpt4_68e94288,temporal-reasoning,False,False,15999,37998
+recent+hybrid,16000,gpt4_2655b836,temporal-reasoning,True,True,15956,78055
+recent+hybrid,16000,gpt4_2487a7cb,temporal-reasoning,True,True,15997,15215
+recent+hybrid,16000,gpt4_76048e76,temporal-reasoning,True,True,15993,67604
+recent+hybrid,16000,gpt4_2312f94c,temporal-reasoning,True,True,15979,70178
+recent+hybrid,16000,0bb5a684,temporal-reasoning,True,True,15962,75112
+recent+hybrid,16000,08f4fc43,temporal-reasoning,True,True,15996,56294
+recent+hybrid,16000,2c63a862,temporal-reasoning,True,True,15991,30342
+recent+hybrid,16000,gpt4_385a5000,temporal-reasoning,True,True,15981,7637
+recent+hybrid,16000,2a1811e2,temporal-reasoning,True,True,15977,49375
+recent+hybrid,16000,bbf86515,temporal-reasoning,True,True,15985,30596
+recent+hybrid,16000,gpt4_5dcc0aab,temporal-reasoning,True,True,15983,30799
+recent+hybrid,16000,gpt4_0b2f1d21,temporal-reasoning,True,True,15994,29005
+recent+hybrid,16000,f0853d11,temporal-reasoning,True,True,16000,68784
+recent+hybrid,16000,gpt4_6ed717ea,temporal-reasoning,True,True,15999,64429
+recent+hybrid,16000,gpt4_70e84552,temporal-reasoning,True,True,15966,15017
+recent+hybrid,16000,a3838d2b,temporal-reasoning,True,False,15996,27433
+recent+hybrid,16000,gpt4_93159ced,temporal-reasoning,True,True,15985,55619
+recent+hybrid,16000,gpt4_2d58bcd6,temporal-reasoning,True,True,16000,6913
+recent+hybrid,16000,gpt4_65aabe59,temporal-reasoning,True,True,15991,17697
+recent+hybrid,16000,982b5123,temporal-reasoning,True,True,15999,29716
+recent+hybrid,16000,b9cfe692,temporal-reasoning,True,True,15993,96893
+recent+hybrid,16000,gpt4_4edbafa2,temporal-reasoning,True,True,15968,3519
+recent+hybrid,16000,c8090214,temporal-reasoning,True,True,15957,43716
+recent+hybrid,16000,gpt4_483dd43c,temporal-reasoning,True,True,15995,28626
+recent+hybrid,16000,e4e14d04,temporal-reasoning,True,True,15984,10684
+recent+hybrid,16000,c9f37c46,temporal-reasoning,True,True,15964,41755
+recent+hybrid,16000,gpt4_2c50253f,temporal-reasoning,True,True,15993,32304
+recent+hybrid,16000,dcfa8644,temporal-reasoning,True,True,15999,28071
+recent+hybrid,16000,gpt4_b4a80587,temporal-reasoning,True,True,15985,58090
+recent+hybrid,16000,gpt4_9a159967,temporal-reasoning,True,True,15928,53286
+recent+hybrid,16000,cc6d1ec1,temporal-reasoning,True,True,15988,3475
+recent+hybrid,16000,gpt4_8c8961ae,temporal-reasoning,True,True,15989,70735
+recent+hybrid,16000,gpt4_d9af6064,temporal-reasoning,True,True,15994,26809
+recent+hybrid,16000,gpt4_7de946e7,temporal-reasoning,True,True,15992,24545
+recent+hybrid,16000,d01c6aa8,temporal-reasoning,True,True,15978,52544
+recent+hybrid,16000,993da5e2,temporal-reasoning,True,True,15978,21624
+recent+hybrid,16000,a3045048,temporal-reasoning,True,True,15997,44869
+recent+hybrid,16000,gpt4_d31cdae3,temporal-reasoning,True,True,15979,46671
+recent+hybrid,16000,gpt4_cd90e484,temporal-reasoning,True,True,16000,33585
+recent+hybrid,16000,gpt4_88806d6e,temporal-reasoning,True,True,15989,25042
+recent+hybrid,16000,gpt4_4cd9eba1,temporal-reasoning,True,True,15980,65713
+recent+hybrid,16000,gpt4_93f6379c,temporal-reasoning,True,True,15975,17993
+recent+hybrid,16000,b29f3365,temporal-reasoning,True,True,15973,59011
+recent+hybrid,16000,gpt4_2f56ae70,temporal-reasoning,True,False,15991,25584
+recent+hybrid,16000,6613b389,temporal-reasoning,True,True,15996,86413
+recent+hybrid,16000,gpt4_78cf46a3,temporal-reasoning,True,True,15997,12198
+recent+hybrid,16000,gpt4_0a05b494,temporal-reasoning,True,True,15972,26291
+recent+hybrid,16000,gpt4_1a1dc16d,temporal-reasoning,True,True,15992,11402
+recent+hybrid,16000,gpt4_2f584639,temporal-reasoning,True,True,15982,69133
+recent+hybrid,16000,gpt4_213fd887,temporal-reasoning,True,True,15965,73332
+recent+hybrid,16000,gpt4_5438fa52,temporal-reasoning,True,True,15982,67445
+recent+hybrid,16000,gpt4_c27434e8,temporal-reasoning,True,True,15979,62264
+recent+hybrid,16000,gpt4_fe651585,temporal-reasoning,True,True,15989,1866
+recent+hybrid,16000,8c18457d,temporal-reasoning,True,True,15996,35413
+recent+hybrid,16000,gpt4_70e84552_abs,temporal-reasoning,True,True,15994,3917
+recent+hybrid,16000,982b5123_abs,temporal-reasoning,True,True,16000,11235
+recent+hybrid,16000,c8090214_abs,temporal-reasoning,True,True,15983,31904
+recent+hybrid,16000,gpt4_c27434e8_abs,temporal-reasoning,True,True,15983,122748
+recent+hybrid,16000,gpt4_fe651585_abs,temporal-reasoning,True,True,15995,100628
+recent+hybrid,16000,6a1eabeb,knowledge-update,True,True,15954,4342
+recent+hybrid,16000,6aeb4375,knowledge-update,True,True,15990,2004
+recent+hybrid,16000,830ce83f,knowledge-update,True,True,15950,8475
+recent+hybrid,16000,852ce960,knowledge-update,True,True,15981,6076
+recent+hybrid,16000,945e3d21,knowledge-update,True,True,15959,73802
+recent+hybrid,16000,d7c942c3,knowledge-update,True,True,15990,25027
+recent+hybrid,16000,71315a70,knowledge-update,True,True,16000,49667
+recent+hybrid,16000,89941a93,knowledge-update,True,True,15994,51314
+recent+hybrid,16000,ce6d2d27,knowledge-update,True,True,15985,81812
+recent+hybrid,16000,9ea5eabc,knowledge-update,True,True,15989,21205
+recent+hybrid,16000,07741c44,knowledge-update,True,True,15985,53686
+recent+hybrid,16000,a1eacc2a,knowledge-update,True,True,15985,39664
+recent+hybrid,16000,184da446,knowledge-update,True,True,15993,6685
+recent+hybrid,16000,031748ae,knowledge-update,True,True,15959,105542
+recent+hybrid,16000,4d6b87c8,knowledge-update,True,True,15987,15179
+recent+hybrid,16000,0f05491a,knowledge-update,True,True,15983,4342
+recent+hybrid,16000,08e075c7,knowledge-update,True,True,15991,12299
+recent+hybrid,16000,f9e8c073,knowledge-update,True,True,15948,29065
+recent+hybrid,16000,41698283,knowledge-update,True,True,15982,3683
+recent+hybrid,16000,2698e78f,knowledge-update,True,True,15990,21887
+recent+hybrid,16000,b6019101,knowledge-update,True,True,15965,7419
+recent+hybrid,16000,45dc21b6,knowledge-update,True,True,15991,16853
+recent+hybrid,16000,5a4f22c0,knowledge-update,True,True,15999,18089
+recent+hybrid,16000,6071bd76,knowledge-update,True,True,15987,70026
+recent+hybrid,16000,e493bb7c,knowledge-update,True,True,15997,48127
+recent+hybrid,16000,618f13b2,knowledge-update,True,True,15996,36203
+recent+hybrid,16000,72e3ee87,knowledge-update,True,True,15973,15363
+recent+hybrid,16000,c4ea545c,knowledge-update,True,True,15926,46602
+recent+hybrid,16000,01493427,knowledge-update,True,True,15971,47244
+recent+hybrid,16000,6a27ffc2,knowledge-update,True,True,15960,23910
+recent+hybrid,16000,2133c1b5,knowledge-update,True,True,15977,41876
+recent+hybrid,16000,18bc8abd,knowledge-update,True,True,15974,3867
+recent+hybrid,16000,db467c8c,knowledge-update,True,True,15990,29672
+recent+hybrid,16000,7a87bd0c,knowledge-update,True,True,15972,27772
+recent+hybrid,16000,e61a7584,knowledge-update,True,True,15980,42823
+recent+hybrid,16000,1cea1afa,knowledge-update,True,True,15972,6522
+recent+hybrid,16000,ed4ddc30,knowledge-update,True,True,15998,19303
+recent+hybrid,16000,8fb83627,knowledge-update,True,True,15996,6203
+recent+hybrid,16000,b01defab,knowledge-update,True,True,15978,8982
+recent+hybrid,16000,22d2cb42,knowledge-update,True,True,15993,59679
+recent+hybrid,16000,0e4e4c46,knowledge-update,True,True,15975,1079
+recent+hybrid,16000,4b24c848,knowledge-update,True,True,15980,13836
+recent+hybrid,16000,7e974930,knowledge-update,True,True,15984,6295
+recent+hybrid,16000,603deb26,knowledge-update,True,True,15963,4212
+recent+hybrid,16000,59524333,knowledge-update,True,True,15974,10354
+recent+hybrid,16000,5831f84d,knowledge-update,True,True,15992,34663
+recent+hybrid,16000,eace081b,knowledge-update,True,True,15998,24582
+recent+hybrid,16000,affe2881,knowledge-update,True,True,15993,53986
+recent+hybrid,16000,50635ada,knowledge-update,True,True,15998,17181
+recent+hybrid,16000,e66b632c,knowledge-update,True,True,15974,5474
+recent+hybrid,16000,0ddfec37,knowledge-update,True,True,15996,38635
+recent+hybrid,16000,f685340e,knowledge-update,True,True,15947,4870
+recent+hybrid,16000,cc5ded98,knowledge-update,True,True,15935,84419
+recent+hybrid,16000,dfde3500,knowledge-update,True,False,15978,54591
+recent+hybrid,16000,69fee5aa,knowledge-update,True,True,15990,28813
+recent+hybrid,16000,7401057b,knowledge-update,True,True,15976,47556
+recent+hybrid,16000,cf22b7bf,knowledge-update,True,True,15943,6702
+recent+hybrid,16000,a2f3aa27,knowledge-update,True,True,15973,12057
+recent+hybrid,16000,c7dc5443,knowledge-update,True,True,15981,8329
+recent+hybrid,16000,06db6396,knowledge-update,True,True,15999,43859
+recent+hybrid,16000,3ba21379,knowledge-update,True,True,15961,90614
+recent+hybrid,16000,9bbe84a2,knowledge-update,True,True,15983,87507
+recent+hybrid,16000,10e09553,knowledge-update,True,True,15992,24685
+recent+hybrid,16000,dad224aa,knowledge-update,True,True,15990,2153
+recent+hybrid,16000,ba61f0b9,knowledge-update,True,True,15972,14978
+recent+hybrid,16000,42ec0761,knowledge-update,True,True,15984,2474
+recent+hybrid,16000,5c40ec5b,knowledge-update,True,True,15999,2358
+recent+hybrid,16000,c6853660,knowledge-update,True,True,15987,95542
+recent+hybrid,16000,26bdc477,knowledge-update,True,True,16000,23297
+recent+hybrid,16000,0977f2af,knowledge-update,True,True,15995,13256
+recent+hybrid,16000,89941a94,knowledge-update,True,True,15991,3935
+recent+hybrid,16000,07741c45,knowledge-update,True,True,15996,41471
+recent+hybrid,16000,7161e7e2,single-session-assistant,True,True,15993,84971
+recent+hybrid,16000,c4f10528,single-session-assistant,True,True,15947,13516
+recent+hybrid,16000,89527b6b,single-session-assistant,True,True,15969,72598
+recent+hybrid,16000,e9327a54,single-session-assistant,True,True,15999,91131
+recent+hybrid,16000,4c36ccef,single-session-assistant,True,True,16000,2392
+recent+hybrid,16000,6ae235be,single-session-assistant,True,True,15998,37593
+recent+hybrid,16000,7e00a6cb,single-session-assistant,True,True,15983,49063
+recent+hybrid,16000,1903aded,single-session-assistant,True,True,15980,47845
+recent+hybrid,16000,ceb54acb,single-session-assistant,True,True,15988,57740
+recent+hybrid,16000,f523d9fe,single-session-assistant,True,True,15999,51680
+recent+hybrid,16000,0e5e2d1a,single-session-assistant,True,True,15998,61448
+recent+hybrid,16000,fea54f57,single-session-assistant,True,True,15987,68025
+recent+hybrid,16000,cc539528,single-session-assistant,True,True,15989,33628
+recent+hybrid,16000,dc439ea3,single-session-assistant,True,True,16000,87228
+recent+hybrid,16000,18dcd5a5,single-session-assistant,True,True,15990,22445
+recent+hybrid,16000,488d3006,single-session-assistant,True,True,16000,6869
+recent+hybrid,16000,58470ed2,single-session-assistant,True,True,15974,32164
+recent+hybrid,16000,8cf51dda,single-session-assistant,True,True,15979,19320
+recent+hybrid,16000,1d4da289,single-session-assistant,True,True,15970,94227
+recent+hybrid,16000,8464fc84,single-session-assistant,True,True,15991,45715
+recent+hybrid,16000,8aef76bc,single-session-assistant,True,True,15968,122599
+recent+hybrid,16000,71a3fd6b,single-session-assistant,True,True,15983,22830
+recent+hybrid,16000,2bf43736,single-session-assistant,True,True,15964,8804
+recent+hybrid,16000,70b3e69b,single-session-assistant,True,True,15973,109957
+recent+hybrid,16000,8752c811,single-session-assistant,True,True,15995,93638
+recent+hybrid,16000,3249768e,single-session-assistant,True,True,15989,86443
+recent+hybrid,16000,1b9b7252,single-session-assistant,True,True,15978,58632
+recent+hybrid,16000,1568498a,single-session-assistant,True,True,15991,107030
+recent+hybrid,16000,6222b6eb,single-session-assistant,True,True,15997,42267
+recent+hybrid,16000,e8a79c70,single-session-assistant,True,True,15994,103484
+recent+hybrid,16000,d596882b,single-session-assistant,True,True,15984,46083
+recent+hybrid,16000,e3fc4d6e,single-session-assistant,True,True,15973,44712
+recent+hybrid,16000,51b23612,single-session-assistant,True,True,15980,16474
+recent+hybrid,16000,3e321797,single-session-assistant,True,True,15994,26136
+recent+hybrid,16000,e982271f,single-session-assistant,True,True,15995,42508
+recent+hybrid,16000,352ab8bd,single-session-assistant,True,True,15991,93712
+recent+hybrid,16000,fca762bc,single-session-assistant,True,True,15991,73139
+recent+hybrid,16000,7a8d0b71,single-session-assistant,True,True,15997,74271
+recent+hybrid,16000,a40e080f,single-session-assistant,True,True,15978,43965
+recent+hybrid,16000,8b9d4367,single-session-assistant,True,True,15999,27173
+recent+hybrid,16000,5809eb10,single-session-assistant,True,True,15963,1207
+recent+hybrid,16000,41275add,single-session-assistant,True,True,15977,62104
+recent+hybrid,16000,4388e9dd,single-session-assistant,True,True,15997,112632
+recent+hybrid,16000,4baee567,single-session-assistant,True,True,15974,24722
+recent+hybrid,16000,561fabcd,single-session-assistant,True,True,15999,6573
+recent+hybrid,16000,b759caee,single-session-assistant,True,True,15991,43161
+recent+hybrid,16000,ac031881,single-session-assistant,True,True,15998,109827
+recent+hybrid,16000,28bcfaac,single-session-assistant,True,True,15970,114539
+recent+hybrid,16000,16c90bf4,single-session-assistant,True,True,16000,35292
+recent+hybrid,16000,c8f1aeed,single-session-assistant,True,True,15939,96546
+recent+hybrid,16000,eaca4986,single-session-assistant,True,True,15993,22076
+recent+hybrid,16000,c7cf7dfd,single-session-assistant,True,True,15984,11082
+recent+hybrid,16000,e48988bc,single-session-assistant,True,True,15998,29304
+recent+hybrid,16000,1de5cff2,single-session-assistant,True,True,15980,8478
+recent+hybrid,16000,65240037,single-session-assistant,True,True,15992,95475
+recent+hybrid,16000,778164c6,single-session-assistant,True,True,15980,5808
+hybrid+exp prefix f=0.5,4000,e47becba,single-session-user,True,True,3976,6851
+hybrid+exp prefix f=0.5,4000,118b2229,single-session-user,True,True,3980,101459
+hybrid+exp prefix f=0.5,4000,51a45a95,single-session-user,True,True,3997,21122
+hybrid+exp prefix f=0.5,4000,58bf7951,single-session-user,True,True,3988,53252
+hybrid+exp prefix f=0.5,4000,1e043500,single-session-user,True,True,3995,92373
+hybrid+exp prefix f=0.5,4000,c5e8278d,single-session-user,True,True,3987,23440
+hybrid+exp prefix f=0.5,4000,6ade9755,single-session-user,True,True,3996,1322
+hybrid+exp prefix f=0.5,4000,6f9b354f,single-session-user,True,True,3999,33408
+hybrid+exp prefix f=0.5,4000,58ef2f1c,single-session-user,True,True,3990,680
+hybrid+exp prefix f=0.5,4000,f8c5f88b,single-session-user,True,True,3990,50967
+hybrid+exp prefix f=0.5,4000,5d3d2817,single-session-user,False,False,3955,64551
+hybrid+exp prefix f=0.5,4000,7527f7e2,single-session-user,True,True,3993,81687
+hybrid+exp prefix f=0.5,4000,c960da58,single-session-user,True,True,3996,113840
+hybrid+exp prefix f=0.5,4000,3b6f954b,single-session-user,True,True,3996,61307
+hybrid+exp prefix f=0.5,4000,726462e0,single-session-user,True,True,4000,90529
+hybrid+exp prefix f=0.5,4000,94f70d80,single-session-user,True,True,3997,11132
+hybrid+exp prefix f=0.5,4000,66f24dbb,single-session-user,True,True,3994,83953
+hybrid+exp prefix f=0.5,4000,ad7109d1,single-session-user,True,True,3949,69368
+hybrid+exp prefix f=0.5,4000,af8d2e46,single-session-user,True,True,3992,13317
+hybrid+exp prefix f=0.5,4000,dccbc061,single-session-user,True,True,3964,78292
+hybrid+exp prefix f=0.5,4000,c8c3f81d,single-session-user,True,True,3976,17091
+hybrid+exp prefix f=0.5,4000,8ebdbe50,single-session-user,True,True,3983,21676
+hybrid+exp prefix f=0.5,4000,6b168ec8,single-session-user,True,True,3970,40042
+hybrid+exp prefix f=0.5,4000,75499fd8,single-session-user,True,True,3995,61494
+hybrid+exp prefix f=0.5,4000,21436231,single-session-user,True,True,3989,104117
+hybrid+exp prefix f=0.5,4000,95bcc1c8,single-session-user,True,True,3956,100121
+hybrid+exp prefix f=0.5,4000,0862e8bf,single-session-user,True,True,3996,56465
+hybrid+exp prefix f=0.5,4000,853b0a1d,single-session-user,True,True,3987,79719
+hybrid+exp prefix f=0.5,4000,a06e4cfe,single-session-user,True,True,3992,102425
+hybrid+exp prefix f=0.5,4000,37d43f65,single-session-user,True,True,3954,22597
+hybrid+exp prefix f=0.5,4000,b86304ba,single-session-user,True,True,3995,4086
+hybrid+exp prefix f=0.5,4000,d52b4f67,single-session-user,True,True,3982,13729
+hybrid+exp prefix f=0.5,4000,25e5aa4f,single-session-user,False,False,3999,26200
+hybrid+exp prefix f=0.5,4000,caf9ead2,single-session-user,True,True,4000,82299
+hybrid+exp prefix f=0.5,4000,8550ddae,single-session-user,True,True,3998,108153
+hybrid+exp prefix f=0.5,4000,60d45044,single-session-user,True,True,3999,50830
+hybrid+exp prefix f=0.5,4000,3f1e9474,single-session-user,True,True,3991,104954
+hybrid+exp prefix f=0.5,4000,86b68151,single-session-user,True,True,3989,30557
+hybrid+exp prefix f=0.5,4000,577d4d32,single-session-user,True,True,3979,14281
+hybrid+exp prefix f=0.5,4000,ec81a493,single-session-user,True,True,3987,33241
+hybrid+exp prefix f=0.5,4000,15745da0,single-session-user,True,True,3996,105934
+hybrid+exp prefix f=0.5,4000,e01b8e2f,single-session-user,True,True,3979,81946
+hybrid+exp prefix f=0.5,4000,bc8a6e93,single-session-user,True,True,3989,58724
+hybrid+exp prefix f=0.5,4000,ccb36322,single-session-user,True,True,3995,108639
+hybrid+exp prefix f=0.5,4000,001be529,single-session-user,True,True,3983,21144
+hybrid+exp prefix f=0.5,4000,b320f3f8,single-session-user,True,True,3982,19840
+hybrid+exp prefix f=0.5,4000,19b5f2b3,single-session-user,False,False,3994,19925
+hybrid+exp prefix f=0.5,4000,4fd1909e,single-session-user,True,True,3998,70909
+hybrid+exp prefix f=0.5,4000,545bd2b5,single-session-user,True,True,3968,32966
+hybrid+exp prefix f=0.5,4000,8a137a7f,single-session-user,True,True,3998,104427
+hybrid+exp prefix f=0.5,4000,76d63226,single-session-user,True,True,3992,97971
+hybrid+exp prefix f=0.5,4000,86f00804,single-session-user,True,True,3988,96772
+hybrid+exp prefix f=0.5,4000,8e9d538c,single-session-user,True,True,3995,32477
+hybrid+exp prefix f=0.5,4000,311778f1,single-session-user,True,True,3974,51302
+hybrid+exp prefix f=0.5,4000,c19f7a0b,single-session-user,True,True,3999,71006
+hybrid+exp prefix f=0.5,4000,4100d0a0,single-session-user,True,True,3996,2615
+hybrid+exp prefix f=0.5,4000,29f2956b,single-session-user,True,True,3998,89503
+hybrid+exp prefix f=0.5,4000,1faac195,single-session-user,True,True,3989,111711
+hybrid+exp prefix f=0.5,4000,faba32e5,single-session-user,True,True,3960,53290
+hybrid+exp prefix f=0.5,4000,f4f1d8a4,single-session-user,True,True,3997,2893
+hybrid+exp prefix f=0.5,4000,c14c00dd,single-session-user,True,True,3999,102586
+hybrid+exp prefix f=0.5,4000,36580ce8,single-session-user,True,True,3977,15912
+hybrid+exp prefix f=0.5,4000,3d86fd0a,single-session-user,True,True,3997,101331
+hybrid+exp prefix f=0.5,4000,a82c026e,single-session-user,True,True,3992,36527
+hybrid+exp prefix f=0.5,4000,0a995998,multi-session,True,False,3981,33621
+hybrid+exp prefix f=0.5,4000,6d550036,multi-session,False,False,3986,25901
+hybrid+exp prefix f=0.5,4000,gpt4_59c863d7,multi-session,True,False,3991,4660
+hybrid+exp prefix f=0.5,4000,b5ef892d,multi-session,True,True,4000,23147
+hybrid+exp prefix f=0.5,4000,e831120c,multi-session,True,True,3966,56242
+hybrid+exp prefix f=0.5,4000,3a704032,multi-session,True,False,3959,80210
+hybrid+exp prefix f=0.5,4000,gpt4_d84a3211,multi-session,False,False,3953,3005
+hybrid+exp prefix f=0.5,4000,aae3761f,multi-session,True,False,3994,45928
+hybrid+exp prefix f=0.5,4000,gpt4_f2262a51,multi-session,False,False,3984,78822
+hybrid+exp prefix f=0.5,4000,dd2973ad,multi-session,True,False,4000,9031
+hybrid+exp prefix f=0.5,4000,c4a1ceb8,multi-session,True,False,3908,3257
+hybrid+exp prefix f=0.5,4000,gpt4_a56e767c,multi-session,True,False,3999,43501
+hybrid+exp prefix f=0.5,4000,6cb6f249,multi-session,True,False,3982,57920
+hybrid+exp prefix f=0.5,4000,46a3abf7,multi-session,False,False,3990,40979
+hybrid+exp prefix f=0.5,4000,36b9f61e,multi-session,True,False,3997,45038
+hybrid+exp prefix f=0.5,4000,28dc39ac,multi-session,True,False,4000,38670
+hybrid+exp prefix f=0.5,4000,gpt4_2f8be40d,multi-session,True,False,3997,15137
+hybrid+exp prefix f=0.5,4000,2e6d26dc,multi-session,True,False,3985,48321
+hybrid+exp prefix f=0.5,4000,gpt4_15e38248,multi-session,True,False,4000,13952
+hybrid+exp prefix f=0.5,4000,88432d0a,multi-session,True,False,3979,14500
+hybrid+exp prefix f=0.5,4000,80ec1f4f,multi-session,False,False,3979,42266
+hybrid+exp prefix f=0.5,4000,d23cf73b,multi-session,True,False,3979,14394
+hybrid+exp prefix f=0.5,4000,gpt4_7fce9456,multi-session,True,False,4000,14839
+hybrid+exp prefix f=0.5,4000,d682f1a2,multi-session,True,True,3974,13510
+hybrid+exp prefix f=0.5,4000,7024f17c,multi-session,True,False,3990,67459
+hybrid+exp prefix f=0.5,4000,gpt4_5501fe77,multi-session,True,False,3969,17344
+hybrid+exp prefix f=0.5,4000,gpt4_2ba83207,multi-session,True,False,4000,11633
+hybrid+exp prefix f=0.5,4000,2318644b,multi-session,True,False,4000,63327
+hybrid+exp prefix f=0.5,4000,2ce6a0f2,multi-session,True,False,3967,22590
+hybrid+exp prefix f=0.5,4000,gpt4_d12ceb0e,multi-session,True,False,3976,51368
+hybrid+exp prefix f=0.5,4000,00ca467f,multi-session,True,True,3992,22994
+hybrid+exp prefix f=0.5,4000,b3c15d39,multi-session,True,True,3980,44822
+hybrid+exp prefix f=0.5,4000,gpt4_31ff4165,multi-session,True,False,3982,7124
+hybrid+exp prefix f=0.5,4000,eeda8a6d,multi-session,True,False,3997,32228
+hybrid+exp prefix f=0.5,4000,2788b940,multi-session,True,False,3992,14390
+hybrid+exp prefix f=0.5,4000,60bf93ed,multi-session,True,True,3993,78263
+hybrid+exp prefix f=0.5,4000,9d25d4e0,multi-session,True,False,3981,32385
+hybrid+exp prefix f=0.5,4000,129d1232,multi-session,True,False,3993,7716
+hybrid+exp prefix f=0.5,4000,60472f9c,multi-session,True,False,3940,25817
+hybrid+exp prefix f=0.5,4000,gpt4_194be4b3,multi-session,False,False,3989,22431
+hybrid+exp prefix f=0.5,4000,a9f6b44c,multi-session,True,False,3966,28008
+hybrid+exp prefix f=0.5,4000,d851d5ba,multi-session,True,False,3991,26694
+hybrid+exp prefix f=0.5,4000,5a7937c8,multi-session,True,False,3913,22360
+hybrid+exp prefix f=0.5,4000,gpt4_ab202e7f,multi-session,True,False,3983,10017
+hybrid+exp prefix f=0.5,4000,gpt4_e05b82a6,multi-session,True,True,3967,10099
+hybrid+exp prefix f=0.5,4000,gpt4_731e37d7,multi-session,False,False,3997,63753
+hybrid+exp prefix f=0.5,4000,edced276,multi-session,True,True,3979,70532
+hybrid+exp prefix f=0.5,4000,10d9b85a,multi-session,True,False,3972,10775
+hybrid+exp prefix f=0.5,4000,e3038f8c,multi-session,False,False,3967,85716
+hybrid+exp prefix f=0.5,4000,2b8f3739,multi-session,True,False,3996,4419
+hybrid+exp prefix f=0.5,4000,1a8a66a6,multi-session,True,False,3991,29351
+hybrid+exp prefix f=0.5,4000,c2ac3c61,multi-session,True,True,3993,4419
+hybrid+exp prefix f=0.5,4000,bf659f65,multi-session,True,False,3967,9631
+hybrid+exp prefix f=0.5,4000,gpt4_372c3eed,multi-session,True,False,3952,17171
+hybrid+exp prefix f=0.5,4000,gpt4_2f91af09,multi-session,True,False,3978,6821
+hybrid+exp prefix f=0.5,4000,81507db6,multi-session,True,False,3987,47634
+hybrid+exp prefix f=0.5,4000,edced276_abs,multi-session,False,False,3996,72868
+hybrid+exp prefix f=0.5,4000,8a2466db,single-session-preference,True,True,3986,100340
+hybrid+exp prefix f=0.5,4000,06878be2,single-session-preference,True,True,3948,31120
+hybrid+exp prefix f=0.5,4000,75832dbd,single-session-preference,False,False,3992,105706
+hybrid+exp prefix f=0.5,4000,0edc2aef,single-session-preference,False,False,3993,19462
+hybrid+exp prefix f=0.5,4000,35a27287,single-session-preference,True,True,4000,21596
+hybrid+exp prefix f=0.5,4000,32260d93,single-session-preference,True,True,3998,18733
+hybrid+exp prefix f=0.5,4000,195a1a1b,single-session-preference,False,False,3965,3225
+hybrid+exp prefix f=0.5,4000,afdc33df,single-session-preference,True,True,3984,107646
+hybrid+exp prefix f=0.5,4000,caf03d32,single-session-preference,True,True,3997,4444
+hybrid+exp prefix f=0.5,4000,54026fce,single-session-preference,True,True,3934,57768
+hybrid+exp prefix f=0.5,4000,06f04340,single-session-preference,True,True,4000,90354
+hybrid+exp prefix f=0.5,4000,6b7dfb22,single-session-preference,True,True,3987,95327
+hybrid+exp prefix f=0.5,4000,1a1907b4,single-session-preference,False,False,3976,109598
+hybrid+exp prefix f=0.5,4000,09d032c9,single-session-preference,False,False,3991,47551
+hybrid+exp prefix f=0.5,4000,38146c39,single-session-preference,True,True,3993,45691
+hybrid+exp prefix f=0.5,4000,d24813b1,single-session-preference,True,True,3998,26471
+hybrid+exp prefix f=0.5,4000,57f827a0,single-session-preference,True,True,3984,40564
+hybrid+exp prefix f=0.5,4000,95228167,single-session-preference,False,False,3995,53337
+hybrid+exp prefix f=0.5,4000,505af2f5,single-session-preference,True,True,3983,102154
+hybrid+exp prefix f=0.5,4000,75f70248,single-session-preference,True,True,3986,55796
+hybrid+exp prefix f=0.5,4000,d6233ab6,single-session-preference,True,True,3962,96182
+hybrid+exp prefix f=0.5,4000,1da05512,single-session-preference,True,True,3971,24924
+hybrid+exp prefix f=0.5,4000,fca70973,single-session-preference,True,True,3995,3861
+hybrid+exp prefix f=0.5,4000,b6025781,single-session-preference,True,True,3999,67738
+hybrid+exp prefix f=0.5,4000,a89d7624,single-session-preference,True,True,3989,41128
+hybrid+exp prefix f=0.5,4000,b0479f84,single-session-preference,True,True,3996,25279
+hybrid+exp prefix f=0.5,4000,1d4e3b97,single-session-preference,False,False,3995,17598
+hybrid+exp prefix f=0.5,4000,07b6f563,single-session-preference,True,True,3992,29208
+hybrid+exp prefix f=0.5,4000,1c0ddc50,single-session-preference,False,False,3992,40535
+hybrid+exp prefix f=0.5,4000,0a34ad58,single-session-preference,True,True,3984,89106
+hybrid+exp prefix f=0.5,4000,d3ab962e,multi-session,True,False,4000,28353
+hybrid+exp prefix f=0.5,4000,2311e44b,multi-session,True,True,3943,8729
+hybrid+exp prefix f=0.5,4000,cc06de0d,multi-session,True,True,3967,25874
+hybrid+exp prefix f=0.5,4000,a11281a2,multi-session,True,False,3996,30479
+hybrid+exp prefix f=0.5,4000,4f54b7c9,multi-session,False,False,3986,11253
+hybrid+exp prefix f=0.5,4000,85fa3a3f,multi-session,True,True,4000,44837
+hybrid+exp prefix f=0.5,4000,9aaed6a3,multi-session,True,True,3980,93500
+hybrid+exp prefix f=0.5,4000,1f2b8d4f,multi-session,False,False,3952,89337
+hybrid+exp prefix f=0.5,4000,e6041065,multi-session,True,False,3971,15346
+hybrid+exp prefix f=0.5,4000,51c32626,multi-session,True,False,3933,7516
+hybrid+exp prefix f=0.5,4000,d905b33f,multi-session,True,True,3995,36801
+hybrid+exp prefix f=0.5,4000,7405e8b1,multi-session,True,True,3996,44136
+hybrid+exp prefix f=0.5,4000,f35224e0,multi-session,True,True,3979,14278
+hybrid+exp prefix f=0.5,4000,6456829e,multi-session,True,True,3997,8478
+hybrid+exp prefix f=0.5,4000,a4996e51,multi-session,True,False,3999,11923
+hybrid+exp prefix f=0.5,4000,3c1045c8,multi-session,True,True,3997,59971
+hybrid+exp prefix f=0.5,4000,60036106,multi-session,True,False,4000,13057
+hybrid+exp prefix f=0.5,4000,681a1674,multi-session,True,False,3944,39400
+hybrid+exp prefix f=0.5,4000,e25c3b8d,multi-session,True,False,3983,77715
+hybrid+exp prefix f=0.5,4000,4adc0475,multi-session,True,True,3988,23524
+hybrid+exp prefix f=0.5,4000,4bc144e2,multi-session,True,False,3994,17847
+hybrid+exp prefix f=0.5,4000,ef66a6e5,multi-session,True,True,3989,50298
+hybrid+exp prefix f=0.5,4000,5025383b,multi-session,True,False,3998,3237
+hybrid+exp prefix f=0.5,4000,a1cc6108,multi-session,True,False,3996,63412
+hybrid+exp prefix f=0.5,4000,9ee3ecd6,multi-session,True,True,3948,11234
+hybrid+exp prefix f=0.5,4000,3fdac837,multi-session,True,False,3992,13780
+hybrid+exp prefix f=0.5,4000,91b15a6e,multi-session,True,False,3965,36808
+hybrid+exp prefix f=0.5,4000,27016adc,multi-session,False,False,4000,33842
+hybrid+exp prefix f=0.5,4000,720133ac,multi-session,True,True,3997,5757
+hybrid+exp prefix f=0.5,4000,77eafa52,multi-session,False,False,3983,38633
+hybrid+exp prefix f=0.5,4000,8979f9ec,multi-session,True,True,3974,37508
+hybrid+exp prefix f=0.5,4000,0100672e,multi-session,True,True,3993,11026
+hybrid+exp prefix f=0.5,4000,a96c20ee,multi-session,True,True,3971,99980
+hybrid+exp prefix f=0.5,4000,92a0aa75,multi-session,False,False,3991,28286
+hybrid+exp prefix f=0.5,4000,3fe836c9,multi-session,True,True,3999,13929
+hybrid+exp prefix f=0.5,4000,1c549ce4,multi-session,True,True,3995,27696
+hybrid+exp prefix f=0.5,4000,6c49646a,multi-session,True,True,3976,40203
+hybrid+exp prefix f=0.5,4000,1192316e,multi-session,True,True,3998,90738
+hybrid+exp prefix f=0.5,4000,0ea62687,multi-session,True,True,3983,54174
+hybrid+exp prefix f=0.5,4000,67e0d0f2,multi-session,True,False,3988,26711
+hybrid+exp prefix f=0.5,4000,bb7c3b45,multi-session,True,True,3992,14007
+hybrid+exp prefix f=0.5,4000,ba358f49,multi-session,True,False,3977,36657
+hybrid+exp prefix f=0.5,4000,61f8c8f8,multi-session,True,False,3975,45326
+hybrid+exp prefix f=0.5,4000,60159905,multi-session,True,True,3992,104091
+hybrid+exp prefix f=0.5,4000,ef9cf60a,multi-session,True,False,3978,5537
+hybrid+exp prefix f=0.5,4000,73d42213,multi-session,True,False,3992,10082
+hybrid+exp prefix f=0.5,4000,bc149d6b,multi-session,True,False,3980,95428
+hybrid+exp prefix f=0.5,4000,099778bb,multi-session,True,True,3978,9420
+hybrid+exp prefix f=0.5,4000,09ba9854,multi-session,True,True,3954,47955
+hybrid+exp prefix f=0.5,4000,d6062bb9,multi-session,True,False,3986,77016
+hybrid+exp prefix f=0.5,4000,157a136e,multi-session,True,False,3984,7978
+hybrid+exp prefix f=0.5,4000,c18a7dc8,multi-session,True,False,3995,44509
+hybrid+exp prefix f=0.5,4000,a3332713,multi-session,True,False,3995,26499
+hybrid+exp prefix f=0.5,4000,55241a1f,multi-session,True,False,3985,65149
+hybrid+exp prefix f=0.5,4000,a08a253f,multi-session,True,False,3995,40346
+hybrid+exp prefix f=0.5,4000,f0e564bc,multi-session,True,True,3982,41211
+hybrid+exp prefix f=0.5,4000,078150f1,multi-session,True,True,3987,36172
+hybrid+exp prefix f=0.5,4000,8cf4d046,multi-session,True,False,3989,2249
+hybrid+exp prefix f=0.5,4000,a346bb18,multi-session,True,False,3923,62858
+hybrid+exp prefix f=0.5,4000,37f165cf,multi-session,True,True,3994,33494
+hybrid+exp prefix f=0.5,4000,8e91e7d9,multi-session,True,False,3958,68342
+hybrid+exp prefix f=0.5,4000,87f22b4a,multi-session,True,True,3971,34419
+hybrid+exp prefix f=0.5,4000,e56a43b9,multi-session,True,True,3996,32646
+hybrid+exp prefix f=0.5,4000,efc3f7c2,multi-session,True,True,3969,7953
+hybrid+exp prefix f=0.5,4000,21d02d0d,multi-session,True,True,3986,42404
+hybrid+exp prefix f=0.5,4000,6456829e_abs,multi-session,True,True,3978,85748
+hybrid+exp prefix f=0.5,4000,e5ba910e_abs,multi-session,True,True,3995,65517
+hybrid+exp prefix f=0.5,4000,09ba9854_abs,multi-session,True,True,3996,109798
+hybrid+exp prefix f=0.5,4000,gpt4_59149c77,temporal-reasoning,True,False,3977,52194
+hybrid+exp prefix f=0.5,4000,gpt4_f49edff3,temporal-reasoning,True,True,3946,12603
+hybrid+exp prefix f=0.5,4000,71017276,temporal-reasoning,True,True,4000,11768
+hybrid+exp prefix f=0.5,4000,b46e15ed,temporal-reasoning,True,False,3984,1837
+hybrid+exp prefix f=0.5,4000,gpt4_fa19884c,temporal-reasoning,True,True,3992,27805
+hybrid+exp prefix f=0.5,4000,0bc8ad92,temporal-reasoning,True,False,3982,51862
+hybrid+exp prefix f=0.5,4000,af082822,temporal-reasoning,False,False,3971,95415
+hybrid+exp prefix f=0.5,4000,gpt4_4929293a,temporal-reasoning,True,True,3974,45803
+hybrid+exp prefix f=0.5,4000,gpt4_b5700ca9,temporal-reasoning,True,True,3991,69237
+hybrid+exp prefix f=0.5,4000,9a707b81,temporal-reasoning,True,True,3971,18658
+hybrid+exp prefix f=0.5,4000,gpt4_1d4ab0c9,temporal-reasoning,True,True,3997,54740
+hybrid+exp prefix f=0.5,4000,gpt4_e072b769,temporal-reasoning,True,True,3996,66407
+hybrid+exp prefix f=0.5,4000,0db4c65d,temporal-reasoning,True,True,3993,11194
+hybrid+exp prefix f=0.5,4000,gpt4_1d80365e,temporal-reasoning,True,True,3996,46711
+hybrid+exp prefix f=0.5,4000,gpt4_7f6b06db,temporal-reasoning,False,False,3997,17687
+hybrid+exp prefix f=0.5,4000,gpt4_6dc9b45b,temporal-reasoning,True,True,3996,13305
+hybrid+exp prefix f=0.5,4000,gpt4_8279ba02,temporal-reasoning,True,True,3995,89911
+hybrid+exp prefix f=0.5,4000,gpt4_18c2b244,temporal-reasoning,True,True,3983,25607
+hybrid+exp prefix f=0.5,4000,gpt4_a1b77f9c,temporal-reasoning,True,False,3996,15335
+hybrid+exp prefix f=0.5,4000,gpt4_1916e0ea,temporal-reasoning,True,False,3985,82304
+hybrid+exp prefix f=0.5,4000,gpt4_7a0daae1,temporal-reasoning,True,True,3998,94526
+hybrid+exp prefix f=0.5,4000,gpt4_468eb063,temporal-reasoning,False,False,3990,91636
+hybrid+exp prefix f=0.5,4000,gpt4_7abb270c,temporal-reasoning,True,False,4000,10342
+hybrid+exp prefix f=0.5,4000,gpt4_1e4a8aeb,temporal-reasoning,True,True,4000,30471
+hybrid+exp prefix f=0.5,4000,gpt4_4fc4f797,temporal-reasoning,True,False,3992,21363
+hybrid+exp prefix f=0.5,4000,4dfccbf7,temporal-reasoning,True,True,3989,19012
+hybrid+exp prefix f=0.5,4000,gpt4_61e13b3c,temporal-reasoning,True,True,3968,14189
+hybrid+exp prefix f=0.5,4000,gpt4_45189cb4,temporal-reasoning,True,False,3977,106871
+hybrid+exp prefix f=0.5,4000,2ebe6c90,temporal-reasoning,True,True,3999,61389
+hybrid+exp prefix f=0.5,4000,gpt4_e061b84f,temporal-reasoning,False,False,3986,43742
+hybrid+exp prefix f=0.5,4000,370a8ff4,temporal-reasoning,True,True,3997,19306
+hybrid+exp prefix f=0.5,4000,gpt4_d6585ce8,temporal-reasoning,True,False,3993,3618
+hybrid+exp prefix f=0.5,4000,gpt4_4ef30696,temporal-reasoning,True,True,3999,27908
+hybrid+exp prefix f=0.5,4000,gpt4_ec93e27f,temporal-reasoning,False,False,3994,49776
+hybrid+exp prefix f=0.5,4000,6e984301,temporal-reasoning,True,True,3978,16098
+hybrid+exp prefix f=0.5,4000,8077ef71,temporal-reasoning,True,True,3998,91530
+hybrid+exp prefix f=0.5,4000,gpt4_f420262c,temporal-reasoning,True,False,3999,10311
+hybrid+exp prefix f=0.5,4000,gpt4_8e165409,temporal-reasoning,True,True,3996,42585
+hybrid+exp prefix f=0.5,4000,gpt4_74aed68e,temporal-reasoning,True,True,3986,31558
+hybrid+exp prefix f=0.5,4000,bcbe585f,temporal-reasoning,True,True,3986,70034
+hybrid+exp prefix f=0.5,4000,gpt4_21adecb5,temporal-reasoning,False,False,4000,41327
+hybrid+exp prefix f=0.5,4000,5e1b23de,temporal-reasoning,False,False,3947,77133
+hybrid+exp prefix f=0.5,4000,gpt4_98f46fc6,temporal-reasoning,True,False,3999,97910
+hybrid+exp prefix f=0.5,4000,gpt4_af6db32f,temporal-reasoning,True,True,3998,17031
+hybrid+exp prefix f=0.5,4000,eac54adc,temporal-reasoning,True,False,3973,53813
+hybrid+exp prefix f=0.5,4000,gpt4_7ddcf75f,temporal-reasoning,True,True,3976,83401
+hybrid+exp prefix f=0.5,4000,gpt4_a2d1d1f6,temporal-reasoning,True,True,3991,85859
+hybrid+exp prefix f=0.5,4000,gpt4_85da3956,temporal-reasoning,True,True,3995,80558
+hybrid+exp prefix f=0.5,4000,gpt4_b0863698,temporal-reasoning,True,True,3985,19876
+hybrid+exp prefix f=0.5,4000,gpt4_68e94287,temporal-reasoning,True,True,3949,76782
+hybrid+exp prefix f=0.5,4000,gpt4_e414231e,temporal-reasoning,True,True,3994,57478
+hybrid+exp prefix f=0.5,4000,gpt4_7ca326fa,temporal-reasoning,True,False,3984,6177
+hybrid+exp prefix f=0.5,4000,gpt4_7bc6cf22,temporal-reasoning,True,True,3978,113230
+hybrid+exp prefix f=0.5,4000,2ebe6c92,temporal-reasoning,True,False,3988,14828
+hybrid+exp prefix f=0.5,4000,gpt4_e061b84g,temporal-reasoning,False,False,3992,42328
+hybrid+exp prefix f=0.5,4000,71017277,temporal-reasoning,False,False,3984,34122
+hybrid+exp prefix f=0.5,4000,b46e15ee,temporal-reasoning,True,True,3988,35757
+hybrid+exp prefix f=0.5,4000,gpt4_d6585ce9,temporal-reasoning,False,False,3936,67749
+hybrid+exp prefix f=0.5,4000,gpt4_1e4a8aec,temporal-reasoning,False,False,3998,11492
+hybrid+exp prefix f=0.5,4000,gpt4_f420262d,temporal-reasoning,True,False,3980,23063
+hybrid+exp prefix f=0.5,4000,gpt4_59149c78,temporal-reasoning,False,False,3981,53630
+hybrid+exp prefix f=0.5,4000,gpt4_e414231f,temporal-reasoning,False,False,3984,36344
+hybrid+exp prefix f=0.5,4000,gpt4_4929293b,temporal-reasoning,False,False,3957,7956
+hybrid+exp prefix f=0.5,4000,gpt4_468eb064,temporal-reasoning,True,True,3976,89949
+hybrid+exp prefix f=0.5,4000,gpt4_fa19884d,temporal-reasoning,True,True,3993,41750
+hybrid+exp prefix f=0.5,4000,9a707b82,temporal-reasoning,True,True,3989,85853
+hybrid+exp prefix f=0.5,4000,eac54add,temporal-reasoning,False,False,3974,29500
+hybrid+exp prefix f=0.5,4000,4dfccbf8,temporal-reasoning,False,False,3998,12525
+hybrid+exp prefix f=0.5,4000,0bc8ad93,temporal-reasoning,False,False,3977,97624
+hybrid+exp prefix f=0.5,4000,6e984302,temporal-reasoning,False,False,3980,9465
+hybrid+exp prefix f=0.5,4000,gpt4_8279ba03,temporal-reasoning,False,False,4000,28706
+hybrid+exp prefix f=0.5,4000,gpt4_b5700ca0,temporal-reasoning,True,True,3989,41649
+hybrid+exp prefix f=0.5,4000,gpt4_68e94288,temporal-reasoning,False,False,3975,37998
+hybrid+exp prefix f=0.5,4000,gpt4_2655b836,temporal-reasoning,True,True,3975,78055
+hybrid+exp prefix f=0.5,4000,gpt4_2487a7cb,temporal-reasoning,True,False,3989,15215
+hybrid+exp prefix f=0.5,4000,gpt4_76048e76,temporal-reasoning,True,False,4000,67604
+hybrid+exp prefix f=0.5,4000,gpt4_2312f94c,temporal-reasoning,True,False,3989,70178
+hybrid+exp prefix f=0.5,4000,0bb5a684,temporal-reasoning,True,False,3977,75112
+hybrid+exp prefix f=0.5,4000,08f4fc43,temporal-reasoning,True,True,3995,56294
+hybrid+exp prefix f=0.5,4000,2c63a862,temporal-reasoning,False,False,3996,30342
+hybrid+exp prefix f=0.5,4000,gpt4_385a5000,temporal-reasoning,True,True,3988,7637
+hybrid+exp prefix f=0.5,4000,2a1811e2,temporal-reasoning,True,False,3984,49375
+hybrid+exp prefix f=0.5,4000,bbf86515,temporal-reasoning,False,False,3999,30596
+hybrid+exp prefix f=0.5,4000,gpt4_5dcc0aab,temporal-reasoning,True,True,3990,30799
+hybrid+exp prefix f=0.5,4000,gpt4_0b2f1d21,temporal-reasoning,True,False,3984,29005
+hybrid+exp prefix f=0.5,4000,f0853d11,temporal-reasoning,False,False,3997,68784
+hybrid+exp prefix f=0.5,4000,gpt4_6ed717ea,temporal-reasoning,True,False,3995,64429
+hybrid+exp prefix f=0.5,4000,gpt4_70e84552,temporal-reasoning,True,False,3982,15017
+hybrid+exp prefix f=0.5,4000,a3838d2b,temporal-reasoning,True,False,3960,27433
+hybrid+exp prefix f=0.5,4000,gpt4_93159ced,temporal-reasoning,True,False,3982,55619
+hybrid+exp prefix f=0.5,4000,gpt4_2d58bcd6,temporal-reasoning,True,False,3995,6913
+hybrid+exp prefix f=0.5,4000,gpt4_65aabe59,temporal-reasoning,True,False,4000,17697
+hybrid+exp prefix f=0.5,4000,982b5123,temporal-reasoning,True,True,3983,29716
+hybrid+exp prefix f=0.5,4000,b9cfe692,temporal-reasoning,True,True,3981,96893
+hybrid+exp prefix f=0.5,4000,gpt4_4edbafa2,temporal-reasoning,True,True,3977,3519
+hybrid+exp prefix f=0.5,4000,c8090214,temporal-reasoning,True,True,4000,43716
+hybrid+exp prefix f=0.5,4000,gpt4_483dd43c,temporal-reasoning,True,True,3998,28626
+hybrid+exp prefix f=0.5,4000,e4e14d04,temporal-reasoning,True,True,3991,10684
+hybrid+exp prefix f=0.5,4000,c9f37c46,temporal-reasoning,True,True,3991,41755
+hybrid+exp prefix f=0.5,4000,gpt4_2c50253f,temporal-reasoning,True,True,3990,32304
+hybrid+exp prefix f=0.5,4000,dcfa8644,temporal-reasoning,True,True,3968,28071
+hybrid+exp prefix f=0.5,4000,gpt4_b4a80587,temporal-reasoning,True,False,3990,58090
+hybrid+exp prefix f=0.5,4000,gpt4_9a159967,temporal-reasoning,True,False,3947,53286
+hybrid+exp prefix f=0.5,4000,cc6d1ec1,temporal-reasoning,True,False,4000,3475
+hybrid+exp prefix f=0.5,4000,gpt4_8c8961ae,temporal-reasoning,True,False,3961,70735
+hybrid+exp prefix f=0.5,4000,gpt4_d9af6064,temporal-reasoning,True,True,3981,26809
+hybrid+exp prefix f=0.5,4000,gpt4_7de946e7,temporal-reasoning,True,True,3984,24545
+hybrid+exp prefix f=0.5,4000,d01c6aa8,temporal-reasoning,False,False,3977,52544
+hybrid+exp prefix f=0.5,4000,993da5e2,temporal-reasoning,True,True,3995,21624
+hybrid+exp prefix f=0.5,4000,a3045048,temporal-reasoning,True,False,3996,44869
+hybrid+exp prefix f=0.5,4000,gpt4_d31cdae3,temporal-reasoning,True,False,3999,46671
+hybrid+exp prefix f=0.5,4000,gpt4_cd90e484,temporal-reasoning,True,True,3986,33585
+hybrid+exp prefix f=0.5,4000,gpt4_88806d6e,temporal-reasoning,True,False,3976,25042
+hybrid+exp prefix f=0.5,4000,gpt4_4cd9eba1,temporal-reasoning,True,True,3999,65713
+hybrid+exp prefix f=0.5,4000,gpt4_93f6379c,temporal-reasoning,True,False,3957,17993
+hybrid+exp prefix f=0.5,4000,b29f3365,temporal-reasoning,True,True,3962,59011
+hybrid+exp prefix f=0.5,4000,gpt4_2f56ae70,temporal-reasoning,True,False,3939,25584
+hybrid+exp prefix f=0.5,4000,6613b389,temporal-reasoning,True,False,3995,86413
+hybrid+exp prefix f=0.5,4000,gpt4_78cf46a3,temporal-reasoning,True,True,3997,12198
+hybrid+exp prefix f=0.5,4000,gpt4_0a05b494,temporal-reasoning,True,True,3989,26291
+hybrid+exp prefix f=0.5,4000,gpt4_1a1dc16d,temporal-reasoning,True,False,3972,11402
+hybrid+exp prefix f=0.5,4000,gpt4_2f584639,temporal-reasoning,True,True,3966,69133
+hybrid+exp prefix f=0.5,4000,gpt4_213fd887,temporal-reasoning,True,False,3984,73332
+hybrid+exp prefix f=0.5,4000,gpt4_5438fa52,temporal-reasoning,True,True,3998,67445
+hybrid+exp prefix f=0.5,4000,gpt4_c27434e8,temporal-reasoning,True,False,3962,62264
+hybrid+exp prefix f=0.5,4000,gpt4_fe651585,temporal-reasoning,True,True,3964,1866
+hybrid+exp prefix f=0.5,4000,8c18457d,temporal-reasoning,True,True,3973,35413
+hybrid+exp prefix f=0.5,4000,gpt4_70e84552_abs,temporal-reasoning,True,True,3997,3917
+hybrid+exp prefix f=0.5,4000,982b5123_abs,temporal-reasoning,True,True,3982,11235
+hybrid+exp prefix f=0.5,4000,c8090214_abs,temporal-reasoning,True,True,3978,31904
+hybrid+exp prefix f=0.5,4000,gpt4_c27434e8_abs,temporal-reasoning,False,False,3969,122748
+hybrid+exp prefix f=0.5,4000,gpt4_fe651585_abs,temporal-reasoning,True,True,3992,100628
+hybrid+exp prefix f=0.5,4000,6a1eabeb,knowledge-update,True,True,3979,4342
+hybrid+exp prefix f=0.5,4000,6aeb4375,knowledge-update,True,True,3990,2004
+hybrid+exp prefix f=0.5,4000,830ce83f,knowledge-update,True,True,3998,8475
+hybrid+exp prefix f=0.5,4000,852ce960,knowledge-update,True,True,4000,6076
+hybrid+exp prefix f=0.5,4000,945e3d21,knowledge-update,False,False,3975,73802
+hybrid+exp prefix f=0.5,4000,d7c942c3,knowledge-update,True,True,3987,25027
+hybrid+exp prefix f=0.5,4000,71315a70,knowledge-update,True,True,3960,49667
+hybrid+exp prefix f=0.5,4000,89941a93,knowledge-update,True,False,3991,51314
+hybrid+exp prefix f=0.5,4000,ce6d2d27,knowledge-update,True,True,3997,81812
+hybrid+exp prefix f=0.5,4000,9ea5eabc,knowledge-update,True,False,3996,21205
+hybrid+exp prefix f=0.5,4000,07741c44,knowledge-update,True,False,3994,53686
+hybrid+exp prefix f=0.5,4000,a1eacc2a,knowledge-update,True,True,3965,39664
+hybrid+exp prefix f=0.5,4000,184da446,knowledge-update,False,False,3998,6685
+hybrid+exp prefix f=0.5,4000,031748ae,knowledge-update,True,True,3995,105542
+hybrid+exp prefix f=0.5,4000,4d6b87c8,knowledge-update,True,True,3988,15179
+hybrid+exp prefix f=0.5,4000,0f05491a,knowledge-update,True,True,3989,4342
+hybrid+exp prefix f=0.5,4000,08e075c7,knowledge-update,True,True,3999,12299
+hybrid+exp prefix f=0.5,4000,f9e8c073,knowledge-update,True,False,3961,29065
+hybrid+exp prefix f=0.5,4000,41698283,knowledge-update,True,False,3998,3683
+hybrid+exp prefix f=0.5,4000,2698e78f,knowledge-update,True,True,3982,21887
+hybrid+exp prefix f=0.5,4000,b6019101,knowledge-update,True,True,3998,7419
+hybrid+exp prefix f=0.5,4000,45dc21b6,knowledge-update,True,True,3985,16853
+hybrid+exp prefix f=0.5,4000,5a4f22c0,knowledge-update,True,True,3998,18089
+hybrid+exp prefix f=0.5,4000,6071bd76,knowledge-update,True,True,3944,70026
+hybrid+exp prefix f=0.5,4000,e493bb7c,knowledge-update,True,True,3993,48127
+hybrid+exp prefix f=0.5,4000,618f13b2,knowledge-update,True,True,3970,36203
+hybrid+exp prefix f=0.5,4000,72e3ee87,knowledge-update,True,True,3977,15363
+hybrid+exp prefix f=0.5,4000,c4ea545c,knowledge-update,True,True,3976,46602
+hybrid+exp prefix f=0.5,4000,01493427,knowledge-update,True,True,3981,47244
+hybrid+exp prefix f=0.5,4000,6a27ffc2,knowledge-update,True,True,3956,23910
+hybrid+exp prefix f=0.5,4000,2133c1b5,knowledge-update,True,True,3961,41876
+hybrid+exp prefix f=0.5,4000,18bc8abd,knowledge-update,True,False,3973,3867
+hybrid+exp prefix f=0.5,4000,db467c8c,knowledge-update,False,False,3999,29672
+hybrid+exp prefix f=0.5,4000,7a87bd0c,knowledge-update,True,True,3971,27772
+hybrid+exp prefix f=0.5,4000,e61a7584,knowledge-update,True,False,3980,42823
+hybrid+exp prefix f=0.5,4000,1cea1afa,knowledge-update,True,False,3992,6522
+hybrid+exp prefix f=0.5,4000,ed4ddc30,knowledge-update,True,True,4000,19303
+hybrid+exp prefix f=0.5,4000,8fb83627,knowledge-update,True,True,3948,6203
+hybrid+exp prefix f=0.5,4000,b01defab,knowledge-update,True,True,3989,8982
+hybrid+exp prefix f=0.5,4000,22d2cb42,knowledge-update,False,False,3992,59679
+hybrid+exp prefix f=0.5,4000,0e4e4c46,knowledge-update,True,True,3976,1079
+hybrid+exp prefix f=0.5,4000,4b24c848,knowledge-update,True,True,3989,13836
+hybrid+exp prefix f=0.5,4000,7e974930,knowledge-update,True,True,3998,6295
+hybrid+exp prefix f=0.5,4000,603deb26,knowledge-update,True,True,3980,4212
+hybrid+exp prefix f=0.5,4000,59524333,knowledge-update,True,True,3997,10354
+hybrid+exp prefix f=0.5,4000,5831f84d,knowledge-update,True,True,3992,34663
+hybrid+exp prefix f=0.5,4000,eace081b,knowledge-update,False,False,3981,24582
+hybrid+exp prefix f=0.5,4000,affe2881,knowledge-update,True,True,3997,53986
+hybrid+exp prefix f=0.5,4000,50635ada,knowledge-update,True,True,3961,17181
+hybrid+exp prefix f=0.5,4000,e66b632c,knowledge-update,True,False,3991,5474
+hybrid+exp prefix f=0.5,4000,0ddfec37,knowledge-update,True,True,3993,38635
+hybrid+exp prefix f=0.5,4000,f685340e,knowledge-update,True,True,3998,4870
+hybrid+exp prefix f=0.5,4000,cc5ded98,knowledge-update,True,False,3991,84419
+hybrid+exp prefix f=0.5,4000,dfde3500,knowledge-update,True,False,3986,54591
+hybrid+exp prefix f=0.5,4000,69fee5aa,knowledge-update,True,True,3993,28813
+hybrid+exp prefix f=0.5,4000,7401057b,knowledge-update,True,True,4000,47556
+hybrid+exp prefix f=0.5,4000,cf22b7bf,knowledge-update,True,True,3943,6702
+hybrid+exp prefix f=0.5,4000,a2f3aa27,knowledge-update,True,True,3978,12057
+hybrid+exp prefix f=0.5,4000,c7dc5443,knowledge-update,True,False,3988,8329
+hybrid+exp prefix f=0.5,4000,06db6396,knowledge-update,True,True,3998,43859
+hybrid+exp prefix f=0.5,4000,3ba21379,knowledge-update,True,False,3967,90614
+hybrid+exp prefix f=0.5,4000,9bbe84a2,knowledge-update,False,False,3966,87507
+hybrid+exp prefix f=0.5,4000,10e09553,knowledge-update,True,True,4000,24685
+hybrid+exp prefix f=0.5,4000,dad224aa,knowledge-update,False,False,3999,2153
+hybrid+exp prefix f=0.5,4000,ba61f0b9,knowledge-update,True,False,3994,14978
+hybrid+exp prefix f=0.5,4000,42ec0761,knowledge-update,True,True,3974,2474
+hybrid+exp prefix f=0.5,4000,5c40ec5b,knowledge-update,True,True,3978,2358
+hybrid+exp prefix f=0.5,4000,c6853660,knowledge-update,True,True,3948,95542
+hybrid+exp prefix f=0.5,4000,26bdc477,knowledge-update,True,True,3998,23297
+hybrid+exp prefix f=0.5,4000,0977f2af,knowledge-update,True,True,3996,13256
+hybrid+exp prefix f=0.5,4000,89941a94,knowledge-update,True,False,3999,3935
+hybrid+exp prefix f=0.5,4000,07741c45,knowledge-update,True,False,3996,41471
+hybrid+exp prefix f=0.5,4000,7161e7e2,single-session-assistant,True,True,3999,84971
+hybrid+exp prefix f=0.5,4000,c4f10528,single-session-assistant,True,True,3997,13516
+hybrid+exp prefix f=0.5,4000,89527b6b,single-session-assistant,True,True,3994,72598
+hybrid+exp prefix f=0.5,4000,e9327a54,single-session-assistant,True,True,3987,91131
+hybrid+exp prefix f=0.5,4000,4c36ccef,single-session-assistant,True,True,3993,2392
+hybrid+exp prefix f=0.5,4000,6ae235be,single-session-assistant,True,True,3999,37593
+hybrid+exp prefix f=0.5,4000,7e00a6cb,single-session-assistant,True,True,3995,49063
+hybrid+exp prefix f=0.5,4000,1903aded,single-session-assistant,True,True,3984,47845
+hybrid+exp prefix f=0.5,4000,ceb54acb,single-session-assistant,True,True,3985,57740
+hybrid+exp prefix f=0.5,4000,f523d9fe,single-session-assistant,True,True,3960,51680
+hybrid+exp prefix f=0.5,4000,0e5e2d1a,single-session-assistant,True,True,3994,61448
+hybrid+exp prefix f=0.5,4000,fea54f57,single-session-assistant,True,True,3991,68025
+hybrid+exp prefix f=0.5,4000,cc539528,single-session-assistant,True,True,3997,33628
+hybrid+exp prefix f=0.5,4000,dc439ea3,single-session-assistant,True,True,3963,87228
+hybrid+exp prefix f=0.5,4000,18dcd5a5,single-session-assistant,True,True,3980,22445
+hybrid+exp prefix f=0.5,4000,488d3006,single-session-assistant,True,True,3996,6869
+hybrid+exp prefix f=0.5,4000,58470ed2,single-session-assistant,True,True,3993,32164
+hybrid+exp prefix f=0.5,4000,8cf51dda,single-session-assistant,True,True,3988,19320
+hybrid+exp prefix f=0.5,4000,1d4da289,single-session-assistant,True,True,3992,94227
+hybrid+exp prefix f=0.5,4000,8464fc84,single-session-assistant,True,True,3987,45715
+hybrid+exp prefix f=0.5,4000,8aef76bc,single-session-assistant,True,True,3994,122599
+hybrid+exp prefix f=0.5,4000,71a3fd6b,single-session-assistant,True,True,3985,22830
+hybrid+exp prefix f=0.5,4000,2bf43736,single-session-assistant,True,True,3966,8804
+hybrid+exp prefix f=0.5,4000,70b3e69b,single-session-assistant,True,True,3987,109957
+hybrid+exp prefix f=0.5,4000,8752c811,single-session-assistant,True,True,3991,93638
+hybrid+exp prefix f=0.5,4000,3249768e,single-session-assistant,True,True,3971,86443
+hybrid+exp prefix f=0.5,4000,1b9b7252,single-session-assistant,True,True,3993,58632
+hybrid+exp prefix f=0.5,4000,1568498a,single-session-assistant,True,True,3992,107030
+hybrid+exp prefix f=0.5,4000,6222b6eb,single-session-assistant,True,True,3995,42267
+hybrid+exp prefix f=0.5,4000,e8a79c70,single-session-assistant,True,True,3989,103484
+hybrid+exp prefix f=0.5,4000,d596882b,single-session-assistant,True,True,3995,46083
+hybrid+exp prefix f=0.5,4000,e3fc4d6e,single-session-assistant,True,True,3986,44712
+hybrid+exp prefix f=0.5,4000,51b23612,single-session-assistant,True,True,3990,16474
+hybrid+exp prefix f=0.5,4000,3e321797,single-session-assistant,True,True,3990,26136
+hybrid+exp prefix f=0.5,4000,e982271f,single-session-assistant,True,True,3997,42508
+hybrid+exp prefix f=0.5,4000,352ab8bd,single-session-assistant,True,True,3991,93712
+hybrid+exp prefix f=0.5,4000,fca762bc,single-session-assistant,True,True,3994,73139
+hybrid+exp prefix f=0.5,4000,7a8d0b71,single-session-assistant,True,True,3967,74271
+hybrid+exp prefix f=0.5,4000,a40e080f,single-session-assistant,True,True,3984,43965
+hybrid+exp prefix f=0.5,4000,8b9d4367,single-session-assistant,True,True,3994,27173
+hybrid+exp prefix f=0.5,4000,5809eb10,single-session-assistant,True,True,3984,1207
+hybrid+exp prefix f=0.5,4000,41275add,single-session-assistant,True,True,3988,62104
+hybrid+exp prefix f=0.5,4000,4388e9dd,single-session-assistant,True,True,3999,112632
+hybrid+exp prefix f=0.5,4000,4baee567,single-session-assistant,True,True,3987,24722
+hybrid+exp prefix f=0.5,4000,561fabcd,single-session-assistant,False,False,3967,6573
+hybrid+exp prefix f=0.5,4000,b759caee,single-session-assistant,True,True,3984,43161
+hybrid+exp prefix f=0.5,4000,ac031881,single-session-assistant,True,True,3997,109827
+hybrid+exp prefix f=0.5,4000,28bcfaac,single-session-assistant,True,True,3968,114539
+hybrid+exp prefix f=0.5,4000,16c90bf4,single-session-assistant,True,True,3997,35292
+hybrid+exp prefix f=0.5,4000,c8f1aeed,single-session-assistant,True,True,3979,96546
+hybrid+exp prefix f=0.5,4000,eaca4986,single-session-assistant,True,True,3973,22076
+hybrid+exp prefix f=0.5,4000,c7cf7dfd,single-session-assistant,True,True,3980,11082
+hybrid+exp prefix f=0.5,4000,e48988bc,single-session-assistant,True,True,3978,29304
+hybrid+exp prefix f=0.5,4000,1de5cff2,single-session-assistant,True,True,3984,8478
+hybrid+exp prefix f=0.5,4000,65240037,single-session-assistant,True,True,3997,95475
+hybrid+exp prefix f=0.5,4000,778164c6,single-session-assistant,True,True,3982,5808
+hybrid+exp prefix f=0.5,16000,e47becba,single-session-user,True,True,15997,6851
+hybrid+exp prefix f=0.5,16000,118b2229,single-session-user,True,True,15969,101459
+hybrid+exp prefix f=0.5,16000,51a45a95,single-session-user,True,True,15988,21122
+hybrid+exp prefix f=0.5,16000,58bf7951,single-session-user,True,True,15985,53252
+hybrid+exp prefix f=0.5,16000,1e043500,single-session-user,True,True,15988,92373
+hybrid+exp prefix f=0.5,16000,c5e8278d,single-session-user,True,True,15999,23440
+hybrid+exp prefix f=0.5,16000,6ade9755,single-session-user,True,True,15973,1322
+hybrid+exp prefix f=0.5,16000,6f9b354f,single-session-user,True,True,15965,33408
+hybrid+exp prefix f=0.5,16000,58ef2f1c,single-session-user,True,True,15995,680
+hybrid+exp prefix f=0.5,16000,f8c5f88b,single-session-user,True,True,15995,50967
+hybrid+exp prefix f=0.5,16000,5d3d2817,single-session-user,True,True,15998,64551
+hybrid+exp prefix f=0.5,16000,7527f7e2,single-session-user,True,True,16000,81687
+hybrid+exp prefix f=0.5,16000,c960da58,single-session-user,True,True,16000,113840
+hybrid+exp prefix f=0.5,16000,3b6f954b,single-session-user,True,True,15984,61307
+hybrid+exp prefix f=0.5,16000,726462e0,single-session-user,True,True,16000,90529
+hybrid+exp prefix f=0.5,16000,94f70d80,single-session-user,True,True,15984,11132
+hybrid+exp prefix f=0.5,16000,66f24dbb,single-session-user,True,True,15991,83953
+hybrid+exp prefix f=0.5,16000,ad7109d1,single-session-user,True,True,15965,69368
+hybrid+exp prefix f=0.5,16000,af8d2e46,single-session-user,True,True,15972,13317
+hybrid+exp prefix f=0.5,16000,dccbc061,single-session-user,True,True,15978,78292
+hybrid+exp prefix f=0.5,16000,c8c3f81d,single-session-user,True,True,15996,17091
+hybrid+exp prefix f=0.5,16000,8ebdbe50,single-session-user,True,True,15986,21676
+hybrid+exp prefix f=0.5,16000,6b168ec8,single-session-user,True,True,15993,40042
+hybrid+exp prefix f=0.5,16000,75499fd8,single-session-user,True,True,15983,61494
+hybrid+exp prefix f=0.5,16000,21436231,single-session-user,True,True,15972,104117
+hybrid+exp prefix f=0.5,16000,95bcc1c8,single-session-user,True,True,15991,100121
+hybrid+exp prefix f=0.5,16000,0862e8bf,single-session-user,True,True,15983,56465
+hybrid+exp prefix f=0.5,16000,853b0a1d,single-session-user,True,True,15996,79719
+hybrid+exp prefix f=0.5,16000,a06e4cfe,single-session-user,True,True,15967,102425
+hybrid+exp prefix f=0.5,16000,37d43f65,single-session-user,True,True,15994,22597
+hybrid+exp prefix f=0.5,16000,b86304ba,single-session-user,True,True,15988,4086
+hybrid+exp prefix f=0.5,16000,d52b4f67,single-session-user,True,True,15960,13729
+hybrid+exp prefix f=0.5,16000,25e5aa4f,single-session-user,True,True,15984,26200
+hybrid+exp prefix f=0.5,16000,caf9ead2,single-session-user,True,True,15988,82299
+hybrid+exp prefix f=0.5,16000,8550ddae,single-session-user,True,True,15986,108153
+hybrid+exp prefix f=0.5,16000,60d45044,single-session-user,True,True,15996,50830
+hybrid+exp prefix f=0.5,16000,3f1e9474,single-session-user,True,True,15990,104954
+hybrid+exp prefix f=0.5,16000,86b68151,single-session-user,True,True,15993,30557
+hybrid+exp prefix f=0.5,16000,577d4d32,single-session-user,True,True,15994,14281
+hybrid+exp prefix f=0.5,16000,ec81a493,single-session-user,True,True,15982,33241
+hybrid+exp prefix f=0.5,16000,15745da0,single-session-user,True,True,15995,105934
+hybrid+exp prefix f=0.5,16000,e01b8e2f,single-session-user,True,True,15986,81946
+hybrid+exp prefix f=0.5,16000,bc8a6e93,single-session-user,True,True,15980,58724
+hybrid+exp prefix f=0.5,16000,ccb36322,single-session-user,True,True,15962,108639
+hybrid+exp prefix f=0.5,16000,001be529,single-session-user,True,True,15986,21144
+hybrid+exp prefix f=0.5,16000,b320f3f8,single-session-user,True,True,15991,19840
+hybrid+exp prefix f=0.5,16000,19b5f2b3,single-session-user,True,True,15944,19925
+hybrid+exp prefix f=0.5,16000,4fd1909e,single-session-user,True,True,15989,70909
+hybrid+exp prefix f=0.5,16000,545bd2b5,single-session-user,True,True,15958,32966
+hybrid+exp prefix f=0.5,16000,8a137a7f,single-session-user,True,True,15978,104427
+hybrid+exp prefix f=0.5,16000,76d63226,single-session-user,True,True,15981,97971
+hybrid+exp prefix f=0.5,16000,86f00804,single-session-user,True,True,15996,96772
+hybrid+exp prefix f=0.5,16000,8e9d538c,single-session-user,True,True,15998,32477
+hybrid+exp prefix f=0.5,16000,311778f1,single-session-user,True,True,15975,51302
+hybrid+exp prefix f=0.5,16000,c19f7a0b,single-session-user,True,True,15990,71006
+hybrid+exp prefix f=0.5,16000,4100d0a0,single-session-user,True,True,15991,2615
+hybrid+exp prefix f=0.5,16000,29f2956b,single-session-user,True,True,15993,89503
+hybrid+exp prefix f=0.5,16000,1faac195,single-session-user,True,True,15982,111711
+hybrid+exp prefix f=0.5,16000,faba32e5,single-session-user,True,True,15968,53290
+hybrid+exp prefix f=0.5,16000,f4f1d8a4,single-session-user,True,True,15997,2893
+hybrid+exp prefix f=0.5,16000,c14c00dd,single-session-user,True,True,15960,102586
+hybrid+exp prefix f=0.5,16000,36580ce8,single-session-user,True,True,15992,15912
+hybrid+exp prefix f=0.5,16000,3d86fd0a,single-session-user,True,True,15955,101331
+hybrid+exp prefix f=0.5,16000,a82c026e,single-session-user,True,True,15999,36527
+hybrid+exp prefix f=0.5,16000,0a995998,multi-session,True,True,15984,33621
+hybrid+exp prefix f=0.5,16000,6d550036,multi-session,True,False,15994,25901
+hybrid+exp prefix f=0.5,16000,gpt4_59c863d7,multi-session,True,True,15986,4660
+hybrid+exp prefix f=0.5,16000,b5ef892d,multi-session,True,True,15996,23147
+hybrid+exp prefix f=0.5,16000,e831120c,multi-session,True,True,15987,56242
+hybrid+exp prefix f=0.5,16000,3a704032,multi-session,True,True,15976,80210
+hybrid+exp prefix f=0.5,16000,gpt4_d84a3211,multi-session,True,True,15966,3005
+hybrid+exp prefix f=0.5,16000,aae3761f,multi-session,True,True,15992,45928
+hybrid+exp prefix f=0.5,16000,gpt4_f2262a51,multi-session,True,False,15989,78822
+hybrid+exp prefix f=0.5,16000,dd2973ad,multi-session,True,True,15999,9031
+hybrid+exp prefix f=0.5,16000,c4a1ceb8,multi-session,True,False,15953,3257
+hybrid+exp prefix f=0.5,16000,gpt4_a56e767c,multi-session,True,True,15991,43501
+hybrid+exp prefix f=0.5,16000,6cb6f249,multi-session,True,True,15993,57920
+hybrid+exp prefix f=0.5,16000,46a3abf7,multi-session,True,False,15973,40979
+hybrid+exp prefix f=0.5,16000,36b9f61e,multi-session,True,True,15981,45038
+hybrid+exp prefix f=0.5,16000,28dc39ac,multi-session,True,True,15983,38670
+hybrid+exp prefix f=0.5,16000,gpt4_2f8be40d,multi-session,True,False,15997,15137
+hybrid+exp prefix f=0.5,16000,2e6d26dc,multi-session,True,True,15994,48321
+hybrid+exp prefix f=0.5,16000,gpt4_15e38248,multi-session,True,False,15986,13952
+hybrid+exp prefix f=0.5,16000,88432d0a,multi-session,True,False,15983,14500
+hybrid+exp prefix f=0.5,16000,80ec1f4f,multi-session,True,True,15980,42266
+hybrid+exp prefix f=0.5,16000,d23cf73b,multi-session,True,True,15968,14394
+hybrid+exp prefix f=0.5,16000,gpt4_7fce9456,multi-session,True,False,15967,14839
+hybrid+exp prefix f=0.5,16000,d682f1a2,multi-session,True,True,15991,13510
+hybrid+exp prefix f=0.5,16000,7024f17c,multi-session,True,False,15966,67459
+hybrid+exp prefix f=0.5,16000,gpt4_5501fe77,multi-session,True,True,15993,17344
+hybrid+exp prefix f=0.5,16000,gpt4_2ba83207,multi-session,True,True,15996,11633
+hybrid+exp prefix f=0.5,16000,2318644b,multi-session,True,True,15995,63327
+hybrid+exp prefix f=0.5,16000,2ce6a0f2,multi-session,True,False,15970,22590
+hybrid+exp prefix f=0.5,16000,gpt4_d12ceb0e,multi-session,True,True,15945,51368
+hybrid+exp prefix f=0.5,16000,00ca467f,multi-session,True,True,15973,22994
+hybrid+exp prefix f=0.5,16000,b3c15d39,multi-session,True,True,16000,44822
+hybrid+exp prefix f=0.5,16000,gpt4_31ff4165,multi-session,True,True,16000,7124
+hybrid+exp prefix f=0.5,16000,eeda8a6d,multi-session,True,True,15988,32228
+hybrid+exp prefix f=0.5,16000,2788b940,multi-session,True,False,15994,14390
+hybrid+exp prefix f=0.5,16000,60bf93ed,multi-session,True,True,15936,78263
+hybrid+exp prefix f=0.5,16000,9d25d4e0,multi-session,True,True,15998,32385
+hybrid+exp prefix f=0.5,16000,129d1232,multi-session,True,True,15945,7716
+hybrid+exp prefix f=0.5,16000,60472f9c,multi-session,True,True,15936,25817
+hybrid+exp prefix f=0.5,16000,gpt4_194be4b3,multi-session,True,False,15986,22431
+hybrid+exp prefix f=0.5,16000,a9f6b44c,multi-session,True,True,16000,28008
+hybrid+exp prefix f=0.5,16000,d851d5ba,multi-session,True,True,15994,26694
+hybrid+exp prefix f=0.5,16000,5a7937c8,multi-session,True,True,15936,22360
+hybrid+exp prefix f=0.5,16000,gpt4_ab202e7f,multi-session,True,False,15968,10017
+hybrid+exp prefix f=0.5,16000,gpt4_e05b82a6,multi-session,True,True,15999,10099
+hybrid+exp prefix f=0.5,16000,gpt4_731e37d7,multi-session,True,False,15995,63753
+hybrid+exp prefix f=0.5,16000,edced276,multi-session,True,True,15981,70532
+hybrid+exp prefix f=0.5,16000,10d9b85a,multi-session,True,True,15997,10775
+hybrid+exp prefix f=0.5,16000,e3038f8c,multi-session,True,False,15999,85716
+hybrid+exp prefix f=0.5,16000,2b8f3739,multi-session,True,True,15982,4419
+hybrid+exp prefix f=0.5,16000,1a8a66a6,multi-session,True,False,15979,29351
+hybrid+exp prefix f=0.5,16000,c2ac3c61,multi-session,True,True,15996,4419
+hybrid+exp prefix f=0.5,16000,bf659f65,multi-session,True,False,15996,9631
+hybrid+exp prefix f=0.5,16000,gpt4_372c3eed,multi-session,True,True,15959,17171
+hybrid+exp prefix f=0.5,16000,gpt4_2f91af09,multi-session,True,True,15998,6821
+hybrid+exp prefix f=0.5,16000,81507db6,multi-session,True,True,15979,47634
+hybrid+exp prefix f=0.5,16000,edced276_abs,multi-session,True,True,15996,72868
+hybrid+exp prefix f=0.5,16000,8a2466db,single-session-preference,True,True,15970,100340
+hybrid+exp prefix f=0.5,16000,06878be2,single-session-preference,True,True,15940,31120
+hybrid+exp prefix f=0.5,16000,75832dbd,single-session-preference,True,True,16000,105706
+hybrid+exp prefix f=0.5,16000,0edc2aef,single-session-preference,True,True,15988,19462
+hybrid+exp prefix f=0.5,16000,35a27287,single-session-preference,True,True,15992,21596
+hybrid+exp prefix f=0.5,16000,32260d93,single-session-preference,True,True,15972,18733
+hybrid+exp prefix f=0.5,16000,195a1a1b,single-session-preference,True,True,15997,3225
+hybrid+exp prefix f=0.5,16000,afdc33df,single-session-preference,True,True,15986,107646
+hybrid+exp prefix f=0.5,16000,caf03d32,single-session-preference,True,True,15998,4444
+hybrid+exp prefix f=0.5,16000,54026fce,single-session-preference,True,True,15948,57768
+hybrid+exp prefix f=0.5,16000,06f04340,single-session-preference,True,True,15981,90354
+hybrid+exp prefix f=0.5,16000,6b7dfb22,single-session-preference,True,True,15958,95327
+hybrid+exp prefix f=0.5,16000,1a1907b4,single-session-preference,False,False,15985,109598
+hybrid+exp prefix f=0.5,16000,09d032c9,single-session-preference,True,True,15991,47551
+hybrid+exp prefix f=0.5,16000,38146c39,single-session-preference,True,True,15997,45691
+hybrid+exp prefix f=0.5,16000,d24813b1,single-session-preference,True,True,15975,26471
+hybrid+exp prefix f=0.5,16000,57f827a0,single-session-preference,True,True,15966,40564
+hybrid+exp prefix f=0.5,16000,95228167,single-session-preference,True,True,15984,53337
+hybrid+exp prefix f=0.5,16000,505af2f5,single-session-preference,True,True,15973,102154
+hybrid+exp prefix f=0.5,16000,75f70248,single-session-preference,True,True,15968,55796
+hybrid+exp prefix f=0.5,16000,d6233ab6,single-session-preference,True,True,15937,96182
+hybrid+exp prefix f=0.5,16000,1da05512,single-session-preference,True,True,15990,24924
+hybrid+exp prefix f=0.5,16000,fca70973,single-session-preference,True,True,15984,3861
+hybrid+exp prefix f=0.5,16000,b6025781,single-session-preference,True,True,15962,67738
+hybrid+exp prefix f=0.5,16000,a89d7624,single-session-preference,True,True,15981,41128
+hybrid+exp prefix f=0.5,16000,b0479f84,single-session-preference,True,True,15998,25279
+hybrid+exp prefix f=0.5,16000,1d4e3b97,single-session-preference,True,True,15988,17598
+hybrid+exp prefix f=0.5,16000,07b6f563,single-session-preference,True,True,15990,29208
+hybrid+exp prefix f=0.5,16000,1c0ddc50,single-session-preference,True,True,15998,40535
+hybrid+exp prefix f=0.5,16000,0a34ad58,single-session-preference,True,True,15968,89106
+hybrid+exp prefix f=0.5,16000,d3ab962e,multi-session,True,True,15999,28353
+hybrid+exp prefix f=0.5,16000,2311e44b,multi-session,True,True,15981,8729
+hybrid+exp prefix f=0.5,16000,cc06de0d,multi-session,True,True,15954,25874
+hybrid+exp prefix f=0.5,16000,a11281a2,multi-session,True,True,15984,30479
+hybrid+exp prefix f=0.5,16000,4f54b7c9,multi-session,True,True,15996,11253
+hybrid+exp prefix f=0.5,16000,85fa3a3f,multi-session,True,True,15991,44837
+hybrid+exp prefix f=0.5,16000,9aaed6a3,multi-session,True,True,15979,93500
+hybrid+exp prefix f=0.5,16000,1f2b8d4f,multi-session,True,True,15947,89337
+hybrid+exp prefix f=0.5,16000,e6041065,multi-session,True,True,15986,15346
+hybrid+exp prefix f=0.5,16000,51c32626,multi-session,True,True,15977,7516
+hybrid+exp prefix f=0.5,16000,d905b33f,multi-session,True,True,15987,36801
+hybrid+exp prefix f=0.5,16000,7405e8b1,multi-session,True,True,15954,44136
+hybrid+exp prefix f=0.5,16000,f35224e0,multi-session,True,True,15995,14278
+hybrid+exp prefix f=0.5,16000,6456829e,multi-session,True,True,15990,8478
+hybrid+exp prefix f=0.5,16000,a4996e51,multi-session,True,True,15999,11923
+hybrid+exp prefix f=0.5,16000,3c1045c8,multi-session,True,True,15989,59971
+hybrid+exp prefix f=0.5,16000,60036106,multi-session,True,True,15969,13057
+hybrid+exp prefix f=0.5,16000,681a1674,multi-session,True,True,15954,39400
+hybrid+exp prefix f=0.5,16000,e25c3b8d,multi-session,True,True,15991,77715
+hybrid+exp prefix f=0.5,16000,4adc0475,multi-session,True,True,15960,23524
+hybrid+exp prefix f=0.5,16000,4bc144e2,multi-session,True,True,15991,17847
+hybrid+exp prefix f=0.5,16000,ef66a6e5,multi-session,True,True,15975,50298
+hybrid+exp prefix f=0.5,16000,5025383b,multi-session,True,True,15997,3237
+hybrid+exp prefix f=0.5,16000,a1cc6108,multi-session,True,True,15999,63412
+hybrid+exp prefix f=0.5,16000,9ee3ecd6,multi-session,True,True,15965,11234
+hybrid+exp prefix f=0.5,16000,3fdac837,multi-session,True,True,15979,13780
+hybrid+exp prefix f=0.5,16000,91b15a6e,multi-session,True,True,15993,36808
+hybrid+exp prefix f=0.5,16000,27016adc,multi-session,True,True,15996,33842
+hybrid+exp prefix f=0.5,16000,720133ac,multi-session,True,True,15951,5757
+hybrid+exp prefix f=0.5,16000,77eafa52,multi-session,True,True,15978,38633
+hybrid+exp prefix f=0.5,16000,8979f9ec,multi-session,True,True,15957,37508
+hybrid+exp prefix f=0.5,16000,0100672e,multi-session,True,True,15931,11026
+hybrid+exp prefix f=0.5,16000,a96c20ee,multi-session,True,True,15993,99980
+hybrid+exp prefix f=0.5,16000,92a0aa75,multi-session,False,False,15997,28286
+hybrid+exp prefix f=0.5,16000,3fe836c9,multi-session,True,True,15931,13929
+hybrid+exp prefix f=0.5,16000,1c549ce4,multi-session,True,True,15989,27696
+hybrid+exp prefix f=0.5,16000,6c49646a,multi-session,True,True,15974,40203
+hybrid+exp prefix f=0.5,16000,1192316e,multi-session,True,True,15985,90738
+hybrid+exp prefix f=0.5,16000,0ea62687,multi-session,True,True,15994,54174
+hybrid+exp prefix f=0.5,16000,67e0d0f2,multi-session,True,True,15987,26711
+hybrid+exp prefix f=0.5,16000,bb7c3b45,multi-session,True,True,15982,14007
+hybrid+exp prefix f=0.5,16000,ba358f49,multi-session,True,False,15980,36657
+hybrid+exp prefix f=0.5,16000,61f8c8f8,multi-session,True,True,15998,45326
+hybrid+exp prefix f=0.5,16000,60159905,multi-session,True,True,15995,104091
+hybrid+exp prefix f=0.5,16000,ef9cf60a,multi-session,True,True,15987,5537
+hybrid+exp prefix f=0.5,16000,73d42213,multi-session,True,True,15996,10082
+hybrid+exp prefix f=0.5,16000,bc149d6b,multi-session,True,True,15964,95428
+hybrid+exp prefix f=0.5,16000,099778bb,multi-session,True,True,15946,9420
+hybrid+exp prefix f=0.5,16000,09ba9854,multi-session,True,True,15956,47955
+hybrid+exp prefix f=0.5,16000,d6062bb9,multi-session,True,True,15986,77016
+hybrid+exp prefix f=0.5,16000,157a136e,multi-session,True,False,15996,7978
+hybrid+exp prefix f=0.5,16000,c18a7dc8,multi-session,True,False,15992,44509
+hybrid+exp prefix f=0.5,16000,a3332713,multi-session,True,True,15985,26499
+hybrid+exp prefix f=0.5,16000,55241a1f,multi-session,True,True,16000,65149
+hybrid+exp prefix f=0.5,16000,a08a253f,multi-session,True,True,15990,40346
+hybrid+exp prefix f=0.5,16000,f0e564bc,multi-session,True,True,15976,41211
+hybrid+exp prefix f=0.5,16000,078150f1,multi-session,True,True,15998,36172
+hybrid+exp prefix f=0.5,16000,8cf4d046,multi-session,True,True,15999,2249
+hybrid+exp prefix f=0.5,16000,a346bb18,multi-session,True,True,15940,62858
+hybrid+exp prefix f=0.5,16000,37f165cf,multi-session,True,True,15997,33494
+hybrid+exp prefix f=0.5,16000,8e91e7d9,multi-session,True,True,15953,68342
+hybrid+exp prefix f=0.5,16000,87f22b4a,multi-session,True,True,15973,34419
+hybrid+exp prefix f=0.5,16000,e56a43b9,multi-session,True,True,15990,32646
+hybrid+exp prefix f=0.5,16000,efc3f7c2,multi-session,True,True,15964,7953
+hybrid+exp prefix f=0.5,16000,21d02d0d,multi-session,True,True,15987,42404
+hybrid+exp prefix f=0.5,16000,6456829e_abs,multi-session,True,True,15998,85748
+hybrid+exp prefix f=0.5,16000,e5ba910e_abs,multi-session,True,True,15997,65517
+hybrid+exp prefix f=0.5,16000,09ba9854_abs,multi-session,True,True,15989,109798
+hybrid+exp prefix f=0.5,16000,gpt4_59149c77,temporal-reasoning,True,True,15995,52194
+hybrid+exp prefix f=0.5,16000,gpt4_f49edff3,temporal-reasoning,True,True,15999,12603
+hybrid+exp prefix f=0.5,16000,71017276,temporal-reasoning,True,True,15998,11768
+hybrid+exp prefix f=0.5,16000,b46e15ed,temporal-reasoning,True,True,15994,1837
+hybrid+exp prefix f=0.5,16000,gpt4_fa19884c,temporal-reasoning,True,True,15991,27805
+hybrid+exp prefix f=0.5,16000,0bc8ad92,temporal-reasoning,True,True,15983,51862
+hybrid+exp prefix f=0.5,16000,af082822,temporal-reasoning,True,True,15977,95415
+hybrid+exp prefix f=0.5,16000,gpt4_4929293a,temporal-reasoning,True,True,15996,45803
+hybrid+exp prefix f=0.5,16000,gpt4_b5700ca9,temporal-reasoning,True,True,15993,69237
+hybrid+exp prefix f=0.5,16000,9a707b81,temporal-reasoning,True,True,15974,18658
+hybrid+exp prefix f=0.5,16000,gpt4_1d4ab0c9,temporal-reasoning,True,True,15992,54740
+hybrid+exp prefix f=0.5,16000,gpt4_e072b769,temporal-reasoning,True,True,15998,66407
+hybrid+exp prefix f=0.5,16000,0db4c65d,temporal-reasoning,True,True,15992,11194
+hybrid+exp prefix f=0.5,16000,gpt4_1d80365e,temporal-reasoning,True,True,15983,46711
+hybrid+exp prefix f=0.5,16000,gpt4_7f6b06db,temporal-reasoning,True,False,15974,17687
+hybrid+exp prefix f=0.5,16000,gpt4_6dc9b45b,temporal-reasoning,True,True,15998,13305
+hybrid+exp prefix f=0.5,16000,gpt4_8279ba02,temporal-reasoning,True,True,15991,89911
+hybrid+exp prefix f=0.5,16000,gpt4_18c2b244,temporal-reasoning,True,True,15989,25607
+hybrid+exp prefix f=0.5,16000,gpt4_a1b77f9c,temporal-reasoning,True,False,15992,15335
+hybrid+exp prefix f=0.5,16000,gpt4_1916e0ea,temporal-reasoning,True,True,15993,82304
+hybrid+exp prefix f=0.5,16000,gpt4_7a0daae1,temporal-reasoning,True,True,15982,94526
+hybrid+exp prefix f=0.5,16000,gpt4_468eb063,temporal-reasoning,True,True,15997,91636
+hybrid+exp prefix f=0.5,16000,gpt4_7abb270c,temporal-reasoning,True,False,15994,10342
+hybrid+exp prefix f=0.5,16000,gpt4_1e4a8aeb,temporal-reasoning,True,True,15984,30471
+hybrid+exp prefix f=0.5,16000,gpt4_4fc4f797,temporal-reasoning,True,True,15996,21363
+hybrid+exp prefix f=0.5,16000,4dfccbf7,temporal-reasoning,True,True,15991,19012
+hybrid+exp prefix f=0.5,16000,gpt4_61e13b3c,temporal-reasoning,True,True,15942,14189
+hybrid+exp prefix f=0.5,16000,gpt4_45189cb4,temporal-reasoning,True,False,15996,106871
+hybrid+exp prefix f=0.5,16000,2ebe6c90,temporal-reasoning,True,True,15996,61389
+hybrid+exp prefix f=0.5,16000,gpt4_e061b84f,temporal-reasoning,True,False,15988,43742
+hybrid+exp prefix f=0.5,16000,370a8ff4,temporal-reasoning,True,True,15995,19306
+hybrid+exp prefix f=0.5,16000,gpt4_d6585ce8,temporal-reasoning,True,False,15994,3618
+hybrid+exp prefix f=0.5,16000,gpt4_4ef30696,temporal-reasoning,True,True,15998,27908
+hybrid+exp prefix f=0.5,16000,gpt4_ec93e27f,temporal-reasoning,True,False,16000,49776
+hybrid+exp prefix f=0.5,16000,6e984301,temporal-reasoning,True,True,15996,16098
+hybrid+exp prefix f=0.5,16000,8077ef71,temporal-reasoning,True,True,15997,91530
+hybrid+exp prefix f=0.5,16000,gpt4_f420262c,temporal-reasoning,True,True,15973,10311
+hybrid+exp prefix f=0.5,16000,gpt4_8e165409,temporal-reasoning,True,True,15991,42585
+hybrid+exp prefix f=0.5,16000,gpt4_74aed68e,temporal-reasoning,True,True,15994,31558
+hybrid+exp prefix f=0.5,16000,bcbe585f,temporal-reasoning,True,True,15990,70034
+hybrid+exp prefix f=0.5,16000,gpt4_21adecb5,temporal-reasoning,True,True,15999,41327
+hybrid+exp prefix f=0.5,16000,5e1b23de,temporal-reasoning,True,True,15972,77133
+hybrid+exp prefix f=0.5,16000,gpt4_98f46fc6,temporal-reasoning,True,True,15980,97910
+hybrid+exp prefix f=0.5,16000,gpt4_af6db32f,temporal-reasoning,True,True,15981,17031
+hybrid+exp prefix f=0.5,16000,eac54adc,temporal-reasoning,True,True,15953,53813
+hybrid+exp prefix f=0.5,16000,gpt4_7ddcf75f,temporal-reasoning,True,True,15987,83401
+hybrid+exp prefix f=0.5,16000,gpt4_a2d1d1f6,temporal-reasoning,True,True,15994,85859
+hybrid+exp prefix f=0.5,16000,gpt4_85da3956,temporal-reasoning,True,True,15994,80558
+hybrid+exp prefix f=0.5,16000,gpt4_b0863698,temporal-reasoning,True,True,15997,19876
+hybrid+exp prefix f=0.5,16000,gpt4_68e94287,temporal-reasoning,True,True,15985,76782
+hybrid+exp prefix f=0.5,16000,gpt4_e414231e,temporal-reasoning,True,True,16000,57478
+hybrid+exp prefix f=0.5,16000,gpt4_7ca326fa,temporal-reasoning,True,True,15986,6177
+hybrid+exp prefix f=0.5,16000,gpt4_7bc6cf22,temporal-reasoning,True,True,15997,113230
+hybrid+exp prefix f=0.5,16000,2ebe6c92,temporal-reasoning,True,True,15996,14828
+hybrid+exp prefix f=0.5,16000,gpt4_e061b84g,temporal-reasoning,True,True,15991,42328
+hybrid+exp prefix f=0.5,16000,71017277,temporal-reasoning,False,False,15980,34122
+hybrid+exp prefix f=0.5,16000,b46e15ee,temporal-reasoning,True,True,16000,35757
+hybrid+exp prefix f=0.5,16000,gpt4_d6585ce9,temporal-reasoning,False,False,15950,67749
+hybrid+exp prefix f=0.5,16000,gpt4_1e4a8aec,temporal-reasoning,True,True,15993,11492
+hybrid+exp prefix f=0.5,16000,gpt4_f420262d,temporal-reasoning,True,False,15999,23063
+hybrid+exp prefix f=0.5,16000,gpt4_59149c78,temporal-reasoning,True,True,15978,53630
+hybrid+exp prefix f=0.5,16000,gpt4_e414231f,temporal-reasoning,True,True,15977,36344
+hybrid+exp prefix f=0.5,16000,gpt4_4929293b,temporal-reasoning,False,False,15977,7956
+hybrid+exp prefix f=0.5,16000,gpt4_468eb064,temporal-reasoning,True,True,15955,89949
+hybrid+exp prefix f=0.5,16000,gpt4_fa19884d,temporal-reasoning,True,True,16000,41750
+hybrid+exp prefix f=0.5,16000,9a707b82,temporal-reasoning,True,True,15995,85853
+hybrid+exp prefix f=0.5,16000,eac54add,temporal-reasoning,False,False,15958,29500
+hybrid+exp prefix f=0.5,16000,4dfccbf8,temporal-reasoning,True,True,15988,12525
+hybrid+exp prefix f=0.5,16000,0bc8ad93,temporal-reasoning,True,True,15982,97624
+hybrid+exp prefix f=0.5,16000,6e984302,temporal-reasoning,False,False,15929,9465
+hybrid+exp prefix f=0.5,16000,gpt4_8279ba03,temporal-reasoning,False,False,15984,28706
+hybrid+exp prefix f=0.5,16000,gpt4_b5700ca0,temporal-reasoning,True,True,15967,41649
+hybrid+exp prefix f=0.5,16000,gpt4_68e94288,temporal-reasoning,False,False,15950,37998
+hybrid+exp prefix f=0.5,16000,gpt4_2655b836,temporal-reasoning,True,True,15962,78055
+hybrid+exp prefix f=0.5,16000,gpt4_2487a7cb,temporal-reasoning,True,True,15992,15215
+hybrid+exp prefix f=0.5,16000,gpt4_76048e76,temporal-reasoning,True,True,16000,67604
+hybrid+exp prefix f=0.5,16000,gpt4_2312f94c,temporal-reasoning,True,True,16000,70178
+hybrid+exp prefix f=0.5,16000,0bb5a684,temporal-reasoning,True,True,15947,75112
+hybrid+exp prefix f=0.5,16000,08f4fc43,temporal-reasoning,True,True,15974,56294
+hybrid+exp prefix f=0.5,16000,2c63a862,temporal-reasoning,True,True,16000,30342
+hybrid+exp prefix f=0.5,16000,gpt4_385a5000,temporal-reasoning,True,True,15989,7637
+hybrid+exp prefix f=0.5,16000,2a1811e2,temporal-reasoning,True,True,15996,49375
+hybrid+exp prefix f=0.5,16000,bbf86515,temporal-reasoning,True,True,15941,30596
+hybrid+exp prefix f=0.5,16000,gpt4_5dcc0aab,temporal-reasoning,True,True,15983,30799
+hybrid+exp prefix f=0.5,16000,gpt4_0b2f1d21,temporal-reasoning,True,True,15961,29005
+hybrid+exp prefix f=0.5,16000,f0853d11,temporal-reasoning,True,True,15993,68784
+hybrid+exp prefix f=0.5,16000,gpt4_6ed717ea,temporal-reasoning,True,True,15983,64429
+hybrid+exp prefix f=0.5,16000,gpt4_70e84552,temporal-reasoning,True,True,15970,15017
+hybrid+exp prefix f=0.5,16000,a3838d2b,temporal-reasoning,True,False,15996,27433
+hybrid+exp prefix f=0.5,16000,gpt4_93159ced,temporal-reasoning,True,False,15990,55619
+hybrid+exp prefix f=0.5,16000,gpt4_2d58bcd6,temporal-reasoning,True,True,15997,6913
+hybrid+exp prefix f=0.5,16000,gpt4_65aabe59,temporal-reasoning,True,True,15991,17697
+hybrid+exp prefix f=0.5,16000,982b5123,temporal-reasoning,True,True,15977,29716
+hybrid+exp prefix f=0.5,16000,b9cfe692,temporal-reasoning,True,True,15999,96893
+hybrid+exp prefix f=0.5,16000,gpt4_4edbafa2,temporal-reasoning,True,True,15964,3519
+hybrid+exp prefix f=0.5,16000,c8090214,temporal-reasoning,True,True,15990,43716
+hybrid+exp prefix f=0.5,16000,gpt4_483dd43c,temporal-reasoning,True,True,15994,28626
+hybrid+exp prefix f=0.5,16000,e4e14d04,temporal-reasoning,True,True,15984,10684
+hybrid+exp prefix f=0.5,16000,c9f37c46,temporal-reasoning,True,True,15990,41755
+hybrid+exp prefix f=0.5,16000,gpt4_2c50253f,temporal-reasoning,True,True,15993,32304
+hybrid+exp prefix f=0.5,16000,dcfa8644,temporal-reasoning,True,True,15944,28071
+hybrid+exp prefix f=0.5,16000,gpt4_b4a80587,temporal-reasoning,True,True,15990,58090
+hybrid+exp prefix f=0.5,16000,gpt4_9a159967,temporal-reasoning,True,True,15967,53286
+hybrid+exp prefix f=0.5,16000,cc6d1ec1,temporal-reasoning,True,True,15988,3475
+hybrid+exp prefix f=0.5,16000,gpt4_8c8961ae,temporal-reasoning,True,True,15989,70735
+hybrid+exp prefix f=0.5,16000,gpt4_d9af6064,temporal-reasoning,True,True,15999,26809
+hybrid+exp prefix f=0.5,16000,gpt4_7de946e7,temporal-reasoning,True,True,15990,24545
+hybrid+exp prefix f=0.5,16000,d01c6aa8,temporal-reasoning,True,True,15978,52544
+hybrid+exp prefix f=0.5,16000,993da5e2,temporal-reasoning,True,True,15989,21624
+hybrid+exp prefix f=0.5,16000,a3045048,temporal-reasoning,True,True,15994,44869
+hybrid+exp prefix f=0.5,16000,gpt4_d31cdae3,temporal-reasoning,True,True,15987,46671
+hybrid+exp prefix f=0.5,16000,gpt4_cd90e484,temporal-reasoning,True,True,15981,33585
+hybrid+exp prefix f=0.5,16000,gpt4_88806d6e,temporal-reasoning,True,True,15978,25042
+hybrid+exp prefix f=0.5,16000,gpt4_4cd9eba1,temporal-reasoning,True,True,15972,65713
+hybrid+exp prefix f=0.5,16000,gpt4_93f6379c,temporal-reasoning,True,True,15963,17993
+hybrid+exp prefix f=0.5,16000,b29f3365,temporal-reasoning,True,True,15998,59011
+hybrid+exp prefix f=0.5,16000,gpt4_2f56ae70,temporal-reasoning,True,False,15991,25584
+hybrid+exp prefix f=0.5,16000,6613b389,temporal-reasoning,True,True,15998,86413
+hybrid+exp prefix f=0.5,16000,gpt4_78cf46a3,temporal-reasoning,True,True,15995,12198
+hybrid+exp prefix f=0.5,16000,gpt4_0a05b494,temporal-reasoning,True,True,15988,26291
+hybrid+exp prefix f=0.5,16000,gpt4_1a1dc16d,temporal-reasoning,True,True,15937,11402
+hybrid+exp prefix f=0.5,16000,gpt4_2f584639,temporal-reasoning,True,True,16000,69133
+hybrid+exp prefix f=0.5,16000,gpt4_213fd887,temporal-reasoning,True,True,15965,73332
+hybrid+exp prefix f=0.5,16000,gpt4_5438fa52,temporal-reasoning,True,True,15993,67445
+hybrid+exp prefix f=0.5,16000,gpt4_c27434e8,temporal-reasoning,True,True,15979,62264
+hybrid+exp prefix f=0.5,16000,gpt4_fe651585,temporal-reasoning,True,True,15972,1866
+hybrid+exp prefix f=0.5,16000,8c18457d,temporal-reasoning,True,True,15955,35413
+hybrid+exp prefix f=0.5,16000,gpt4_70e84552_abs,temporal-reasoning,True,True,15987,3917
+hybrid+exp prefix f=0.5,16000,982b5123_abs,temporal-reasoning,True,True,15971,11235
+hybrid+exp prefix f=0.5,16000,c8090214_abs,temporal-reasoning,True,True,15994,31904
+hybrid+exp prefix f=0.5,16000,gpt4_c27434e8_abs,temporal-reasoning,True,True,15988,122748
+hybrid+exp prefix f=0.5,16000,gpt4_fe651585_abs,temporal-reasoning,True,True,15999,100628
+hybrid+exp prefix f=0.5,16000,6a1eabeb,knowledge-update,True,True,15956,4342
+hybrid+exp prefix f=0.5,16000,6aeb4375,knowledge-update,True,True,15997,2004
+hybrid+exp prefix f=0.5,16000,830ce83f,knowledge-update,True,True,15990,8475
+hybrid+exp prefix f=0.5,16000,852ce960,knowledge-update,True,True,15957,6076
+hybrid+exp prefix f=0.5,16000,945e3d21,knowledge-update,True,True,15990,73802
+hybrid+exp prefix f=0.5,16000,d7c942c3,knowledge-update,True,True,15995,25027
+hybrid+exp prefix f=0.5,16000,71315a70,knowledge-update,True,True,15992,49667
+hybrid+exp prefix f=0.5,16000,89941a93,knowledge-update,True,True,16000,51314
+hybrid+exp prefix f=0.5,16000,ce6d2d27,knowledge-update,True,True,15995,81812
+hybrid+exp prefix f=0.5,16000,9ea5eabc,knowledge-update,True,True,15995,21205
+hybrid+exp prefix f=0.5,16000,07741c44,knowledge-update,True,True,15965,53686
+hybrid+exp prefix f=0.5,16000,a1eacc2a,knowledge-update,True,True,15992,39664
+hybrid+exp prefix f=0.5,16000,184da446,knowledge-update,True,True,15983,6685
+hybrid+exp prefix f=0.5,16000,031748ae,knowledge-update,True,True,15964,105542
+hybrid+exp prefix f=0.5,16000,4d6b87c8,knowledge-update,True,True,15987,15179
+hybrid+exp prefix f=0.5,16000,0f05491a,knowledge-update,True,True,15988,4342
+hybrid+exp prefix f=0.5,16000,08e075c7,knowledge-update,True,True,16000,12299
+hybrid+exp prefix f=0.5,16000,f9e8c073,knowledge-update,True,True,15982,29065
+hybrid+exp prefix f=0.5,16000,41698283,knowledge-update,True,True,15996,3683
+hybrid+exp prefix f=0.5,16000,2698e78f,knowledge-update,True,True,15991,21887
+hybrid+exp prefix f=0.5,16000,b6019101,knowledge-update,True,True,15994,7419
+hybrid+exp prefix f=0.5,16000,45dc21b6,knowledge-update,True,True,15980,16853
+hybrid+exp prefix f=0.5,16000,5a4f22c0,knowledge-update,True,True,15978,18089
+hybrid+exp prefix f=0.5,16000,6071bd76,knowledge-update,True,True,15966,70026
+hybrid+exp prefix f=0.5,16000,e493bb7c,knowledge-update,True,True,15997,48127
+hybrid+exp prefix f=0.5,16000,618f13b2,knowledge-update,True,True,15986,36203
+hybrid+exp prefix f=0.5,16000,72e3ee87,knowledge-update,True,True,15983,15363
+hybrid+exp prefix f=0.5,16000,c4ea545c,knowledge-update,True,True,15984,46602
+hybrid+exp prefix f=0.5,16000,01493427,knowledge-update,True,True,15975,47244
+hybrid+exp prefix f=0.5,16000,6a27ffc2,knowledge-update,True,True,16000,23910
+hybrid+exp prefix f=0.5,16000,2133c1b5,knowledge-update,True,True,15962,41876
+hybrid+exp prefix f=0.5,16000,18bc8abd,knowledge-update,True,True,15994,3867
+hybrid+exp prefix f=0.5,16000,db467c8c,knowledge-update,True,True,15979,29672
+hybrid+exp prefix f=0.5,16000,7a87bd0c,knowledge-update,True,True,15988,27772
+hybrid+exp prefix f=0.5,16000,e61a7584,knowledge-update,True,True,15997,42823
+hybrid+exp prefix f=0.5,16000,1cea1afa,knowledge-update,True,True,15997,6522
+hybrid+exp prefix f=0.5,16000,ed4ddc30,knowledge-update,True,True,15997,19303
+hybrid+exp prefix f=0.5,16000,8fb83627,knowledge-update,True,True,15981,6203
+hybrid+exp prefix f=0.5,16000,b01defab,knowledge-update,True,True,15966,8982
+hybrid+exp prefix f=0.5,16000,22d2cb42,knowledge-update,True,True,15973,59679
+hybrid+exp prefix f=0.5,16000,0e4e4c46,knowledge-update,True,True,15998,1079
+hybrid+exp prefix f=0.5,16000,4b24c848,knowledge-update,True,True,15986,13836
+hybrid+exp prefix f=0.5,16000,7e974930,knowledge-update,True,True,15992,6295
+hybrid+exp prefix f=0.5,16000,603deb26,knowledge-update,True,True,15947,4212
+hybrid+exp prefix f=0.5,16000,59524333,knowledge-update,True,True,15998,10354
+hybrid+exp prefix f=0.5,16000,5831f84d,knowledge-update,True,True,15934,34663
+hybrid+exp prefix f=0.5,16000,eace081b,knowledge-update,True,True,15984,24582
+hybrid+exp prefix f=0.5,16000,affe2881,knowledge-update,True,True,15998,53986
+hybrid+exp prefix f=0.5,16000,50635ada,knowledge-update,True,True,15988,17181
+hybrid+exp prefix f=0.5,16000,e66b632c,knowledge-update,True,True,15994,5474
+hybrid+exp prefix f=0.5,16000,0ddfec37,knowledge-update,True,True,15999,38635
+hybrid+exp prefix f=0.5,16000,f685340e,knowledge-update,True,True,15895,4870
+hybrid+exp prefix f=0.5,16000,cc5ded98,knowledge-update,True,True,15978,84419
+hybrid+exp prefix f=0.5,16000,dfde3500,knowledge-update,True,True,15968,54591
+hybrid+exp prefix f=0.5,16000,69fee5aa,knowledge-update,True,True,15990,28813
+hybrid+exp prefix f=0.5,16000,7401057b,knowledge-update,True,True,15980,47556
+hybrid+exp prefix f=0.5,16000,cf22b7bf,knowledge-update,True,True,15943,6702
+hybrid+exp prefix f=0.5,16000,a2f3aa27,knowledge-update,True,True,15981,12057
+hybrid+exp prefix f=0.5,16000,c7dc5443,knowledge-update,True,True,15997,8329
+hybrid+exp prefix f=0.5,16000,06db6396,knowledge-update,True,True,15984,43859
+hybrid+exp prefix f=0.5,16000,3ba21379,knowledge-update,True,True,15926,90614
+hybrid+exp prefix f=0.5,16000,9bbe84a2,knowledge-update,True,True,15979,87507
+hybrid+exp prefix f=0.5,16000,10e09553,knowledge-update,True,True,15976,24685
+hybrid+exp prefix f=0.5,16000,dad224aa,knowledge-update,True,True,15998,2153
+hybrid+exp prefix f=0.5,16000,ba61f0b9,knowledge-update,True,True,15983,14978
+hybrid+exp prefix f=0.5,16000,42ec0761,knowledge-update,True,True,15972,2474
+hybrid+exp prefix f=0.5,16000,5c40ec5b,knowledge-update,True,True,15993,2358
+hybrid+exp prefix f=0.5,16000,c6853660,knowledge-update,True,True,15996,95542
+hybrid+exp prefix f=0.5,16000,26bdc477,knowledge-update,True,True,15993,23297
+hybrid+exp prefix f=0.5,16000,0977f2af,knowledge-update,True,True,15994,13256
+hybrid+exp prefix f=0.5,16000,89941a94,knowledge-update,True,True,15984,3935
+hybrid+exp prefix f=0.5,16000,07741c45,knowledge-update,True,True,16000,41471
+hybrid+exp prefix f=0.5,16000,7161e7e2,single-session-assistant,True,True,15981,84971
+hybrid+exp prefix f=0.5,16000,c4f10528,single-session-assistant,True,True,15947,13516
+hybrid+exp prefix f=0.5,16000,89527b6b,single-session-assistant,True,True,15990,72598
+hybrid+exp prefix f=0.5,16000,e9327a54,single-session-assistant,True,True,15998,91131
+hybrid+exp prefix f=0.5,16000,4c36ccef,single-session-assistant,True,True,15980,2392
+hybrid+exp prefix f=0.5,16000,6ae235be,single-session-assistant,True,True,15962,37593
+hybrid+exp prefix f=0.5,16000,7e00a6cb,single-session-assistant,True,True,15983,49063
+hybrid+exp prefix f=0.5,16000,1903aded,single-session-assistant,True,True,15996,47845
+hybrid+exp prefix f=0.5,16000,ceb54acb,single-session-assistant,True,True,15981,57740
+hybrid+exp prefix f=0.5,16000,f523d9fe,single-session-assistant,True,True,15961,51680
+hybrid+exp prefix f=0.5,16000,0e5e2d1a,single-session-assistant,True,True,15989,61448
+hybrid+exp prefix f=0.5,16000,fea54f57,single-session-assistant,True,True,15997,68025
+hybrid+exp prefix f=0.5,16000,cc539528,single-session-assistant,True,True,15980,33628
+hybrid+exp prefix f=0.5,16000,dc439ea3,single-session-assistant,True,True,15937,87228
+hybrid+exp prefix f=0.5,16000,18dcd5a5,single-session-assistant,True,True,15990,22445
+hybrid+exp prefix f=0.5,16000,488d3006,single-session-assistant,True,True,15994,6869
+hybrid+exp prefix f=0.5,16000,58470ed2,single-session-assistant,True,True,15967,32164
+hybrid+exp prefix f=0.5,16000,8cf51dda,single-session-assistant,True,True,15984,19320
+hybrid+exp prefix f=0.5,16000,1d4da289,single-session-assistant,True,True,15993,94227
+hybrid+exp prefix f=0.5,16000,8464fc84,single-session-assistant,True,True,15998,45715
+hybrid+exp prefix f=0.5,16000,8aef76bc,single-session-assistant,True,True,15988,122599
+hybrid+exp prefix f=0.5,16000,71a3fd6b,single-session-assistant,True,True,15983,22830
+hybrid+exp prefix f=0.5,16000,2bf43736,single-session-assistant,True,True,15939,8804
+hybrid+exp prefix f=0.5,16000,70b3e69b,single-session-assistant,True,True,15981,109957
+hybrid+exp prefix f=0.5,16000,8752c811,single-session-assistant,True,True,15992,93638
+hybrid+exp prefix f=0.5,16000,3249768e,single-session-assistant,True,True,15998,86443
+hybrid+exp prefix f=0.5,16000,1b9b7252,single-session-assistant,True,True,16000,58632
+hybrid+exp prefix f=0.5,16000,1568498a,single-session-assistant,True,True,15988,107030
+hybrid+exp prefix f=0.5,16000,6222b6eb,single-session-assistant,True,True,15972,42267
+hybrid+exp prefix f=0.5,16000,e8a79c70,single-session-assistant,True,True,15990,103484
+hybrid+exp prefix f=0.5,16000,d596882b,single-session-assistant,True,True,15956,46083
+hybrid+exp prefix f=0.5,16000,e3fc4d6e,single-session-assistant,True,True,15943,44712
+hybrid+exp prefix f=0.5,16000,51b23612,single-session-assistant,True,True,15999,16474
+hybrid+exp prefix f=0.5,16000,3e321797,single-session-assistant,True,True,15998,26136
+hybrid+exp prefix f=0.5,16000,e982271f,single-session-assistant,True,True,15995,42508
+hybrid+exp prefix f=0.5,16000,352ab8bd,single-session-assistant,True,True,15995,93712
+hybrid+exp prefix f=0.5,16000,fca762bc,single-session-assistant,True,True,15994,73139
+hybrid+exp prefix f=0.5,16000,7a8d0b71,single-session-assistant,True,True,15990,74271
+hybrid+exp prefix f=0.5,16000,a40e080f,single-session-assistant,True,True,15997,43965
+hybrid+exp prefix f=0.5,16000,8b9d4367,single-session-assistant,True,True,15993,27173
+hybrid+exp prefix f=0.5,16000,5809eb10,single-session-assistant,True,True,15981,1207
+hybrid+exp prefix f=0.5,16000,41275add,single-session-assistant,True,True,15985,62104
+hybrid+exp prefix f=0.5,16000,4388e9dd,single-session-assistant,True,True,16000,112632
+hybrid+exp prefix f=0.5,16000,4baee567,single-session-assistant,True,True,15978,24722
+hybrid+exp prefix f=0.5,16000,561fabcd,single-session-assistant,True,True,15995,6573
+hybrid+exp prefix f=0.5,16000,b759caee,single-session-assistant,True,True,15998,43161
+hybrid+exp prefix f=0.5,16000,ac031881,single-session-assistant,True,True,15996,109827
+hybrid+exp prefix f=0.5,16000,28bcfaac,single-session-assistant,True,True,16000,114539
+hybrid+exp prefix f=0.5,16000,16c90bf4,single-session-assistant,True,True,15985,35292
+hybrid+exp prefix f=0.5,16000,c8f1aeed,single-session-assistant,True,True,15924,96546
+hybrid+exp prefix f=0.5,16000,eaca4986,single-session-assistant,True,True,16000,22076
+hybrid+exp prefix f=0.5,16000,c7cf7dfd,single-session-assistant,True,True,15990,11082
+hybrid+exp prefix f=0.5,16000,e48988bc,single-session-assistant,True,True,15984,29304
+hybrid+exp prefix f=0.5,16000,1de5cff2,single-session-assistant,True,True,15995,8478
+hybrid+exp prefix f=0.5,16000,65240037,single-session-assistant,True,True,15991,95475
+hybrid+exp prefix f=0.5,16000,778164c6,single-session-assistant,True,True,15989,5808
