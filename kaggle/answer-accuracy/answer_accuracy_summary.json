@@ -1,0 +1,150 @@
+{
+ "hybrid+exp prefix f=0.5|4000": {
+  "acc": 60.8,
+  "n": 479,
+  "acc_if_all_evidence": 81.2,
+  "acc_if_missing_evidence": 27.1,
+  "recall_all": 62.2,
+  "by_kind": {
+   "knowledge-update": [
+    72.2,
+    72
+   ],
+   "multi-session": [
+    36.8,
+    125
+   ],
+   "single-session-assistant": [
+    98.2,
+    56
+   ],
+   "single-session-preference": [
+    76.7,
+    30
+   ],
+   "single-session-user": [
+    90.6,
+    64
+   ],
+   "temporal-reasoning": [
+    43.2,
+    132
+   ]
+  }
+ },
+ "hybrid+exp prefix f=0.5|16000": {
+  "acc": 58.7,
+  "n": 479,
+  "acc_if_all_evidence": 62.4,
+  "acc_if_missing_evidence": 17.5,
+  "recall_all": 91.6,
+  "by_kind": {
+   "knowledge-update": [
+    72.2,
+    72
+   ],
+   "multi-session": [
+    39.2,
+    125
+   ],
+   "single-session-assistant": [
+    87.5,
+    56
+   ],
+   "single-session-preference": [
+    73.3,
+    30
+   ],
+   "single-session-user": [
+    78.1,
+    64
+   ],
+   "temporal-reasoning": [
+    44.7,
+    132
+   ]
+  }
+ },
+ "recent+hybrid|4000": {
+  "acc": 59.1,
+  "n": 479,
+  "acc_if_all_evidence": 79.1,
+  "acc_if_missing_evidence": 24.9,
+  "recall_all": 63.0,
+  "by_kind": {
+   "knowledge-update": [
+    72.2,
+    72
+   ],
+   "multi-session": [
+    36.0,
+    125
+   ],
+   "single-session-assistant": [
+    94.6,
+    56
+   ],
+   "single-session-preference": [
+    73.3,
+    30
+   ],
+   "single-session-user": [
+    89.1,
+    64
+   ],
+   "temporal-reasoning": [
+    40.9,
+    132
+   ]
+  }
+ },
+ "recent+hybrid|16000": {
+  "acc": 58.9,
+  "n": 479,
+  "acc_if_all_evidence": 63.5,
+  "acc_if_missing_evidence": 18.4,
+  "recall_all": 89.8,
+  "by_kind": {
+   "knowledge-update": [
+    79.2,
+    72
+   ],
+   "multi-session": [
+    38.4,
+    125
+   ],
+   "single-session-assistant": [
+    91.1,
+    56
+   ],
+   "single-session-preference": [
+    60.0,
+    30
+   ],
+   "single-session-user": [
+    85.9,
+    64
+   ],
+   "temporal-reasoning": [
+    40.2,
+    132
+   ]
+  }
+ },
+ "paired|hybrid+exp prefix f=0.5|4000": {
+  "fixed": 21,
+  "broken": 13,
+  "p": 0.229,
+  "multi_fixed": 4,
+  "multi_broken": 3,
+  "same_context": 165
+ },
+ "paired|hybrid+exp prefix f=0.5|16000": {
+  "fixed": 24,
+  "broken": 25,
+  "p": 1.0,
+  "multi_fixed": 9,
+  "multi_broken": 8,
+  "same_context": 37
+ }
+}
