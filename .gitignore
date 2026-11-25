@@ -22,3 +22,4 @@ kaggle/**/*.npz
 kaggle/**/aim_*.json
 kaggle/**/results_s.json
 kaggle/**/kaggle_out/
+EARNING-PLAN.local.md
