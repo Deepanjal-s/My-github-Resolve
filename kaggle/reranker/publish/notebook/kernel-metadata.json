@@ -1,0 +1,19 @@
+{
+ "id": "deepanjalshukla95/more-context-didn-t-help-a-re-ranker-did",
+ "title": "More context didn't help. A re-ranker did.",
+ "code_file": "reranking.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": false,
+ "enable_gpu": false,
+ "enable_internet": false,
+ "dataset_sources": [
+  "deepanjalshukla95/longmemeval-reranking-results"
+ ],
+ "competition_sources": [],
+ "kernel_sources": [],
+ "keywords": [
+  "nlp",
+  "retrieval"
+ ]
+}
