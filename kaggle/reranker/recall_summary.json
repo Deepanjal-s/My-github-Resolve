@@ -1,0 +1,86 @@
+{
+ "recent+hybrid|2000": {
+  "recalled": 72.9,
+  "recalled_all": 36.5,
+  "multi_all": 14.4
+ },
+ "hybrid+rerank N=100|2000": {
+  "recalled": 81.0,
+  "recalled_all": 44.3,
+  "multi_all": 16.8,
+  "fixed": 50,
+  "broken": 13,
+  "p": 0.0
+ },
+ "hybrid+rerank rrf|2000": {
+  "recalled": 77.5,
+  "recalled_all": 40.9,
+  "multi_all": 14.4,
+  "fixed": 32,
+  "broken": 11,
+  "p": 0.002
+ },
+ "recent+hybrid|4000": {
+  "recalled": 87.3,
+  "recalled_all": 63.0,
+  "multi_all": 36.0
+ },
+ "hybrid+rerank N=100|4000": {
+  "recalled": 91.4,
+  "recalled_all": 71.4,
+  "multi_all": 46.4,
+  "fixed": 58,
+  "broken": 18,
+  "p": 0.0
+ },
+ "hybrid+rerank rrf|4000": {
+  "recalled": 90.8,
+  "recalled_all": 70.1,
+  "multi_all": 42.4,
+  "fixed": 44,
+  "broken": 10,
+  "p": 0.0
+ },
+ "recent+hybrid|8000": {
+  "recalled": 94.4,
+  "recalled_all": 79.5,
+  "multi_all": 58.4
+ },
+ "hybrid+rerank N=100|8000": {
+  "recalled": 97.1,
+  "recalled_all": 85.8,
+  "multi_all": 68.8,
+  "fixed": 43,
+  "broken": 13,
+  "p": 0.0
+ },
+ "hybrid+rerank rrf|8000": {
+  "recalled": 96.7,
+  "recalled_all": 83.3,
+  "multi_all": 66.4,
+  "fixed": 23,
+  "broken": 5,
+  "p": 0.001
+ },
+ "recent+hybrid|16000": {
+  "recalled": 97.5,
+  "recalled_all": 89.8,
+  "multi_all": 76.8
+ },
+ "hybrid+rerank N=100|16000": {
+  "recalled": 99.0,
+  "recalled_all": 92.5,
+  "multi_all": 83.2,
+  "fixed": 23,
+  "broken": 10,
+  "p": 0.035
+ },
+ "hybrid+rerank rrf|16000": {
+  "recalled": 98.5,
+  "recalled_all": 91.4,
+  "multi_all": 80.8,
+  "fixed": 15,
+  "broken": 7,
+  "p": 0.134
+ }
+}
