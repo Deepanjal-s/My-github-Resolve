@@ -206,7 +206,7 @@ verdicts = generate(judges, 4)
 with open(f"/kaggle/working/answers_{WORKER}.jsonl", "w") as f:
     for (qid, ids), ans, v in zip(keys, answers, verdicts):
         f.write(json.dumps({"qid": qid, "ids": list(ids), "answer": ans, "verdict": v,
-                            "correct": v.strip().lower().startswith("yes")}) + "\n")
+                            "correct": ans != "[OOM]" and v.strip().lower().startswith("yes")}) + "\n")
 print(f"worker {WORKER}: finished", flush=True)
 ''' % {"model": MODEL}
 
