@@ -61,6 +61,18 @@ for n in (30, 50, 100, 200):
         top.sort(key=lambda x: (-x[1], x[2]))  # ties keep the original order, as in the app
         ranked[cid] = [i for i, _, _ in top] + ids[n:]
     out[f"N={n}"] = ranked
+    # RRF of the first-stage order and the re-ranker order over the top n (k=60), rest unchanged
+    fused = {}
+    for cid, ids in kw.items():
+        top = ids[:n]
+        by_ce = [i for i, _ in sorted(zip(top, scores[cid][:n]), key=lambda x: -x[1])]
+        sc = {}
+        for ranked_list in (top, by_ce):
+            for r, i in enumerate(ranked_list):
+                sc[i] = sc.get(i, 0.0) + 1.0 / (60 + r + 1)
+        fused[cid] = sorted(top, key=lambda i: -sc[i]) + ids[n:]
+    out[f"RRF N={n}"] = fused
+    out[f"scores"] = scores
 json.dump(out, open("/kaggle/working/rerank_topn.json", "w"))
 print("done")
 '''
