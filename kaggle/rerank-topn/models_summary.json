@@ -1,0 +1,88 @@
+{
+ "timing": {
+  "cross-encoder/ms-marco-MiniLM-L-6-v2": {
+   "pairs": 14180,
+   "gpu_seconds": 76.1,
+   "params_m": 23
+  },
+  "cross-encoder/ms-marco-MiniLM-L-12-v2": {
+   "pairs": 14180,
+   "gpu_seconds": 151.8,
+   "params_m": 33
+  },
+  "mixedbread-ai/mxbai-rerank-xsmall-v1": {
+   "pairs": 14180,
+   "gpu_seconds": 129.9,
+   "params_m": 71
+  },
+  "mixedbread-ai/mxbai-rerank-base-v1": {
+   "pairs": 14180,
+   "gpu_seconds": 261.2,
+   "params_m": 184
+  },
+  "BAAI/bge-reranker-base": {
+   "pairs": 14180,
+   "gpu_seconds": 402.7,
+   "params_m": 278
+  },
+  "BAAI/bge-reranker-v2-m3": {
+   "pairs": 14180,
+   "gpu_seconds": 279.2,
+   "params_m": 568
+  }
+ },
+ "BAAI/bge-reranker-base|2000": 42.6,
+ "BAAI/bge-reranker-base|4000": 69.5,
+ "BAAI/bge-reranker-base|8000": 84.8,
+ "BAAI/bge-reranker-base|16000": 88.7,
+ "BAAI/bge-reranker-v2-m3|2000": 43.8,
+ "BAAI/bge-reranker-v2-m3|4000": 70.6,
+ "BAAI/bge-reranker-v2-m3|8000": 83.7,
+ "BAAI/bge-reranker-v2-m3|16000": 88.9,
+ "cross-encoder/ms-marco-MiniLM-L-12-v2|2000": 42.2,
+ "cross-encoder/ms-marco-MiniLM-L-12-v2|4000": 69.5,
+ "cross-encoder/ms-marco-MiniLM-L-12-v2|8000": 83.5,
+ "cross-encoder/ms-marco-MiniLM-L-12-v2|16000": 89.4,
+ "cross-encoder/ms-marco-MiniLM-L-6-v2|2000": 43.4,
+ "cross-encoder/ms-marco-MiniLM-L-6-v2|4000": 70.6,
+ "cross-encoder/ms-marco-MiniLM-L-6-v2|8000": 84.1,
+ "cross-encoder/ms-marco-MiniLM-L-6-v2|16000": 89.1,
+ "mixedbread-ai/mxbai-rerank-base-v1|2000": 42.6,
+ "mixedbread-ai/mxbai-rerank-base-v1|4000": 68.1,
+ "mixedbread-ai/mxbai-rerank-base-v1|8000": 83.5,
+ "mixedbread-ai/mxbai-rerank-base-v1|16000": 88.9,
+ "mixedbread-ai/mxbai-rerank-xsmall-v1|2000": 44.3,
+ "mixedbread-ai/mxbai-rerank-xsmall-v1|4000": 67.4,
+ "mixedbread-ai/mxbai-rerank-xsmall-v1|8000": 83.5,
+ "mixedbread-ai/mxbai-rerank-xsmall-v1|16000": 88.9,
+ "paired_vs_base|cross-encoder/ms-marco-MiniLM-L-6-v2|4000": {
+  "fixed": 0,
+  "broken": 0,
+  "p": 1.0
+ },
+ "paired_vs_base|cross-encoder/ms-marco-MiniLM-L-12-v2|4000": {
+  "fixed": 7,
+  "broken": 12,
+  "p": 0.3593
+ },
+ "paired_vs_base|mixedbread-ai/mxbai-rerank-xsmall-v1|4000": {
+  "fixed": 19,
+  "broken": 34,
+  "p": 0.0534
+ },
+ "paired_vs_base|mixedbread-ai/mxbai-rerank-base-v1|4000": {
+  "fixed": 33,
+  "broken": 45,
+  "p": 0.2127
+ },
+ "paired_vs_base|BAAI/bge-reranker-base|4000": {
+  "fixed": 20,
+  "broken": 25,
+  "p": 0.5515
+ },
+ "paired_vs_base|BAAI/bge-reranker-v2-m3|4000": {
+  "fixed": 18,
+  "broken": 18,
+  "p": 1.0
+ }
+}
