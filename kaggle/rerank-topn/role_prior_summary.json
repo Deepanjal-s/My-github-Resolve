@@ -1,0 +1,76 @@
+{
+ "chosen_B": 3,
+ "tune_half_4k": {
+  "0": 68.3,
+  "1": 69.6,
+  "2": 69.6,
+  "3": 70.0,
+  "4": 70.0,
+  "6": 69.6,
+  "8": 69.6
+ },
+ "held-out half|2000": {
+  "rerank": 46.0,
+  "rerank+user prior": 46.0,
+  "prior without assistant rule": 46.0,
+  "fixed": 2,
+  "broken": 2,
+  "p": 1.0
+ },
+ "held-out half|4000": {
+  "rerank": 72.8,
+  "rerank+user prior": 75.7,
+  "prior without assistant rule": 75.3,
+  "fixed": 9,
+  "broken": 2,
+  "p": 0.06543
+ },
+ "held-out half|8000": {
+  "rerank": 85.8,
+  "rerank+user prior": 85.8,
+  "prior without assistant rule": 86.2,
+  "fixed": 3,
+  "broken": 3,
+  "p": 1.0
+ },
+ "held-out half|16000": {
+  "rerank": 90.0,
+  "rerank+user prior": 90.0,
+  "prior without assistant rule": 90.4,
+  "fixed": 1,
+  "broken": 1,
+  "p": 1.0
+ },
+ "all 479|2000": {
+  "rerank": 43.4,
+  "rerank+user prior": 44.5,
+  "prior without assistant rule": 44.5,
+  "fixed": 10,
+  "broken": 5,
+  "p": 0.30176
+ },
+ "all 479|4000": {
+  "rerank": 70.6,
+  "rerank+user prior": 72.9,
+  "prior without assistant rule": 72.7,
+  "fixed": 16,
+  "broken": 5,
+  "p": 0.0266
+ },
+ "all 479|8000": {
+  "rerank": 84.1,
+  "rerank+user prior": 84.1,
+  "prior without assistant rule": 84.6,
+  "fixed": 6,
+  "broken": 6,
+  "p": 1.0
+ },
+ "all 479|16000": {
+  "rerank": 89.1,
+  "rerank+user prior": 88.3,
+  "prior without assistant rule": 88.5,
+  "fixed": 2,
+  "broken": 6,
+  "p": 0.28906
+ }
+}
