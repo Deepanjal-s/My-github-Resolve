@@ -1,0 +1,17 @@
+{
+ "id": "deepanjalshukla95/solar-cycle-25-when-will-it-end",
+ "title": "Solar Cycle 25: when will it end?",
+ "code_file": "solar-cycle-25.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": false,
+ "enable_gpu": false,
+ "enable_internet": true,
+ "dataset_sources": [],
+ "competition_sources": [],
+ "kernel_sources": [],
+ "keywords": [
+  "astronomy",
+  "time series analysis"
+ ]
+}
