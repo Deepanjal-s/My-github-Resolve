@@ -1,0 +1,14 @@
+{
+ "recent+bm25 share=0.5|2000": 37.8,
+ "recent+bm25 share=0.5|4000": 60.8,
+ "recent+bm25 share=0.5|8000": 73.3,
+ "recent+bm25 share=0.5|16000": 82.3,
+ "recent+bm25 share=0.25|2000": 50.3,
+ "recent+bm25 share=0.25|4000": 67.8,
+ "recent+bm25 share=0.25|8000": 77.9,
+ "recent+bm25 share=0.25|16000": 85.2,
+ "recent+bm25 share=0.0|2000": 55.3,
+ "recent+bm25 share=0.0|4000": 73.3,
+ "recent+bm25 share=0.0|8000": 80.0,
+ "recent+bm25 share=0.0|16000": 87.3
+}
