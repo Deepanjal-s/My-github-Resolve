@@ -19,7 +19,7 @@ command you can rerun, or a link to the upstream PR.
 | `oss-lab/experiments/` | Comparisons of alternative fixes or approaches |
 | `oss-lab/learning-notes/` | Concepts each fix made me learn |
 | [`kaggle/`](kaggle) | Notebooks published to Kaggle, with source kept here |
-| [`systems/`](systems) | Small from-scratch systems with failure-injection tests ([`tinykv`](systems/tinykv): WAL + crash recovery; [`jobqueue`](systems/jobqueue): retries, leases, rate limits; [`raft`](systems/raft): elections + replication under chaos) |
+| [`systems/`](systems) | Small from-scratch systems with failure-injection tests ([`tinykv`](systems/tinykv): WAL + crash recovery; [`jobqueue`](systems/jobqueue): retries, leases, rate limits; [`raft`](systems/raft): elections + replication under chaos; [`lsm`](systems/lsm): LSM-tree with SSTables, Bloom filters, compaction + crash tests) |
 
 Third-party code is **linked, not copied**. Upstream repositories are cloned
 locally for work and referenced here by URL and PR number.
