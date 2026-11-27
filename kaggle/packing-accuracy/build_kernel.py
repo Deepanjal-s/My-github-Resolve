@@ -66,7 +66,7 @@ nb = nbf.v4.new_notebook()
 nb.cells = [
     nbf.v4.new_markdown_cell("# Packing vs answer accuracy (LongMemEval_s)\n\nWork kernel for memory-recall-bench."),
     nbf.v4.new_code_cell(
-        "import urllib.request, os\n"
+        "import urllib.request, os, gzip, base64\n"
         "if not os.path.exists('/kaggle/working/lme.json'):\n"
         "    urllib.request.urlretrieve('https://huggingface.co/datasets/xiaowu0162/longmemeval-cleaned/"
         "resolve/main/longmemeval_s_cleaned.json', '/kaggle/working/lme.json')\n"
