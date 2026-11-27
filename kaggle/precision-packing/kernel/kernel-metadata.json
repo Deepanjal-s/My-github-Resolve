@@ -1,0 +1,13 @@
+{
+ "id": "deepanjalshukla95/lme-precision-packing",
+ "title": "lme precision packing",
+ "code_file": "precision-packing.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": true,
+ "dataset_sources": [],
+ "competition_sources": [],
+ "kernel_sources": []
+}
