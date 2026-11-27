@@ -36,6 +36,9 @@ for cid, ids in kw.items():
 
 convs = load_longmemeval(DATA)
 ARMS = [("control recent=0.5", None, 0.5, 4000)] + [(f"top{k} recent=0", k, 0.0, 8000) for k in (5, 10, 20)]
+KID, NB = "lme-precision-packing", "precision-packing"
+if "--matched" in sys.argv:  # Codex review: matched comparator = full ranking, same 8k cap, no recent window
+    ARMS, KID, NB = [("full recent=0", None, 0.0, 8000)], "lme-precision-packing-matched", "precision-packing-matched"
 rows = []
 for name, k, share, budget in ARMS:
     rp = HERE / "ranking.json"
@@ -87,11 +90,11 @@ nb.cells = [
 ]
 nb["metadata"] = {"kernelspec": {"name": "python3", "display_name": "Python 3", "language": "python"},
                   "language_info": {"name": "python"}}
-d = HERE / "kernel"; d.mkdir(exist_ok=True)
-nbf.write(nb, d / "precision-packing.ipynb")
+d = HERE / ("kernel" if NB == "precision-packing" else "kernel-matched"); d.mkdir(exist_ok=True)
+nbf.write(nb, d / f"{NB}.ipynb")
 (d / "kernel-metadata.json").write_text(json.dumps({
-    "id": "deepanjalshukla95/lme-precision-packing", "title": "lme precision packing",
-    "code_file": "precision-packing.ipynb", "language": "python", "kernel_type": "notebook",
+    "id": f"deepanjalshukla95/{KID}", "title": KID.replace("-", " "),
+    "code_file": f"{NB}.ipynb", "language": "python", "kernel_type": "notebook",
     "is_private": True, "enable_gpu": True, "enable_internet": True,
     "dataset_sources": [], "competition_sources": [], "kernel_sources": [],
 }, indent=1))
