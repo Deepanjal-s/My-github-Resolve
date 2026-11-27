@@ -134,7 +134,7 @@
  "paired|hybrid+exp prefix f=0.5|4000": {
   "fixed": 21,
   "broken": 13,
-  "p": 0.229,
+  "p": 0.22948101302608848,
   "multi_fixed": 4,
   "multi_broken": 3,
   "same_context": 165

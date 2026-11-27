@@ -134,7 +134,7 @@
  "paired|rerank+prior recent=0|4000": {
   "fixed": 34,
   "broken": 39,
-  "p": 0.64,
+  "p": 0.6399729317539424,
   "multi_fixed": 12,
   "multi_broken": 11,
   "same_context": 3
@@ -142,7 +142,7 @@
  "paired|rerank+prior recent=0|8000": {
   "fixed": 37,
   "broken": 40,
-  "p": 0.82,
+  "p": 0.8198929037490487,
   "multi_fixed": 11,
   "multi_broken": 17,
   "same_context": 0

@@ -111,8 +111,11 @@ PREF = ("I will give you a question, a rubric for desired personalized response,
         "response correct? Answer yes or no only.")
 
 def context_text(q, ids):
-    sdate = dict(zip(q["haystack_session_ids"], q["haystack_dates"]))
-    order = {sid: i for i, sid in enumerate(q["haystack_session_ids"])}
+    sdate = {}
+    order = {}
+    for i, (sid, date) in enumerate(zip(q["haystack_session_ids"], q["haystack_dates"])):
+        sdate.setdefault(sid, date)
+        order.setdefault(sid, i)
     turns = {}
     for sid, sess in zip(q["haystack_session_ids"], q["haystack_sessions"]):
         for t, turn in enumerate(sess):
@@ -226,6 +229,8 @@ nb.cells = [
     nbf.v4.new_code_cell(
         "import subprocess, os, torch\n"
         "W = max(1, torch.cuda.device_count())\n"
+        "with open('/kaggle/working/worker_count.txt', 'w') as f:\n"
+        "    f.write(str(W))\n"
         "procs = [subprocess.Popen(['python', '/kaggle/working/worker.py', str(i), str(W)],\n"
         "          env={**os.environ, 'CUDA_VISIBLE_DEVICES': str(i), 'PYTORCH_CUDA_ALLOC_CONF': 'expandable_segments:True'}) for i in range(W)]\n"
         "print([p.wait() for p in procs])\n"

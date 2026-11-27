@@ -75,6 +75,8 @@ nb.cells = [
     nbf.v4.new_code_cell(
         "import subprocess, os, torch\n"
         "W = max(1, torch.cuda.device_count())\n"
+        "with open('/kaggle/working/worker_count.txt', 'w') as f:\n"
+        "    f.write(str(W))\n"
         "procs = [subprocess.Popen(['python', '/kaggle/working/worker.py', str(i), str(W)],\n"
         "          env={**os.environ, 'CUDA_VISIBLE_DEVICES': str(i), 'PYTORCH_CUDA_ALLOC_CONF': 'expandable_segments:True'}) for i in range(W)]\n"
         "print([p.wait() for p in procs])\n"
