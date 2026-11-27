@@ -1,0 +1,31 @@
+{
+ "questions": 26,
+ "2000": {
+  "base": 11,
+  "date window": 12,
+  "fixed": 2,
+  "broken": 1,
+  "p": 1.0
+ },
+ "4000": {
+  "base": 14,
+  "date window": 15,
+  "fixed": 2,
+  "broken": 1,
+  "p": 1.0
+ },
+ "8000": {
+  "base": 14,
+  "date window": 18,
+  "fixed": 5,
+  "broken": 1,
+  "p": 0.2188
+ },
+ "16000": {
+  "base": 17,
+  "date window": 20,
+  "fixed": 4,
+  "broken": 1,
+  "p": 0.375
+ }
+}
