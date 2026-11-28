@@ -1,0 +1,38 @@
+{
+ "a": "top5 recent=0",
+ "b": "full recent=0",
+ "cells": {
+  "A_wins | A_all=False,B_all=False": 4,
+  "A_wins | A_all=False,B_all=True": 8,
+  "A_wins | A_all=True,B_all=True": 41,
+  "B_wins | A_all=False,B_all=False": 4,
+  "B_wins | A_all=False,B_all=True": 9,
+  "B_wins | A_all=True,B_all=True": 20
+ },
+ "both_contexts_hold_all_evidence": {
+  "n": 370,
+  "acc_a": 78.1,
+  "acc_b": 72.4,
+  "a_fixed": 41,
+  "a_broken": 20,
+  "p": 0.0099
+ },
+ "by_kind": {
+  "A_wins | knowledge-update": 8,
+  "A_wins | multi-session": 16,
+  "A_wins | single-session-assistant": 3,
+  "A_wins | single-session-preference": 5,
+  "A_wins | single-session-user": 7,
+  "A_wins | temporal-reasoning": 14,
+  "B_wins | knowledge-update": 5,
+  "B_wins | multi-session": 10,
+  "B_wins | single-session-assistant": 3,
+  "B_wins | single-session-preference": 2,
+  "B_wins | single-session-user": 2,
+  "B_wins | temporal-reasoning": 11
+ },
+ "mean_msgs": {
+  "a": 8.3,
+  "b": 29.7
+ }
+}
