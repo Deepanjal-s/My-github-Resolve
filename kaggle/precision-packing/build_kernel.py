@@ -28,21 +28,37 @@ role = {f"{sid}:{i}": m["role"] for q in raw for sid, sess in zip(q["haystack_se
         for i, m in enumerate(sess)}
 qtext = {q["question_id"]: q["question"] for q in raw}
 AA = re.compile(r"\byou\b.*\b(said|say|told|tell|mention|recommend|suggest|gave|give|list|provide|explain)", re.I)
-rank = {}
+rank, srt = {}, {}
 for cid, ids in kw.items():
     top = ids[:N]; b = 0.0 if AA.search(qtext[cid]) else B
     s = [scores[cid][j] + (b if role[i] == "user" else 0.0) for j, i in enumerate(top)]
     rank[cid] = [top[j] for j in sorted(range(len(top)), key=lambda j: (-s[j], j))] + ids[N:]
+    srt[cid] = sorted(s, reverse=True)
 
 convs = load_longmemeval(DATA)
 ARMS = [("control recent=0.5", None, 0.5, 4000)] + [(f"top{k} recent=0", k, 0.0, 8000) for k in (5, 10, 20)]
 KID, NB = "lme-precision-packing", "precision-packing"
 if "--matched" in sys.argv:  # Codex review: matched comparator = full ranking, same 8k cap, no recent window
     ARMS, KID, NB = [("full recent=0", None, 0.0, 8000)], "lme-precision-packing-matched", "precision-packing-matched"
+if "--adaptive" in sys.argv:  # variable k: keep hits scoring within d of the best hit (1..20), vs fixed k at a similar mean
+    ARMS = [("top3 recent=0", 3, 0.0, 8000), ("top5 recent=0", 5, 0.0, 8000),
+            ("cut4 recent=0", ("cut", 4.0), 0.0, 8000), ("cut6 recent=0", ("cut", 6.0), 0.0, 8000)]
+    KID, NB = "lme-precision-packing-adaptive", "precision-packing-adaptive"
+
+
+def keep(c, k):
+    if k is None:
+        return len(rank[c])
+    if isinstance(k, tuple):
+        v = srt[c]
+        return min(20, max(1, sum(x >= v[0] - k[1] for x in v)))
+    return k
+
+
 rows = []
 for name, k, share, budget in ARMS:
     rp = HERE / "ranking.json"
-    rp.write_text(json.dumps({c: (ids if k is None else ids[:k]) for c, ids in rank.items()}))
+    rp.write_text(json.dumps({c: ids[:keep(c, k)] for c, ids in rank.items()}))
     a = RankedFromFile(str(rp), convs, name=name, recent_share=share, pair=True)
     rp.unlink()
     for c in convs:
@@ -90,7 +106,7 @@ nb.cells = [
 ]
 nb["metadata"] = {"kernelspec": {"name": "python3", "display_name": "Python 3", "language": "python"},
                   "language_info": {"name": "python"}}
-d = HERE / ("kernel" if NB == "precision-packing" else "kernel-matched"); d.mkdir(exist_ok=True)
+d = HERE / {"precision-packing": "kernel", "precision-packing-matched": "kernel-matched"}.get(NB, "kernel-adaptive"); d.mkdir(exist_ok=True)
 nbf.write(nb, d / f"{NB}.ipynb")
 (d / "kernel-metadata.json").write_text(json.dumps({
     "id": f"deepanjalshukla95/{KID}", "title": KID.replace("-", " "),
